@@ -1974,12 +1974,12 @@
               {
                 "min_level": 8,
                 "max_level": 8,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 7,
                 "max_level": 7,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 8,
@@ -1989,7 +1989,7 @@
               {
                 "min_level": 9,
                 "max_level": 9,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 8,
@@ -1999,12 +1999,12 @@
               {
                 "min_level": 10,
                 "max_level": 10,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 6,
                 "max_level": 6,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 7,
@@ -2068,12 +2068,12 @@
               {
                 "min_level": 10,
                 "max_level": 10,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 11,
                 "max_level": 11,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 10,
@@ -2201,7 +2201,7 @@
               {
                 "min_level": 36,
                 "max_level": 36,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 38,
@@ -2507,7 +2507,7 @@
               {
                 "min_level": 10,
                 "max_level": 20,
-                "species": "SPECIES_NOSEPASS"
+                "species": "SPECIES_ONIX"
               },
               {
                 "min_level": 5,
@@ -2551,7 +2551,7 @@
               {
                 "min_level": 15,
                 "max_level": 15,
-                "species": "SPECIES_MACHOP"
+                "species": "SPECIES_MAGMAR"
               },
               {
                 "min_level": 15,
@@ -2571,7 +2571,7 @@
               {
                 "min_level": 16,
                 "max_level": 16,
-                "species": "SPECIES_MACHOP"
+                "species": "SPECIES_MAGMAR"
               },
               {
                 "min_level": 14,
@@ -2769,7 +2769,7 @@
               {
                 "min_level": 21,
                 "max_level": 21,
-                "species": "SPECIES_MACHOP"
+                "species": "SPECIES_MAGMAR"
               },
               {
                 "min_level": 20,
@@ -2784,7 +2784,7 @@
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_MACHOP"
+                "species": "SPECIES_MAGMAR"
               },
               {
                 "min_level": 21,
@@ -2794,7 +2794,7 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_MACHOP"
+                "species": "SPECIES_MAGMAR"
               },
               {
                 "min_level": 22,
@@ -4600,12 +4600,12 @@
               {
                 "min_level": 8,
                 "max_level": 8,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 7,
                 "max_level": 7,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 8,
@@ -4615,7 +4615,7 @@
               {
                 "min_level": 9,
                 "max_level": 9,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 8,
@@ -4625,12 +4625,12 @@
               {
                 "min_level": 10,
                 "max_level": 10,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 6,
                 "max_level": 6,
-                "species": "SPECIES_MAKUHITA"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 7,
@@ -7385,7 +7385,7 @@
               {
                 "min_level": 38,
                 "max_level": 38,
-                "species": "SPECIES_MAWILE"
+                "species": "SPECIES_TOGEPI"
               },
               {
                 "min_level": 42,
@@ -7395,7 +7395,7 @@
               {
                 "min_level": 38,
                 "max_level": 38,
-                "species": "SPECIES_MAWILE"
+                "species": "SPECIES_TOGEPI"
               }
             ]
           },
@@ -7484,7 +7484,7 @@
               {
                 "min_level": 42,
                 "max_level": 42,
-                "species": "SPECIES_MAWILE"
+                "species": "SPECIES_TOGEPI"
               },
               {
                 "min_level": 44,
@@ -7494,7 +7494,7 @@
               {
                 "min_level": 44,
                 "max_level": 44,
-                "species": "SPECIES_MAWILE"
+                "species": "SPECIES_TOGEPI"
               }
             ]
           },
