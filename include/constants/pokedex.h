@@ -1067,7 +1067,7 @@ enum NationalDexOrder
 enum HoennDexOrder
 {
     HOENN_DEX_NONE,
-    HOENN_DEX_TREECKO,
+    HOENN_DEX_CHESPIN,
     HOENN_DEX_GROVYLE,
     HOENN_DEX_SCEPTILE,
     HOENN_DEX_TORCHIC,
