@@ -105,12 +105,12 @@
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_RATATTA"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_RATATTA"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 3,
@@ -120,7 +120,7 @@
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_RATATTA"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 2,
@@ -159,7 +159,7 @@
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_WURMPLE"
+                "species": "SPECIES_CATERPIE"
               },
               {
                 "min_level": 4,
