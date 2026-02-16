@@ -2541,7 +2541,7 @@
               {
                 "min_level": 15,
                 "max_level": 15,
-                "species": "SPECIES_KOFFING"
+                "species": "SPECIES_PONYTA"
               },
               {
                 "min_level": 16,
@@ -2566,7 +2566,7 @@
               {
                 "min_level": 16,
                 "max_level": 16,
-                "species": "SPECIES_KOFFING"
+                "species": "SPECIES_PONYTA"
               },
               {
                 "min_level": 16,
@@ -2779,7 +2779,7 @@
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_SPOINK"
+                "species": "SPECIES_CYCLIZAR"
               },
               {
                 "min_level": 20,
@@ -2789,7 +2789,7 @@
               {
                 "min_level": 21,
                 "max_level": 21,
-                "species": "SPECIES_SPOINK"
+                "species": "SPECIES_CYCLIZAR"
               },
               {
                 "min_level": 22,
@@ -2804,7 +2804,7 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_SPOINK"
+                "species": "SPECIES_CYCLIZAR"
               },
               {
                 "min_level": 22,
@@ -2814,7 +2814,7 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_SPOINK"
+                "species": "SPECIES_CYCLIZAR"
               }
             ]
           }
@@ -9499,17 +9499,17 @@
               {
                 "min_level": 38,
                 "max_level": 38,
-                "species": "SPECIES_ALTARIA"
+                "species": "SPECIES_SHUCKLE"
               },
               {
                 "min_level": 39,
                 "max_level": 39,
-                "species": "SPECIES_ALTARIA"
+                "species": "SPECIES_SHUCKLE"
               },
               {
                 "min_level": 39,
                 "max_level": 39,
-                "species": "SPECIES_ALTARIA"
+                "species": "SPECIES_SHUCKLE"
               }
             ]
           }
@@ -11993,7 +11993,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               },
               {
                 "min_level": 5,
@@ -12023,7 +12023,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               },
               {
                 "min_level": 5,
@@ -12043,7 +12043,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               }
             ]
           }
@@ -12061,7 +12061,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               },
               {
                 "min_level": 5,
@@ -12091,7 +12091,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               },
               {
                 "min_level": 5,
@@ -12111,7 +12111,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               }
             ]
           }
@@ -12129,7 +12129,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               },
               {
                 "min_level": 5,
@@ -12159,7 +12159,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               },
               {
                 "min_level": 5,
@@ -12179,7 +12179,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               }
             ]
           }
@@ -12197,7 +12197,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               },
               {
                 "min_level": 5,
@@ -12227,7 +12227,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               },
               {
                 "min_level": 5,
@@ -12247,7 +12247,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MILOTIC"
+                "species": "SPECIES_WAILORD"
               }
             ]
           }
