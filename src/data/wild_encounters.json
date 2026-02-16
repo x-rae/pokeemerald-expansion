@@ -1157,7 +1157,7 @@
               {
                 "min_level": 16,
                 "max_level": 16,
-                "species": "SPECIES_SKARMORY"
+                "species": "SPECIES_KLINK"
               },
               {
                 "min_level": 16,
@@ -1167,7 +1167,7 @@
               {
                 "min_level": 16,
                 "max_level": 16,
-                "species": "SPECIES_SKARMORY"
+                "species": "SPECIES_KLINK"
               }
             ]
           }
@@ -1236,7 +1236,7 @@
               {
                 "min_level": 15,
                 "max_level": 15,
-                "species": "SPECIES_NUZLEAF"
+                "species": "SPECIES_EXEGGCUTE"
               }
             ]
           },
@@ -1370,7 +1370,7 @@
               {
                 "min_level": 6,
                 "max_level": 6,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 6,
@@ -1380,7 +1380,7 @@
               {
                 "min_level": 7,
                 "max_level": 7,
-                "species": "SPECIES_ABRA"
+                "species": "SPECIES_SMOLIV"
               },
               {
                 "min_level": 7,
@@ -1464,27 +1464,27 @@
               {
                 "min_level": 13,
                 "max_level": 13,
-                "species": "SPECIES_ILLUMISE"
+                "species": "SPECIES_THROH"
               },
               {
                 "min_level": 13,
                 "max_level": 13,
-                "species": "SPECIES_ILLUMISE"
+                "species": "SPECIES_THROH"
               },
               {
                 "min_level": 14,
                 "max_level": 14,
-                "species": "SPECIES_ILLUMISE"
+                "species": "SPECIES_THROH"
               },
               {
                 "min_level": 14,
                 "max_level": 14,
-                "species": "SPECIES_ILLUMISE"
+                "species": "SPECIES_THROH"
               },
               {
                 "min_level": 13,
                 "max_level": 13,
-                "species": "SPECIES_VOLBEAT"
+                "species": "SPECIES_SAWK"
               },
               {
                 "min_level": 13,
@@ -1900,62 +1900,62 @@
               {
                 "min_level": 6,
                 "max_level": 6,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 7,
                 "max_level": 7,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 6,
                 "max_level": 6,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 6,
                 "max_level": 6,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 7,
                 "max_level": 7,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 7,
                 "max_level": 7,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 8,
                 "max_level": 8,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 8,
                 "max_level": 8,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 8,
                 "max_level": 8,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               }
             ]
           }
@@ -1994,7 +1994,7 @@
               {
                 "min_level": 8,
                 "max_level": 8,
-                "species": "SPECIES_ABRA"
+                "species": "SPECIES_SMOLIV"
               },
               {
                 "min_level": 10,
@@ -2063,7 +2063,7 @@
               {
                 "min_level": 9,
                 "max_level": 9,
-                "species": "SPECIES_ABRA"
+                "species": "SPECIES_SMOLIV"
               },
               {
                 "min_level": 10,
@@ -2181,7 +2181,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_HARIYAMA"
+                "species": "SPECIES_HITMONLEE"
               },
               {
                 "min_level": 40,
@@ -2191,7 +2191,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_LOUDRED"
+                "species": "SPECIES_KANGASKHAN"
               },
               {
                 "min_level": 36,
@@ -2211,7 +2211,7 @@
               {
                 "min_level": 38,
                 "max_level": 38,
-                "species": "SPECIES_HARIYAMA"
+                "species": "SPECIES_HITMONLEE"
               },
               {
                 "min_level": 36,
@@ -2221,7 +2221,7 @@
               {
                 "min_level": 36,
                 "max_level": 36,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 36,
@@ -2231,7 +2231,7 @@
               {
                 "min_level": 36,
                 "max_level": 36,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               }
             ]
           }
@@ -2462,7 +2462,7 @@
               {
                 "min_level": 10,
                 "max_level": 10,
-                "species": "SPECIES_ABRA"
+                "species": "SPECIES_SMOLIV"
               },
               {
                 "min_level": 10,
@@ -4620,7 +4620,7 @@
               {
                 "min_level": 8,
                 "max_level": 8,
-                "species": "SPECIES_ABRA"
+                "species": "SPECIES_SMOLIV"
               },
               {
                 "min_level": 10,
@@ -7345,7 +7345,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_HARIYAMA"
+                "species": "SPECIES_HITMONCHAN"
               },
               {
                 "min_level": 40,
@@ -7365,7 +7365,7 @@
               {
                 "min_level": 38,
                 "max_level": 38,
-                "species": "SPECIES_HARIYAMA"
+                "species": "SPECIES_HITMONCHAN"
               },
               {
                 "min_level": 42,
@@ -7375,7 +7375,7 @@
               {
                 "min_level": 42,
                 "max_level": 42,
-                "species": "SPECIES_HARIYAMA"
+                "species": "SPECIES_HITMONTOP"
               },
               {
                 "min_level": 42,
@@ -10609,7 +10609,7 @@
               {
                 "min_level": 35,
                 "max_level": 35,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 40,
@@ -10619,7 +10619,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_LOUDRED"
+                "species": "SPECIES_KANGASKHAN"
               },
               {
                 "min_level": 41,
@@ -10629,12 +10629,12 @@
               {
                 "min_level": 36,
                 "max_level": 36,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 38,
                 "max_level": 38,
-                "species": "SPECIES_LOUDRED"
+                "species": "SPECIES_KANGASKHAN"
               },
               {
                 "min_level": 42,
@@ -10644,7 +10644,7 @@
               {
                 "min_level": 38,
                 "max_level": 38,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 43,
@@ -10654,7 +10654,7 @@
               {
                 "min_level": 44,
                 "max_level": 44,
-                "species": "SPECIES_LOUDRED"
+                "species": "SPECIES_KANGASKHAN"
               },
               {
                 "min_level": 45,
