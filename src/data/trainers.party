@@ -10757,7 +10757,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 === TRAINER_LILITH ===
 Name: LILITH
 Class: Pkmn Ranger
-Pic: Pkmn Ranger
+Pic: Pokemon Ranger F
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -10775,7 +10775,7 @@ Tera Type: Fairy
 === TRAINER_CRISTIAN ===
 Name: CRISTIAN
 Class: Pkmn Ranger
-Pic: Black Belt
+Pic: Pokemon Ranger M
 Gender: Male
 Music: Intense
 Double Battle: No
