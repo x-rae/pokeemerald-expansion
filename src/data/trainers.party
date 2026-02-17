@@ -1496,15 +1496,15 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Sableye
+Flareon
 Level: 44
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Medicham
+Vaporeon
 Level: 44
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Sharpedo
+Jolteon
 Level: 44
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1518,7 +1518,7 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Mawile
+Skarmory
 Level: 46
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1536,15 +1536,15 @@ Items: Super Potion
 Double Battle: No
 AI: Basic Trainer
 
-Electrike
+Blitzle
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Wailmer
+Cranidos
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Makuhita
+Slugma
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1558,11 +1558,11 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Cacturne
+Darumaka
 Level: 43
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Pelipper
+Gyarados
 Level: 43
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1576,7 +1576,7 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Magneton
+Magnezone
 Level: 43
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1594,15 +1594,15 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Swellow
+Staraptor
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Mawile
+Bibarel
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Kadabra
+Golem
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1616,11 +1616,11 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Dodrio
+Aggron
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Kadabra
+Alakazam
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1628,7 +1628,7 @@ Electrode
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Shiftry
+Tropius
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1642,11 +1642,11 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Kecleon
+Ditto
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Graveler
+Golem
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1664,15 +1664,15 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Electrike
+Luxio
 Level: 26
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
-Wailmer
+Tentacool
 Level: 26
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
-Makuhita
+Machoke
 Level: 26
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
@@ -1690,7 +1690,7 @@ Manectric
 Level: 29
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
-Wailmer
+Quagsire
 Level: 29
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
@@ -1752,11 +1752,19 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Graveler
+Quagsire
 Level: 33
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Ludicolo
+Gastrodon
+Level: 33
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Whiscash
+Level: 33
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Nidoqueen
 Level: 33
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1770,11 +1778,13 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Delcatty
+Snorlax @ Chesto Berry
 Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Feint Attack
-- Shock Wave
+ - Rest
+ - Sleep Talk 
+ - Body Slam
+ - Counter
 
 === TRAINER_ALEXIA ===
 Name: ALEXIA
@@ -1803,11 +1813,9 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
-Zangoose
+Tauros
 Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Swords Dance
-- Slash
 
 === TRAINER_WENDY ===
 Name: WENDY
@@ -1819,7 +1827,7 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
-Mawile
+Absol
 Level: 29
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Baton Pass
@@ -1827,7 +1835,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Fake Tears
 - Bite
 
-Roselia
+Roserade
 Level: 29
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Mega Drain
@@ -1853,11 +1861,11 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
-Lairon
+Aggron
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Manectric
+Luxray
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1871,15 +1879,15 @@ Items: Super Potion
 Double Battle: No
 AI: Basic Trainer
 
-wooper
+Wooper
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Numel
+Houndour
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Roselia
+Tropius
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1893,7 +1901,15 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Sableye
+Spiritomb
+Level: 30
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Spiritomb
+Level: 30
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Spiritomb
 Level: 30
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
@@ -1907,7 +1923,15 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Roselia
+Leafeon
+Level: 45
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Glaceon
+Level: 45
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Sylveon
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1921,7 +1945,7 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Claydol
+Ursaluna
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1935,11 +1959,11 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Torkoal
+Armarouge
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Medicham
+Porygon-Z
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1957,11 +1981,11 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Skarmory
+Zoroark
 Level: 43
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Sableye
+Skarmory
 Level: 43
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -1997,15 +2021,15 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-wooper
+Wooper
 Level: 26
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
-Numel
+Magcargo
 Level: 26
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
-Roselia
+Cacturne
 Level: 26
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
@@ -2019,15 +2043,15 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Pelipper
+Lickilicky
 Level: 29
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
-Numel
+Vanilluxe
 Level: 29
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
-Roselia
+Sinistcha
 Level: 29
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
@@ -2084,13 +2108,17 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Banette
+Lickilicky
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
-Lunatone
+Vanilluxe
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+
+Sinistcha
+Level: 41
+IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_KINDRA ===
 Name: KINDRA
@@ -2101,11 +2129,11 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Duskull
+Mimikyu
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Shuppet
+Brambleghast
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2118,11 +2146,11 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Duskull
+Golurk
 Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Shuppet
+Brambleghast
 Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2135,7 +2163,7 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Sableye
+Mismagius
 Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2148,7 +2176,7 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Shuppet
+Palossand
 Level: 32
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -2161,11 +2189,11 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Sableye
+Drifblim
 Level: 31
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Spoink
+Dusknoir
 Level: 31
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -2178,11 +2206,11 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Spoink
+Kadabra
 Level: 35
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
-Sableye
+Trevenant
 Level: 35
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
@@ -2195,11 +2223,11 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Spoink
+Drakloak
 Level: 40
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Sableye
+Gengar
 Level: 40
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
@@ -2212,11 +2240,11 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Duskull
+Dusclops
 Level: 42
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
-Sableye
+Spiritomb
 Level: 42
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
@@ -2248,21 +2276,13 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Luvdisc @ Nugget
+Seaking @ Nugget
 Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Attract
-- Sweet Kiss
-- Flail
-- Water Pulse
 
-Luvdisc @ Nugget
+Tentacruel @ Nugget
 Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Attract
-- Safeguard
-- Take Down
-- Water Pulse
 
 === TRAINER_GRUNT_SPACE_CENTER_2 ===
 Name: GRUNT
@@ -2273,15 +2293,15 @@ Music: Magma
 Double Battle: No
 AI: Basic Trainer
 
-Mightyena
+Houndour
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Mightyena
+Houndoom
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Numel
+Lairon
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
