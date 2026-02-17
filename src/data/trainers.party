@@ -1781,10 +1781,10 @@ AI: Basic Trainer
 Snorlax @ Chesto Berry
 Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
- - Rest
- - Sleep Talk 
- - Body Slam
- - Counter
+- Rest
+- Sleep Talk 
+- Body Slam
+- Counter
 
 === TRAINER_ALEXIA ===
 Name: ALEXIA
