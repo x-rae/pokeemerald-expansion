@@ -618,9 +618,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Hariyama
-Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Annihilape @ Assault Vest  
+Ability: Defiant  
+Level: 31  
+Tera Type: Fighting  
+- Rage Fist
 
 === TRAINER_SHELLY_WEATHER_INSTITUTE ===
 Name: SHELLY
@@ -631,13 +633,25 @@ Music: Aqua
 Double Battle: No
 AI: Basic Trainer
 
-Carvanha
-Level: 28
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Castform @ Damp Rock  
+Ability: Forecast  
+Level: 28  
+Tera Type: Normal  
+IVs: 0 Atk  
+- Rain Dance  
+- Weather Ball  
+- Scald  
+- Energy Ball
 
-Mightyena
-Level: 28
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Porygon-Z @ Leftovers  
+Ability: Analytic  
+Level: 28  
+Tera Type: Normal  
+IVs: 0 Atk  
+- Discharge  
+- Tri Attack  
+- Rain Dance  
+- Weather Ball
 
 === TRAINER_SHELLY_SEAFLOOR_CAVERN ===
 Name: SHELLY
@@ -648,11 +662,15 @@ Music: Aqua
 Double Battle: No
 AI: Basic Trainer
 
-Sharpedo
+Articuno
 Level: 37
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Mightyena
+Zapdos
+Level: 37
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Moltres
 Level: 37
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -666,17 +684,41 @@ Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
-Mightyena
-Level: 41
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Ludicolo @ Damp Rock  
+Ability: Rain Dish  
+Level: 41  
+Tera Type: Water  
+IVs: 0 Atk  
+- Rain Dance  
+- Leech Seed  
+- Surf  
+- Giga Drain
 
-Crobat
-Level: 41
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Scizor  
+Ability: Swarm  
+Level: 41  
+Tera Type: Bug  
+- Bug Bite  
+- Metal Claw  
+- Agility  
+- Quick Attack
 
-Sharpedo
-Level: 43
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Kingdra @ Mystic Water  
+Ability: Swift Swim  
+Level: 41  
+Tera Type: Water  
+IVs: 0 Atk  
+- Surf  
+- Dragon Pulse
+
+Poliwrath  
+Ability: Swift Swim  
+Level: 43  
+Tera Type: Water  
+- Drain Punch  
+- Liquidation  
+- Earthquake  
+- Ice Punch
 
 === TRAINER_LEAH ===
 Name: LEAH
@@ -687,7 +729,7 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Spoink
+Gengar
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -700,11 +742,11 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Shroomish
+Butterfree
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Roselia
+Floette
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -717,15 +759,15 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Roselia
+Floette
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Shroomish
+Carnivine
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Roselia
+Dolliv
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -739,16 +781,24 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Medicham
-Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Psychic
+Ceruledge  
+Ability: Flash Fire  
+Level: 43  
+Tera Type: Fire  
+- Bitter Blade  
+- Destiny Bond  
+- Shadow Sneak  
+- Will-O-Wisp
 
-Claydol
-Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Skill Swap
-- Earthquake
+Armarouge  
+Ability: Weak Armor  
+Level: 43  
+Tera Type: Fire  
+IVs: 0 Atk  
+- Armor Cannon  
+- Aura Sphere  
+- Destiny Bond  
+- Psychic
 
 === TRAINER_VIOLET ===
 Name: VIOLET
@@ -759,11 +809,11 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Roselia
+Flapple
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Gloom
+Tangrowth
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -776,11 +826,11 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Shroomish
+Venomoth
 Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Roselia
+Poliwhirl
 Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -856,7 +906,7 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Sandslash
+Aron
 Level: 23
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Dig
@@ -873,7 +923,7 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Baltoy
+Claydol
 Level: 27
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Psybeam
@@ -881,7 +931,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Sandstorm
 - Ancient Power
 
-Sandshrew
+Lairon
 Level: 27
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Dig
@@ -889,13 +939,13 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Sand Attack
 - Poison Sting
 
-Sandslash
+Graveler
 Level: 27
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Dig
 - Slash
 - Sand Attack
-- Poison Sting
+- Fissure
 
 === TRAINER_FOSTER ===
 Name: FOSTER
@@ -906,21 +956,19 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Sandshrew
+Diglett
 Level: 25
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Dig
 - Slash
 - Sand Attack
-- Poison Sting
 
-Sandslash
+Diglett
 Level: 25
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Dig
 - Slash
 - Sand Attack
-- Poison Sting
 
 === TRAINER_DUSTY_2 ===
 Name: DUSTY
@@ -931,13 +979,12 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Sandslash
+Dugtrio
 Level: 27
 IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
-- Dig
-- Slash
+- Earthquake
+- Headbutt
 - Sand Attack
-- Poison Sting
 
 === TRAINER_DUSTY_3 ===
 Name: DUSTY
@@ -948,13 +995,12 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Sandslash
-Level: 30
-IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
-- Dig
-- Slash
+Dugtrio
+Level: 35
+IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
+- Earthquake
+- Headbutt
 - Sand Attack
-- Poison Sting
 
 === TRAINER_DUSTY_4 ===
 Name: DUSTY
@@ -965,13 +1011,12 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Sandslash
-Level: 33
-IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
-- Dig
-- Slash
+Dugtrio
+Level: 38
+IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
+- Earthquake
+- Headbutt
 - Sand Attack
-- Poison Sting
 
 === TRAINER_DUSTY_5 ===
 Name: DUSTY
@@ -982,13 +1027,12 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Sandslash
-Level: 36
-IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
-- Dig
-- Slash
+Dugtrio
+Level: 45
+IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
+- Earthquake
+- Headbutt
 - Sand Attack
-- Poison Sting
 
 === TRAINER_GABBY_AND_TY_1 ===
 Name: GABBY & TY
@@ -1109,11 +1153,11 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Azurill
+Horsea
 Level: 12
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Azurill
+Horsea
 Level: 12
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -1126,7 +1170,7 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Marill
+Seadra
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -1139,7 +1183,7 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Marill
+Lapras
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -1152,11 +1196,11 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Marill
+Gyarados
 Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Marill
+Quagsire
 Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -1237,11 +1281,11 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Azurill
+Poliwag
 Level: 12
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Marill
+Poliwhirl
 Level: 12
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -1254,7 +1298,7 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Marill
+Tentacruel
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -1336,12 +1380,13 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Swellow
+Staravia
 Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Quick Attack
 - Agility
 - Wing Attack
+- Endeavor
 
 === TRAINER_PARKER ===
 Name: PARKER
@@ -1353,12 +1398,9 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Spinda
+Snorlax
 Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Teeter Dance
-- Dizzy Punch
-- Focus Punch
 
 === TRAINER_GEORGE ===
 Name: GEORGE
@@ -1370,12 +1412,12 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Slakoth @ Sitrus Berry
+Machoke @ Sitrus Berry
 Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Slack Off
+- Submission
 - Counter
-- Shadow Ball
+- Detect
 
 === TRAINER_BERKE ===
 Name: BERKE
@@ -1387,11 +1429,12 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Vigoroth
+Persian
 Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Focus Energy
 - Slash
+- Fake Out
 
 === TRAINER_BRAXTON ===
 Name: BRAXTON
@@ -1403,21 +1446,21 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Swellow
+Staraptor
 Level: 28
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Focus Energy
+- Close Combat
 - Quick Attack
-- Wing Attack
+- Aerial Ace
 - Endeavor
 
-Trapinch
+Rhydon
 Level: 28
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Bite
-- Dig
-- Feint Attack
-- Sand Tomb
+- Take Down
+- Horn Attack
+- Bulldoze
+- Rock Slide
 
 Wailmer
 Level: 28
@@ -1435,7 +1478,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Thunder Wave
 - Sonic Boom
 
-Shiftry
+Carnivine
 Level: 28
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Giga Drain
