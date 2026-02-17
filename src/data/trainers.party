@@ -16768,17 +16768,18 @@ IVs: 0 Atk
 - Flamethrower  
 - Draco Meteor
 
-Iron Bundle @ Choice Specs  
-Ability: Quark Drive  
+Mewtwo @ Life Orb  
+Ability: Pressure  
 Level: 81  
-Tera Type: Ice  
+Shiny: Yes  
+Tera Type: Psychic  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Freeze-Dry  
+- Aura Sphere  
+- Psystrike  
 - Ice Beam  
-- Hydro Pump  
-- Blizzard
+- Power Gem
 
 === TRAINER_GABRIELLE_2 ===
 Name: GABRIELLE
