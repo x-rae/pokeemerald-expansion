@@ -7997,13 +7997,13 @@ Stantler
 Level: 13
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
-Wydeer
+Wyrdeer
 Level: 13
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_LAURA ===
 Name: LAURA
-Class: School Kid F
+Class: School Kid
 Pic: School Kid F
 Gender: Female
 Music: Intense
@@ -10715,8 +10715,8 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MARC ===
 Name: Mr. Beast
-Class: Tuber
-Pic: Tuber_M
+Class: Tuber M
+Pic: Tuber M
 Gender: Male
 Music: Intense
 Double Battle: No
@@ -10743,8 +10743,8 @@ IVs: 0 Atk
 
 === TRAINER_BRENDEN ===
 Name: BRENDEN
-Class: Pkmn Ranger
-Pic: Pkmn Ranger
+Class: Cooltrainer
+Pic: Cooltrainer M
 Gender: Male
 Music: Male
 Double Battle: No
