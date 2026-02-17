@@ -5988,10 +5988,14 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
-Level: 10
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
+Chewtle  
+Ability: Strong Jaw  
+Level: 10  
+Tera Type: Water  
+EVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe  
+- Bite  
+- Water Pulse  
+- Headbutt
 
 === TRAINER_TOMMY ===
 Name: TOMMY
@@ -6002,13 +6006,23 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
-Level: 8
-IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
+Wooper  
+Ability: Water Absorb  
+Level: 8  
+Tera Type: Water  
+EVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe  
+IVs: 0 Atk  
+- Mud-Slap  
+- Water Gun  
+- Yawn  
+- Rain Dance
 
-Geodude
-Level: 8
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Poliwhirl  
+Ability: Swift Swim  
+Level: 8  
+Tera Type: Water  
+- Belly Drum  
+- Pound
 
 === TRAINER_JOEY ===
 Name: JOEY
@@ -10561,21 +10575,32 @@ Level: 22
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MARC ===
-Name: MARC
-Class: Hiker
-Pic: Hiker
+Name: Mr. Beast
+Class: Tuber
+Pic: Tuber M
 Gender: Male
-Music: Hiker
+Music: Magma
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
-Level: 8
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Wailmer  
+Ability: Oblivious  
+Level: 8  
+Tera Type: Water  
+- Rain Dance  
+- Rollout  
+- Defense Curl  
+- Water Gun
 
-Geodude
-Level: 8
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+Vaporeon  
+Ability: Water Absorb  
+Level: 8  
+Tera Type: Water  
+IVs: 0 Atk  
+- Tickle  
+- Substitute  
+- Aqua Ring  
+- Water Gun
 
 === TRAINER_BRENDEN ===
 Name: BRENDEN
