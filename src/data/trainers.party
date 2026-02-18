@@ -2397,17 +2397,49 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Sand Attack
 
 === TRAINER_MELISSA ===
-Name: MELISSA
-Class: Beauty
-Pic: Beauty
-Gender: Female
-Music: Female
+Name: Rae
+Class: Gentleman
+Pic: Gentleman
+Gender: Male
+Music: Rich
 Double Battle: No
 AI: Basic Trainer
 
-Azumarill
-Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Quilava @ Charcoal  
+Ability: Blaze  
+Level: 20    
+IVs: 0 Atk  
+- Incinerate  
+- Will-O-Wisp  
+- Smokescreen  
+- Substitute
+
+Dartrix  
+Ability: Long Reach  
+Level: 20   
+- Air Cutter  
+- Razor Leaf  
+- Swift  
+- Tailwind
+
+Buizel  
+Ability: Swift Swim  
+Level: 22  
+- Flip Turn  
+- Aqua Jet  
+- Icy Wind  
+- Bite
+
+Luxio  
+Ability: Intimidate
+Level: 24 
+Shiny: Yes   
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Bite  
+- Double Kick  
+- Spark  
+- Helping Hand
 
 === TRAINER_SHEILA ===
 Name: SHEILA
@@ -2465,7 +2497,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Goldeen
+Cloyster
 Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -2499,18 +2531,16 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Rain Dance
 - Water Pulse
 
-Corphish
+Crawdaunt
 Level: 37
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Taunt
 - Crabhammer
-- Water Pulse
 
-Lombre
+Ludicolo
 Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Uproar
-- Fury Swipes
+- Leech Seed
 - Fake Out
 - Water Pulse
 
@@ -2523,11 +2553,11 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Carvanha
+Dhelmise
 Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Sharpedo
+Jellicent
 Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -2641,9 +2671,11 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Zigzagoon @ Nugget
+Gimmighoul @ Nugget
 Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Pay Day
+- Astonish
 
 === TRAINER_MOLLIE ===
 Name: MOLLIE
@@ -2654,11 +2686,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Whiscash
+Carracosta
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Meditite
+Archeops
 Level: 33
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
@@ -2672,9 +2704,12 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Azumarill @ Nugget
+Gholdengo @ Nugget
 Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Pay Day
+- Make It Rain
+- Shadow Ball
 
 === TRAINER_WINSTON_2 ===
 Name: WINSTON
@@ -2745,7 +2780,7 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Aron
+Yamask
 Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2758,11 +2793,11 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Wailmer
+Seadra
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Horsea
+Dragonair
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2775,7 +2810,7 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Rhyhorn
+Rhyperior
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2788,7 +2823,11 @@ Music: Magma
 Double Battle: No
 AI: Basic Trainer
 
-Numel
+Slugma
+Level: 20
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Charmeleon
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2865,7 +2904,11 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Carvanha
+Azumarill
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Exeggutor
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2878,7 +2921,7 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Tentacool
+Tentacruel
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2895,8 +2938,8 @@ Tentacool
 Level: 24
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Tentacool
-Level: 24
+Tentacruel
+Level: 28
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DARRIN ===
@@ -2908,7 +2951,7 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Tentacool
+Lombre
 Level: 24
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -2916,7 +2959,7 @@ Gyarados
 Level: 24
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Tentacool
+Jellicent
 Level: 24
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -2929,7 +2972,11 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Carvanha
+Fidough
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Exeggutor
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2942,8 +2989,12 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Tentacruel
+Seadra
 Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Kingdra
+Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MATTHEW ===
@@ -2955,7 +3006,11 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Carvanha
+Seadra
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Seaking
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2968,11 +3023,19 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Tentacool
+Wartortle
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Carvanha
+Prinplup
+Level: 25
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Marshtomp
+Level: 25
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Croconaw
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2985,7 +3048,7 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Tentacool
+Tentacruel
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3002,7 +3065,11 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Carvanha
+Blastoise
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Samurott
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3014,6 +3081,14 @@ Gender: Male
 Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
+
+Tentacruel
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Tentacruel
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Tentacruel
 Level: 34
@@ -3032,6 +3107,14 @@ Horsea
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Seadra
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Kingdra
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_BARRY ===
 Name: BARRY
 Class: Swimmer M
@@ -3045,6 +3128,10 @@ Gyarados
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Empoleon
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_DEAN ===
 Name: DEAN
 Class: Swimmer M
@@ -3054,7 +3141,7 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Carvanha
+Gastrodon
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3062,7 +3149,7 @@ Gyarados
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Carvanha
+Sharpedo
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3075,8 +3162,12 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Gyarados
+Dragonair
 Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Dragonite
+Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RICHARD ===
@@ -3092,6 +3183,14 @@ Pelipper
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Gyarados
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Mantine
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_HERMAN ===
 Name: HERMAN
 Class: Swimmer M
@@ -3101,11 +3200,15 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
+Barraskewda
+Level: 30
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
 Gyarados
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Tentacruel
+Floatzel
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3122,7 +3225,7 @@ Tentacruel
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wailmer
+Wailord
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3135,7 +3238,11 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Sharpedo
+Barraskewda
+Level: 30
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
+Dewgong
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3148,7 +3255,15 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Sealeo
+Lapras
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Dewgong
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Walrein
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3161,7 +3276,15 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Spheal
+Surskit
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Araquanid
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Golisopod
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3178,6 +3301,10 @@ Gyarados
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Magikarp
+Level: 50
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_DUDLEY ===
 Name: DUDLEY
 Class: Swimmer M
@@ -3187,17 +3314,13 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Tentacool
-Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Sharpedo
+Level: 30
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Gyarados
-Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Tentacruel
-Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Octillery
+Level: 30
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CHAD ===
 Name: CHAD
@@ -3208,11 +3331,11 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Tentacool
+Walrein
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wailmer
+Wailord
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3229,6 +3352,10 @@ Sharpedo
 Level: 30
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
+Octillery
+Level: 30
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
 === TRAINER_TONY_3 ===
 Name: TONY
 Class: Swimmer M
@@ -3237,6 +3364,14 @@ Gender: Male
 Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
+
+Octillery
+Level: 30
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
+Barraskewda
+Level: 30
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Sharpedo
 Level: 33
@@ -3306,6 +3441,10 @@ Machoke
 Level: 32
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
+Machamp
+Level: 32
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
 === TRAINER_KIYO ===
 Name: KIYO
 Class: Black Belt
@@ -3315,9 +3454,13 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Hariyama
+Hawlucha
 Level: 34
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Flamigo
+Level: 34
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_KOICHI ===
 Name: KOICHI
@@ -3328,11 +3471,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Machop
+Croagunk
 Level: 24
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Machoke
+Medicham
 Level: 28
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
@@ -3345,9 +3488,18 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Machop
+Croagunk
 Level: 19
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Tauros-Paldea-Aqua @ Sitrus Berry  
+Ability: Cud Chew  
+Level: 22  
+Shiny: Yes   
+- Bulk Up  
+- Double Kick  
+- Aqua Jet  
+- Swagger
 
 === TRAINER_NOB_2 ===
 Name: NOB
@@ -3358,9 +3510,18 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Machoke
-Level: 27
-IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
+Toxicroak
+Level: 26
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Tauros-Paldea-Aqua @ Sitrus Berry  
+Ability: Cud Chew  
+Level: 30  
+Shiny: Yes   
+- Bulk Up  
+- Double Kick  
+- Aqua Jet  
+- Bulldoze
 
 === TRAINER_NOB_3 ===
 Name: NOB
@@ -3371,13 +3532,28 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Machop
-Level: 29
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Toxicroak
+Level: 32
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Machoke
-Level: 29
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Tauros-Paldea-Blaze @ Sitrus Berry  
+Ability: Cud Chew  
+Level: 36  
+Shiny: Yes    
+EVs: 252 Def  
+- Scary Face  
+- Will-O-Wisp  
+- Flame Charge  
+- Body Press
+
+Tauros-Paldea-Aqua @ Sitrus Berry  
+Ability: Cud Chew  
+Level:38  
+Shiny: Yes   
+- Bulk Up  
+- Double Kick  
+- Aqua Jet  
+- Swagger
 
 === TRAINER_NOB_4 ===
 Name: NOB
@@ -3388,17 +3564,28 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Machop
-Level: 31
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+Toxicroak
+Level: 36
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Machoke
-Level: 31
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+Tauros-Paldea-Blaze @ Sitrus Berry  
+Ability: Cud Chew  
+Level: 40  
+Shiny: Yes    
+EVs: 252 Def  
+- Scary Face  
+- Will-O-Wisp  
+- Flame Charge  
+- Body Press
 
-Machoke
-Level: 31
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+Tauros-Paldea-Aqua @ Sitrus Berry  
+Ability: Cud Chew  
+Level:42  
+Shiny: Yes   
+- Bulk Up  
+- Double Kick  
+- Aqua Jet  
+- Swagger
 
 === TRAINER_NOB_5 ===
 Name: NOB
@@ -3409,21 +3596,41 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Machop
-Level: 33
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+Toxicroak @ Choice Band  
+Ability: Poison Touch  
+Level: 52    
+- Close Combat  
+- Gunk Shot  
+- Earthquake  
+- Foul Play
 
-Machoke
-Level: 33
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+Tauros-Paldea-Blaze @ Sitrus Berry  
+Ability: Cud Chew  
+Level: 52  
+Shiny: Yes    
+EVs: 252 Def  
+- Bulk Up  
+- Will-O-Wisp  
+- Raging Bull  
+- Body Press
 
-Machoke
-Level: 33
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+Tauros-Paldea-Combat @ Sitrus Berry  
+Ability: Cud Chew  
+Level: 58  
+Shiny: Yes    
+- Thrash  
+- Bulk Up  
+- Iron Head  
+- Raging Bull
 
-Machamp @ Black Belt
-Level: 33
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+Tauros-Paldea-Aqua @ Sitrus Berry  
+Ability: Cud Chew  
+Level:68  
+Shiny: Yes   
+- Bulk Up  
+- Double Kick  
+- Aqua Jet  
+- Raging Bull
 
 === TRAINER_YUJI ===
 Name: YUJI
