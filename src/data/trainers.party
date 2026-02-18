@@ -3641,11 +3641,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Makuhita
+Throh
 Level: 26
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Machoke
+Sawk
 Level: 26
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -3658,7 +3658,7 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Machop
+Gurdurr
 Level: 19
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -3671,7 +3671,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Hariyama
+Mienfoo
+Level: 28
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Mienshao
 Level: 32
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -3684,7 +3688,7 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Electrike
+Heliolisk
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Quick Attack
@@ -3692,12 +3696,16 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Spark
 - Leer
 
-Voltorb
+Eelektrik
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Charge
 - Shock Wave
 - Screech
+
+Loudred
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_7 ===
 Name: GRUNT
@@ -3708,11 +3716,11 @@ Music: Aqua
 Double Battle: No
 AI: Basic Trainer
 
-Rattata
+Raticate
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Zubat
+Crobat
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3729,6 +3737,10 @@ Carvanha
 Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Sharpedo
+Level: 32
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_SHAWN ===
 Name: SHAWN
 Class: Guitarist
@@ -3738,13 +3750,17 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Voltorb
+Tadbulb
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Magnemite
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Loudred
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FERNANDO_1 ===
 Name: FERNANDO
@@ -3756,6 +3772,10 @@ Double Battle: No
 AI: Basic Trainer
 
 Electrike
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Boltund
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -3793,11 +3813,11 @@ Magnemite
 Level: 25
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Whismur
+Loudred
 Level: 25
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Magnemite
+Magneton
 Level: 25
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -3873,7 +3893,11 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Numel
+Ninetales
+Level: 23
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Rapidash
 Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -3890,8 +3914,8 @@ Slugma
 Level: 22
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Slugma
-Level: 22
+Magcargo
+Level: 26
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_AXLE ===
@@ -3903,7 +3927,11 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Numel
+Magby
+Level: 20
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Magmar
 Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -3916,7 +3944,11 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Slugma
+Pansear
+Level: 23
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Torracat
 Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -3942,11 +3974,11 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Slugma
+Raboot
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Ponyta
+Heatmor
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -4027,13 +4059,9 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Sandshrew
+Marshtomp
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Dig
-- Sand Attack
-- Poison Sting
-- Slash
 
 === TRAINER_BEAU ===
 Name: BEAU
@@ -4052,13 +4080,9 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Psybeam
 - Rock Tomb
 
-Sandshrew
+Buizel
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Poison Sting
-- Sand Attack
-- Scratch
-- Dig
 
 Baltoy
 Level: 21
@@ -4077,7 +4101,11 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Nuzleaf
+Tropius
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Roselia
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -4107,8 +4135,16 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Kecleon
-Level: 24
+Sableye
+Level: 20
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Sableye
+Level: 20
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Sableye
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ETHAN_1 ===
@@ -4124,7 +4160,11 @@ Zigzagoon
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Taillow
+Chansey
+Level: 20
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Staravia
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -4141,6 +4181,10 @@ Shroomish
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Chansey
+Level: 22
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_TRAVIS ===
 Name: TRAVIS
 Class: Camper
@@ -4152,6 +4196,10 @@ AI: Basic Trainer
 
 Sandshrew
 Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Chansey
+Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ETHAN_2 ===
@@ -4239,7 +4287,7 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Surskit
+Shedinja
 Level: 26
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4252,7 +4300,7 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Ledyba
+Swadloon
 Level: 24
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4273,17 +4321,21 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Ledyba
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Combee
+Level: 24
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
-Cascoon
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Combee
+Level: 24
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
-Dustox
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Combee
+Level: 24
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
+
+Vespiquen
+Level: 28
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JEFFREY_1 ===
 Name: JEFFREY
@@ -4298,11 +4350,11 @@ Surskit
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Surskit
+Masquerain
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Surskit
+Araquanid
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -4323,6 +4375,10 @@ Beautifly
 Level: 16
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
+Yanma
+Level: 16
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
 === TRAINER_JEFFREY_2 ===
 Name: JEFFREY
 Class: Bug Maniac
@@ -4336,11 +4392,11 @@ Surskit
 Level: 31
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Surskit
+Ninjask
 Level: 31
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Surskit
+Mothim
 Level: 31
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -4353,16 +4409,20 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Surskit
-Level: 34
+Combee
+Level: 30
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
-Surskit
-Level: 34
+Combee
+Level: 30
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
-Masquerain
-Level: 34
+Combee
+Level: 30
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
+
+Vespiquen
+Level: 30
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JEFFREY_4 ===
@@ -4432,6 +4492,7 @@ Abra
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Hidden Power
+- Confusion
 
 === TRAINER_PRESTON ===
 Name: PRESTON
@@ -4442,7 +4503,7 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Kirlia
+Gallade
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4455,7 +4516,7 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Ralts
+Gardevoir
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4472,6 +4533,10 @@ Girafarig
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Hypno
+Level: 36
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_WILLIAM ===
 Name: WILLIAM
 Class: Psychic
@@ -4482,15 +4547,15 @@ Double Battle: No
 AI: Basic Trainer
 
 Ralts
-Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Ralts
-Level: 26
+Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Kirlia
 Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Gardevoir
+Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSHUA ===
@@ -4502,11 +4567,15 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Kadabra
+Alakazam
 Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Solrock
+Level: 41
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Lunatone
 Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -4519,7 +4588,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Solrock
+Espeon
+Level: 31
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Umbreon
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -4600,10 +4673,13 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Abra
+Drowzee
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Hidden Power
+
+Drowzee
+Level: 16
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HANNAH ===
 Name: HANNAH
@@ -4614,7 +4690,7 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Kirlia
+Wobbuffet
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4631,6 +4707,10 @@ Xatu
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Chimecho
+Level: 36
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_MAURA ===
 Name: MAURA
 Class: Psychic
@@ -4640,7 +4720,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Kadabra
+Musharna
+Level: 36
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Gothitelle
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4657,7 +4741,7 @@ Wobbuffet
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Natu
+Grumpig
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -4674,11 +4758,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Kirlia
+Slowbro
 Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Xatu
+Starmie
 Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -4691,11 +4775,15 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Kadabra
+Veluza
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Lunatone
+Orbeetle
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Bronzong
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -4776,8 +4864,12 @@ Music: Rich
 Double Battle: No
 AI: Basic Trainer
 
-Manectric
+Haunter
 Level: 29
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Houndstone
+Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MICAH ===
@@ -4793,7 +4885,7 @@ Manectric
 Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Manectric
+Zebstrika
 Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -4807,6 +4899,10 @@ Double Battle: No
 AI: Basic Trainer
 
 Zangoose
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Seviper
 Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -5155,28 +5251,27 @@ Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
-Bibarel @ Leftovers  
+Bidoof @ Leftovers  
 Ability: Unaware  
 Level: 16    
-- Aqua Jet  
+- Quick Attack  
 - Headbutt  
 - Protect  
 - Rollout
 
 Cyclizar  
 Ability: Regenerator  
-Level: 16    
+Level: 19    
 - Shed Tail  
 - Quick Attack  
 - Mud Shot  
 - Growl
 
-Arboliva @ Sitrus Berry
-Ability: Seed Sower  
-Level: 19    
+Dolliv @ Sitrus Berry  
+Level: 16    
 - Leech Seed  
-- Absorb  
-- Terrain Pulse  
+- Mega Drain  
+- Swift  
 - Tackle
 
 === TRAINER_WATTSON_1 ===
