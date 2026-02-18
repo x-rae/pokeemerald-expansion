@@ -90,6 +90,14 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
+Scizor @ Occa Berry  
+Ability: Technician  
+Level: 20    
+- Bullet Punch  
+- Bug Bite  
+- Roost  
+- Swords Dance
+
 Umbreon @ Leftovers  
 Ability: Synchronize  
 Level: 21  
@@ -98,15 +106,6 @@ Tera Type: Dark
 - Pursuit  
 - Wish  
 - Toxic
-
-Scizor @ Occa Berry  
-Ability: Technician  
-Level: 20  
-Tera Type: Bug  
-- Bullet Punch  
-- Bug Bite  
-- Roost  
-- Swords Dance
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_1 ===
 Name: GRUNT
@@ -581,8 +580,7 @@ AI: Basic Trainer
 
 Nidoking  
 Ability: Sheer Force  
-Level: 30  
-Tera Type: Poison  
+Level: 30    
 Serious Nature  
 - Earthquake  
 - Poison Jab  
@@ -591,8 +589,7 @@ Serious Nature
 
 Scolipede @ Assault Vest  
 Ability: Swarm  
-Level: 30  
-Tera Type: Bug  
+Level: 30    
 - Poison Jab  
 - First Impression  
 - Earthquake  
@@ -600,8 +597,7 @@ Tera Type: Bug
 
 Wailord @ Leftovers  
 Ability: Oblivious
-Level: 34  
-Tera Type: Water  
+Level: 34    
 EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
 - Bounce  
@@ -620,8 +616,7 @@ AI: Basic Trainer
 
 Annihilape @ Assault Vest  
 Ability: Defiant  
-Level: 31  
-Tera Type: Fighting  
+Level: 31    
 - Rage Fist
 
 === TRAINER_SHELLY_WEATHER_INSTITUTE ===
@@ -635,8 +630,7 @@ AI: Basic Trainer
 
 Castform @ Damp Rock  
 Ability: Forecast  
-Level: 28  
-Tera Type: Normal  
+Level: 28    
 IVs: 0 Atk  
 - Rain Dance  
 - Weather Ball  
@@ -645,8 +639,7 @@ IVs: 0 Atk
 
 Porygon-Z @ Leftovers  
 Ability: Analytic  
-Level: 28  
-Tera Type: Normal  
+Level: 28    
 IVs: 0 Atk  
 - Discharge  
 - Tri Attack  
@@ -687,7 +680,6 @@ AI: Basic Trainer
 Ludicolo @ Damp Rock  
 Ability: Rain Dish  
 Level: 41  
-Tera Type: Water  
 IVs: 0 Atk  
 - Rain Dance  
 - Leech Seed  
@@ -696,8 +688,7 @@ IVs: 0 Atk
 
 Scizor  
 Ability: Swarm  
-Level: 41  
-Tera Type: Bug  
+Level: 41    
 - Bug Bite  
 - Metal Claw  
 - Agility  
@@ -705,16 +696,14 @@ Tera Type: Bug
 
 Kingdra @ Mystic Water  
 Ability: Swift Swim  
-Level: 41  
-Tera Type: Water  
+Level: 41    
 IVs: 0 Atk  
 - Surf  
 - Dragon Pulse
 
 Poliwrath  
 Ability: Swift Swim  
-Level: 43  
-Tera Type: Water  
+Level: 43    
 - Drain Punch  
 - Liquidation  
 - Earthquake  
@@ -783,8 +772,7 @@ AI: Basic Trainer
 
 Ceruledge  
 Ability: Flash Fire  
-Level: 43  
-Tera Type: Fire  
+Level: 43    
 - Bitter Blade  
 - Destiny Bond  
 - Shadow Sneak  
@@ -792,8 +780,7 @@ Tera Type: Fire
 
 Armarouge  
 Ability: Weak Armor  
-Level: 43  
-Tera Type: Fire  
+Level: 43    
 IVs: 0 Atk  
 - Armor Cannon  
 - Aura Sphere  
@@ -2418,7 +2405,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Marill
+Azumarill
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2431,7 +2418,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Shroomish
+Breloom
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2444,7 +2431,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Numel
+Monferno
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -2457,13 +2444,9 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Kecleon
+Chansey
 Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Bind
-- Lick
-- Fury Swipes
-- Feint Attack
 
 Seviper
 Level: 29
@@ -4931,8 +4914,7 @@ AI: Basic Trainer
 
 Wailmer  
 Ability: Oblivious  
-Level: 12  
-Tera Type: Water  
+Level: 12    
 IVs: 0 Atk  
 - Rain Dance  
 - Aqua Ring  
@@ -4941,8 +4923,7 @@ IVs: 0 Atk
 
 Buizel  
 Ability: Swift Swim  
-Level: 12  
-Tera Type: Water  
+Level: 12    
 - Flip Turn  
 - Chilling Water  
 - Quick Attack  
@@ -4950,8 +4931,7 @@ Tera Type: Water
 
 Staryu @ Oran Berry  
 Ability: Natural Cure  
-Level: 15  
-Tera Type: Water  
+Level: 15    
 EVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe  
 - Flip Turn  
 - Aqua Jet  
@@ -4970,8 +4950,7 @@ AI: Basic Trainer
 
 Bibarel @ Leftovers  
 Ability: Unaware  
-Level: 16  
-Tera Type: Normal  
+Level: 16    
 - Aqua Jet  
 - Headbutt  
 - Protect  
@@ -4979,8 +4958,7 @@ Tera Type: Normal
 
 Cyclizar  
 Ability: Regenerator  
-Level: 16  
-Tera Type: Normal  
+Level: 16    
 - Shed Tail  
 - Quick Attack  
 - Mud Shot  
@@ -4988,8 +4966,7 @@ Tera Type: Normal
 
 Arboliva @ Sitrus Berry
 Ability: Seed Sower  
-Level: 19  
-Tera Type: Grass  
+Level: 19    
 - Leech Seed  
 - Absorb  
 - Terrain Pulse  
@@ -6120,8 +6097,7 @@ AI: Basic Trainer
 
 Chewtle  
 Ability: Strong Jaw  
-Level: 10  
-Tera Type: Water  
+Level: 10    
 EVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe  
 - Bite  
 - Water Pulse  
@@ -6138,8 +6114,7 @@ AI: Basic Trainer
 
 Wooper  
 Ability: Water Absorb  
-Level: 8  
-Tera Type: Water  
+Level: 8    
 EVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe  
 IVs: 0 Atk  
 - Mud-Slap  
@@ -6149,8 +6124,7 @@ IVs: 0 Atk
 
 Poliwhirl  
 Ability: Swift Swim  
-Level: 8  
-Tera Type: Water  
+Level: 8    
 - Belly Drum  
 - Pound
 
@@ -8012,8 +7986,7 @@ AI: Basic Trainer
 
 Delcatty @ Oran Berry  
 Ability: Normalize  
-Level: 13  
-Tera Type: Normal  
+Level: 13    
 - Sing  
 - Attract  
 - Double Slap  
@@ -10724,8 +10697,7 @@ AI: Basic Trainer
 
 Wailmer  
 Ability: Oblivious  
-Level: 8  
-Tera Type: Water  
+Level: 8    
 - Rain Dance  
 - Rollout  
 - Defense Curl  
@@ -10733,8 +10705,7 @@ Tera Type: Water
 
 Vaporeon  
 Ability: Water Absorb  
-Level: 8  
-Tera Type: Water  
+Level: 8    
 IVs: 0 Atk  
 - Tickle  
 - Substitute  
@@ -10765,8 +10736,7 @@ AI: Basic Trainer
 
 Togetic  
 Ability: Serene Grace  
-Level: 13  
-Tera Type: Fairy  
+Level: 13    
 - Fairy Wind  
 - Metronome  
 - Peck  
@@ -10783,8 +10753,7 @@ AI: Basic Trainer
 
 Dolliv @ Oran Berry  
 Ability: Harvest  
-Level: 13  
-Tera Type: Grass  
+Level: 13    
 IVs: 0 Atk  
 - Leech Seed  
 - Mega Drain  
@@ -16694,8 +16663,7 @@ AI: Basic Trainer
 
 Scizor @ Occa Berry  
 Ability: Technician  
-Level: 26  
-Tera Type: Bug  
+Level: 26    
 - Bullet Punch  
 - Bug Bite  
 - Roost  
@@ -16703,8 +16671,7 @@ Tera Type: Bug
 
 Roserade @ Big Root  
 Ability: Natural Cure  
-Level: 28  
-Tera Type: Grass  
+Level: 28    
 IVs: 0 Atk  
 - Sludge Bomb  
 - Toxic Spikes  
@@ -16731,8 +16698,7 @@ AI: Basic Trainer
 
 Gliscor @ Toxic Orb  
 Ability: Poison Heal  
-Level: 35  
-Tera Type: Ground  
+Level: 35    
 IVs: 0 Atk  
 - Protect  
 - Stealth Rock  
@@ -16741,8 +16707,7 @@ IVs: 0 Atk
 
 Scizor @ Occa Berry  
 Ability: Technician  
-Level: 35  
-Tera Type: Bug  
+Level: 35    
 - Bullet Punch  
 - Bug Bite  
 - Roost  
@@ -16750,8 +16715,7 @@ Tera Type: Bug
 
 Roserade @ Big Root  
 Ability: Natural Cure  
-Level: 35  
-Tera Type: Grass  
+Level: 35    
 IVs: 0 Atk  
 - Sludge Bomb  
 - Toxic Spikes  
@@ -16778,8 +16742,7 @@ AI: Basic Trainer
 
 Gliscor @ Toxic Orb  
 Ability: Poison Heal  
-Level: 40  
-Tera Type: Ground  
+Level: 40    
 EVs: 8 HP / 248 Def / 248 SpD  
 Careful Nature  
 - Baton Pass  
@@ -16790,7 +16753,6 @@ Careful Nature
 Scizor @ Occa Berry  
 Ability: Technician  
 Level: 42  
-Tera Type: Bug
 EVs: 8 HP / 248 Def / 248 SpD   
 - Bullet Punch  
 - Bug Bite  
@@ -16799,8 +16761,7 @@ EVs: 8 HP / 248 Def / 248 SpD
 
 Roserade @ Big Root  
 Ability: Natural Cure  
-Level: 42  
-Tera Type: Grass  
+Level: 42    
 IVs: 0 Atk  
 - Sludge Bomb  
 - Toxic Spikes  
@@ -16828,8 +16789,7 @@ AI: Basic Trainer
 
 Ferrothorn @ Rocky Helmet  
 Ability: Iron Barbs  
-Level: 80  
-Tera Type: Grass  
+Level: 80    
 IVs: 0 Spe  
 - Ingrain  
 - Leech Seed  
@@ -16838,8 +16798,7 @@ IVs: 0 Spe
 
 Gouging Fire @ Booster Energy  
 Ability: Protosynthesis  
-Level: 80  
-Tera Type: Fire  
+Level: 80    
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Burning Bulwark  
@@ -16849,8 +16808,7 @@ Adamant Nature
 
 Raging Bolt @ Booster Energy  
 Ability: Protosynthesis  
-Level: 80  
-Tera Type: Electric  
+Level: 80    
 EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 1 Atk  
@@ -16860,8 +16818,7 @@ IVs: 1 Atk
 - Substitute
 
 Primarina @ Assault Vest  
-Ability: Liquid Voice  
-Tera Type: Water  
+Ability: Liquid Voice    
 EVs: 252 HP / 4 Atk / 252 SpA  
 Quiet Nature  
 - Aqua Jet  
@@ -16871,8 +16828,7 @@ Quiet Nature
 
 Walking Wake @ Booster Energy  
 Ability: Protosynthesis  
-Level: 80  
-Tera Type: Water  
+Level: 80    
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
