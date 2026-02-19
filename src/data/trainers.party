@@ -3756,17 +3756,29 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Tadbulb
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Phantump  
+Ability: Natural Cure  
+Level: 17    
+IVs: 0 Atk  
+- Pain Split  
+- Will-O-Wisp  
+- Hex  
+- Curse  
 
-Magnemite
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Tangela  
+Ability: Regenerator  
+Level: 17    
+- U-turn  
+- Magical Leaf  
+- Acid Spray  
 
-Loudred
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Lilligant-Hisui @ Focus Sash  
+Ability: Chlorophyll  
+Level: 18    
+- Stun Spore  
+- Metronome  
+- Acrobatics  
+- Grassy Glide  
 
 === TRAINER_FERNANDO_1 ===
 Name: FERNANDO
@@ -5078,8 +5090,6 @@ Adamant Nature
 - Knock Off  
 - Baneful Bunker  
 
-
-
 === TRAINER_PHOEBE ===
 Name: PHOEBE
 Class: Elite Four
@@ -5371,7 +5381,7 @@ Level: 16
 - Tackle
 
 === TRAINER_WATTSON_1 ===
-Name: WATTSON
+Name: GARDENIA
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
