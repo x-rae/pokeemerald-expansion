@@ -5236,9 +5236,21 @@ Double Battle: No
 AI: Basic Trainer
 Mugshot: Blue
 
+Samurott-Hisui @ Focus Sash  
+Ability: Sharpness  
+Level: 80  
+Tera Type: Water  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Ceaseless Edge  
+- Razor Shell  
+- Aqua Jet  
+- Knock Off  
+
 Lokix @ Assault Vest  
-Ability: Tinted Lens 
-Level: 80   
+Ability: Tinted Lens  
+Level: 80  
+Tera Type: Bug  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - First Impression  
@@ -5246,31 +5258,10 @@ Jolly Nature
 - Throat Chop  
 - U-turn  
 
-Chien-Pao @ Choice Band  
-Ability: Sword of Ruin    
-Level: 80
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Sacred Sword  
-- Ice Spinner  
-- Crunch  
-- Psychic Fangs  
-
-Greed (Chi-Yu) @ Choice Specs  
-Ability: Beads of Ruin  
-Level: 80
-Shiny: Yes    
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Dark Pulse  
-- Nasty Plot  
-- Psychic  
-
 Drapion @ Air Balloon  
-Ability: Sniper    
-Level: 80
+Ability: Sniper  
+Level: 80  
+Tera Type: Poison  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Stone Edge  
@@ -5278,9 +5269,9 @@ Jolly Nature
 - Night Slash  
 - Knock Off  
 
-Yveltal @ Leftovers  
+Yveltal @ Clear Amulet  
 Ability: Dark Aura  
-Level: 80
+Level: 80  
 Shiny: Yes  
 Tera Type: Dark  
 EVs: 252 HP / 252 SpA / 4 SpD  
@@ -5291,16 +5282,28 @@ IVs: 0 Atk
 - Oblivion Wing  
 - Double Team  
 
+Mandibuzz @ Leftovers  
+Ability: Overcoat  
+Level: 80  
+Tera Type: Water  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Iron Defense  
+- Roost  
+- Toxic  
+
 Kingambit @ Black Glasses  
 Ability: Supreme Overlord  
-Level: 80
+Level: 80  
 Tera Type: Fairy  
 EVs: 252 HP / 252 Atk / 4 SpA  
 Brave Nature  
 - Kowtow Cleave  
 - Tera Blast  
 - Sucker Punch  
-- Stone Edge  
+- Stone Edge   
 
 === TRAINER_ROXANNE_1 ===
 Name: Misty
