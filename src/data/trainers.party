@@ -1367,13 +1367,12 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Staravia
-Level: 26
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Quick Attack
-- Agility
-- Wing Attack
-- Endeavor
+Veluza  
+Ability: Mold Breaker  
+Level: 26    
+- Fillet Away  
+- Heart Stamp  
+- Aqua Jet
 
 === TRAINER_PARKER ===
 Name: PARKER
@@ -1385,9 +1384,14 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Snorlax
-Level: 26
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Sigilyph @ Persim Berry  
+Ability: Wonder Skin  
+Level: 26   
+IVs: 0 Atk  
+- Swagger  
+- Confusion  
+- Hurricane  
+- Future Sight
 
 === TRAINER_GEORGE ===
 Name: GEORGE
@@ -1399,12 +1403,14 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Machoke @ Sitrus Berry
-Level: 26
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Submission
-- Counter
-- Detect
+Slowbro @ Leftovers  
+Ability: Own Tempo  
+Level: 26  
+IVs: 0 Atk  
+- Slack Off  
+- Yawn  
+- Whirlpool  
+- Mimic
 
 === TRAINER_BERKE ===
 Name: BERKE
@@ -1416,12 +1422,12 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Persian
-Level: 26
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Focus Energy
-- Slash
-- Fake Out
+Claydol @ Wide Lens  
+Ability: Levitate  
+Level: 26    
+- Fissure  
+- Explosion  
+- Drill Run
 
 === TRAINER_BRAXTON ===
 Name: BRAXTON
@@ -1765,13 +1771,14 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Snorlax @ Chesto Berry
-Level: 26
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
-- Sleep Talk 
-- Body Slam
-- Counter
+Kadabra @ Bright Powder  
+Ability: Inner Focus  
+Level: 26  
+IVs: 0 Atk  
+- Kinesis  
+- Miracle Eye  
+- Zap Cannon  
+- Mystical Power
 
 === TRAINER_ALEXIA ===
 Name: ALEXIA
@@ -1783,12 +1790,13 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Wigglytuff
-Level: 26
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Defense Curl
-- Double Edge
-- Shadow Ball
+Wyrdeer  
+Ability: Intimidate  
+Level: 26    
+- Psyshield Bash  
+- Double Kick  
+- Take Down  
+- Reflect
 
 === TRAINER_JODY ===
 Name: JODY
@@ -1800,9 +1808,13 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
-Tauros
-Level: 26
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Metang @ Expert Belt  
+Ability: Clear Body  
+Level: 26   
+- Meteor Mash  
+- Explosion  
+- Psycho Cut  
+- Brick Break
 
 === TRAINER_WENDY ===
 Name: WENDY
@@ -5469,46 +5481,56 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Attract
 
 === TRAINER_NORMAN_1 ===
-Name: NORMAN
+Name: TATE&LIZA
 Class: Leader
-Pic: Leader Norman
+Pic: Leader Tate And Liza
 Gender: Male
 Music: Male
 Items: Hyper Potion / Hyper Potion
-Double Battle: No
+Double Battle: Yes
 AI: Basic Trainer
 
-Spinda
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Teeter Dance
-- Psybeam
-- Facade
-- Encore
+Bronzong @ Light Clay  
+Ability: Levitate  
+Level: 27    
+Relaxed Nature  
+IVs: 0 Spe  
+- Trick Room  
+- Gyro Ball  
+- Reflect  
+- Light Screen  
 
-Vigoroth
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Facade
-- Encore
-- Feint Attack
+Farigiraf  
+Ability: Armor Tail  
+Level: 27    
+Bold Nature  
+- Mirror Coat  
+- Future Sight  
+- Crunch  
+- Uproar  
 
-Linoone
-Level: 29
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Belly Drum
-- Facade
-- Headbutt
+Reuniclus  
+Ability: Magic Guard  
+Level: 29  
+Shiny: Yes    
+Sassy Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Thunder Wave  
+- Psychic  
+- Psyshock  
 
-Slaking @ Sitrus Berry
-Level: 31
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Counter
-- Yawn
-- Facade
-- Feint Attack
+Rabsca @ Leppa Berry  
+Ability: Telepathy  
+Level: 31    
+Relaxed Nature  
+IVs: 0 Atk  
+- Revival Blessing  
+- Trick Room  
+- Bug Buzz  
+- Shadow Ball  
+
+
 
 === TRAINER_WINONA_1 ===
 Name: WINONA
