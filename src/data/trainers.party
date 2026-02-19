@@ -5057,7 +5057,7 @@ IVs: 0 Atk
 - Dazzling Gleam  
 - Energy Ball  
 
-Okidogi @ Big Root  
+Wrath (Okidogi) @ Big Root  
 Ability: Toxic Chain    
 EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
@@ -5066,7 +5066,7 @@ Adamant Nature
 - High Horsepower  
 - Bulk Up  
 
-Toxapex @ Leftovers  
+Toxapex @ Black Sludge  
 Ability: Regenerator  
 Tera Type: Poison  
 EVs: 252 HP / 252 Atk / 4 SpD  
@@ -5087,98 +5087,129 @@ Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
-Mugshot: Green
+Mugshot: Pink
 
-Dusclops
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Punch
-- Confuse Ray
-- Curse
-- Protect
+Grimmsnarl @ Light Clay  
+Ability: Prankster    
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Reflect  
+- Light Screen  
+- Parting Shot  
+- Spirit Break  
 
-Banette
-Level: 49
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Grudge
-- Will O Wisp
-- Feint Attack
+Mimikyu @ Custap Berry  
+Ability: Disguise  
+Shiny: Yes    
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- Phantom Force  
+- Swords Dance  
+- Thunder Wave  
 
-Sableye
-Level: 50
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Double Team
-- Night Shade
-- Feint Attack
+Envy (Primarina) @ Leftovers  
+Ability: Torrent    
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Chilling Water  
+- Calm Mind  
+- Draining Kiss  
+- Psychic  
 
-Banette
-Level: 49
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Psychic
-- Thunderbolt
-- Facade
+Tinkaton @ Choice Band  
+Ability: Mold Breaker    
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Gigaton Hammer  
+- Ice Hammer  
+- Foul Play  
+- Play Rough  
 
-Dusclops @ Sitrus Berry
-Level: 51
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Ball
-- Ice Beam
-- Rock Slide
-- Earthquake
+Togekiss @ Bright Powder  
+Ability: Serene Grace    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Air Slash  
+- Tailwind  
+- Ominous Wind  
+
+Iron Valiant @ Booster Energy  
+Ability: Quark Drive  
+Shiny: Yes  
+Tera Type: Fairy  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Aura Sphere  
+- Moonblast  
+- Focus Blast  
+- Psyshock  
 
 === TRAINER_GLACIA ===
-Name: GLACIA
+Name: BERTHA
 Class: Elite Four
 Pic: Elite Four Glacia
 Gender: Female
 Music: Elite Four
 Items: Full Restore / Full Restore
-Double Battle: No
+Double Battle: Yes
 AI: Basic Trainer
-Mugshot: Pink
+Mugshot: Brown
 
-Sealeo
-Level: 50
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Encore
-- Body Slam
-- Hail
-- Ice Ball
+Gluttony (Hippowdon) @ Smooth Rock  
+Ability: Sand Stream    
+- Shore Up  
+- Earthquake  
+- Defense Curl  
+- Rock Slide  
 
-Glalie
-Level: 50
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Light Screen
-- Crunch
-- Icy Wind
-- Ice Beam
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+- Protect  
+- Earthquake  
+- Toxic  
+- Tailwind  
 
-Sealeo
-Level: 52
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Attract
-- Double Edge
-- Hail
-- Blizzard
+Gastrodon (Gastrodon-East) @ Rindo Berry  
+Ability: Storm Drain    
+EVs: 224 HP / 204 Def / 80 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Ice Beam  
+- Recover  
+- Muddy Water  
 
-Glalie
-Level: 52
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Explosion
-- Hail
-- Ice Beam
+Orthworm @ Leftovers  
+Ability: Earth Eater    
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Shed Tail  
+- Iron Defense  
+- Body Press  
+- Helping Hand  
 
-Walrein @ Sitrus Berry
-Level: 53
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Surf
-- Body Slam
-- Ice Beam
-- Sheer Cold
+Garchomp @ Bright Powder  
+Ability: Sand Veil    
+EVs: 196 HP / 104 Atk / 84 Def / 124 SpD  
+Careful Nature  
+- Sandstorm  
+- Sand Tomb  
+- Dragon Tail  
+- Rock Slide  
+
+Sloth (Clodsire) @ Leftovers  
+Ability: Water Absorb  
+Tera Type: Poison  
+- Rest  
+- Earthquake  
+- Sleep Talk  
+- Curse  
 
 === TRAINER_DRAKE ===
 Name: SIDNEY
@@ -5209,10 +5240,9 @@ Jolly Nature
 - Crunch  
 - Psychic Fangs  
 
-Chi-Yu @ Choice Specs  
+Greed (Chi-Yu) @ Choice Specs  
 Ability: Beads of Ruin  
-Shiny: Yes  
-Tera Type: Dark  
+Shiny: Yes    
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
