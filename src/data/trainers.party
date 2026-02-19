@@ -2401,9 +2401,9 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Sand Attack
 
 === TRAINER_MELISSA ===
-Name: Rae
-Class: Gentleman
-Pic: Gentleman
+Name: RAE
+Class: Rival
+Pic: Red
 Gender: Male
 Music: Rich
 Double Battle: No
@@ -5006,7 +5006,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Roar
 
 === TRAINER_SIDNEY ===
-Name: SIDNEY
+Name: ROXIE
 Class: Elite Four
 Pic: Elite Four Sidney
 Gender: Male
@@ -5016,45 +5016,67 @@ Double Battle: No
 AI: Basic Trainer / Force Setup First Turn
 Mugshot: Purple
 
-Mightyena
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Roar
-- Double Edge
-- Sand Attack
-- Crunch
+Glimmora @ Focus Sash  
+Ability: Toxic Debris    
+EVs: 252 HP / 4 Atk / 252 Spe  
+Naive Nature  
+- Stealth Rock  
+- Toxic Spikes  
+- Mortal Spin  
+- Power Gem  
 
-Shiftry
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Torment
-- Double Team
-- Swagger
-- Extrasensory
+Gengar @ Life Orb  
+Ability: Cursed Body    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Hex  
+- Destiny Bond  
+- Focus Blast  
 
-Cacturne
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Leech Seed
-- Feint Attack
-- Needle Arm
-- Cotton Spore
+Pecharunt @ Shuca Berry  
+Ability: Poison Puppeteer  
+Tera Type: Poison  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Malignant Chain  
+- Recover  
+- Hex  
 
-Crawdaunt
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Surf
-- Swords Dance
-- Strength
-- Facade
+Iron Moth @ Booster Energy  
+Ability: Quark Drive  
+Shiny: Yes    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Fiery Dance  
+- Dazzling Gleam  
+- Energy Ball  
 
-Absol @ Sitrus Berry
-Level: 49
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Rock Slide
-- Swords Dance
-- Slash
+Okidogi @ Big Root  
+Ability: Toxic Chain    
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Gunk Shot  
+- Drain Punch  
+- High Horsepower  
+- Bulk Up  
+
+Toxapex @ Leftovers  
+Ability: Regenerator  
+Tera Type: Poison  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Flip Turn  
+- U-turn  
+- Knock Off  
+- Baneful Bunker  
+
+
 
 === TRAINER_PHOEBE ===
 Name: PHOEBE
@@ -5159,55 +5181,76 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sheer Cold
 
 === TRAINER_DRAKE ===
-Name: DRAKE
+Name: SIDNEY
 Class: Elite Four
-Pic: Elite Four Drake
+Pic: Elite Four Sidney
 Gender: Male
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
-Mugshot: Blue
+Mugshot: Black
 
-Shelgon
-Level: 52
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Rock Tomb
-- Dragon Claw
-- Protect
-- Double Edge
+Lokix @ Assault Vest  
+Ability: Tinted Lens    
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- First Impression  
+- Axe Kick  
+- Throat Chop  
+- U-turn  
 
-Altaria
-Level: 54
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Edge
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
+Chien-Pao @ Choice Band  
+Ability: Sword of Ruin    
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Ice Spinner  
+- Crunch  
+- Psychic Fangs  
 
-Kingdra
-Level: 53
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Smokescreen
-- Dragon Dance
-- Surf
-- Body Slam
+Chi-Yu @ Choice Specs  
+Ability: Beads of Ruin  
+Shiny: Yes  
+Tera Type: Dark  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Dark Pulse  
+- Nasty Plot  
+- Psychic  
 
-Flygon
-Level: 53
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Flamethrower
-- Crunch
-- Dragon Breath
-- Earthquake
+Drapion @ Air Balloon  
+Ability: Sniper    
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Cross Poison  
+- Night Slash  
+- Knock Off  
 
-Salamence @ Sitrus Berry
-Level: 55
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Dragon Claw
-- Rock Slide
-- Crunch
+Yveltal @ Leftovers  
+Ability: Dark Aura  
+Shiny: Yes  
+Tera Type: Dark  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Baddy Bad  
+- Shadow Ball  
+- Oblivion Wing  
+- Double Team  
+
+Kingambit @ Black Glasses  
+Ability: Supreme Overlord  
+Tera Type: Fairy  
+EVs: 252 HP / 252 Atk / 4 SpA  
+Brave Nature  
+- Kowtow Cleave  
+- Tera Blast  
+- Sucker Punch  
+- Stone Edge  
 
 === TRAINER_ROXANNE_1 ===
 Name: Misty
@@ -17185,6 +17228,7 @@ IVs: 1 Atk
 
 Primarina @ Assault Vest  
 Ability: Liquid Voice    
+Level: 80
 EVs: 252 HP / 4 Atk / 252 SpA  
 Quiet Nature  
 - Aqua Jet  
