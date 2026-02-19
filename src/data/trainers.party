@@ -3692,20 +3692,22 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Heliolisk
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Quick Attack
-- Thunder Wave
-- Spark
-- Leer
+Leafeon @ Heat Rock  
+Ability: Chlorophyll  
+Level: 17  
+Shiny: Yes   
+- Sunny Day  
+- Razor Leaf  
+- Leech Seed  
+- Charm  
 
-Eelektrik
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Charge
-- Shock Wave
-- Screech
+Ivysaur  
+Ability: Chlorophyll  
+Level: 17    
+- Razor Leaf  
+- Knock Off  
+- Acid Spray  
+- Substitute 
 
 Loudred
 Level: 17
@@ -5139,8 +5141,7 @@ IVs: 0 Atk
 
 Iron Valiant @ Booster Energy  
 Ability: Quark Drive  
-Shiny: Yes  
-Tera Type: Fairy  
+Shiny: Yes   
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -5238,8 +5239,7 @@ Mugshot: Blue
 
 Samurott-Hisui @ Focus Sash  
 Ability: Sharpness  
-Level: 80  
-Tera Type: Water  
+Level: 80    
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Ceaseless Edge  
@@ -5249,8 +5249,7 @@ Jolly Nature
 
 Lokix @ Assault Vest  
 Ability: Tinted Lens  
-Level: 80  
-Tera Type: Bug  
+Level: 80    
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - First Impression  
@@ -5260,8 +5259,7 @@ Jolly Nature
 
 Drapion @ Air Balloon  
 Ability: Sniper  
-Level: 80  
-Tera Type: Poison  
+Level: 80    
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Stone Edge  
@@ -5272,8 +5270,7 @@ Jolly Nature
 Yveltal @ Clear Amulet  
 Ability: Dark Aura  
 Level: 80  
-Shiny: Yes  
-Tera Type: Dark  
+Shiny: Yes    
 EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
@@ -5284,8 +5281,7 @@ IVs: 0 Atk
 
 Mandibuzz @ Leftovers  
 Ability: Overcoat  
-Level: 80  
-Tera Type: Water  
+Level: 80    
 EVs: 248 HP / 244 Def / 16 Spe  
 Bold Nature  
 IVs: 0 Atk  
@@ -5384,37 +5380,41 @@ Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
-Voltorb
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rollout
-- Spark
-- Self Destruct
-- Shock Wave
+Tropius  
+Ability: Solar Power  
+Level: 20   
+IVs: 0 Atk  
+- Sunny Day  
+- Air Cutter  
+- Magical Leaf  
+- Synthesis  
 
-Electrike
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shock Wave
-- Leer
-- Quick Attack
-- Howl
+Voltorb-Hisui @ Focus Sash  
+Ability: Static  
+Level: 20  
+Shiny: Yes    
+- Grass Knot  
+- Thunder Wave  
+- Self-Destruct  
+- Volt Switch  
 
-Magneton
-Level: 22
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Supersonic
-- Shock Wave
-- Thunder Wave
-- Sonic Boom
+Scovillain  
+Ability: Chlorophyll  
+Level: 22    
+- Bullet Seed  
+- Fire Fang  
+- Spicy Extract  
+- Bite  
 
-Manectric @ Sitrus Berry
-Level: 24
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Quick Attack
-- Thunder Wave
-- Shock Wave
-- Howl
+Grotle @ Eviolite  
+Ability: Shell Armor  
+Level: 24  
+Tera Type: Grass  
+EVs: 80 Def / 80 SpD  
+- Bulldoze  
+- Leech Seed  
+- Razor Leaf  
+- Sand Tomb  
 
 === TRAINER_FLANNERY_1 ===
 Name: FLANNERY
@@ -6546,27 +6546,31 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 === TRAINER_BEN ===
 Name: BEN
 Class: Youngster
-Pic: Youngster
+Pic: Pokefan M
 Gender: Male
 Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Zigzagoon
-Level: 17
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Headbutt
-- Sand Attack
-- Growl
-- Thunderbolt
+Weepinbell  
+Ability: Chlorophyll 
+Level: 17 
+Tera Type: Grass  
+IVs: 0 Atk  
+- Strength Sap  
+- Poison Powder  
+- Acid Spray  
+- Magical Leaf  
 
-Gulpin
-Level: 17
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Amnesia
-- Sludge
-- Yawn
-- Pound
+Shroomish @ Toxic Orb  
+Ability: Poison Heal 
+Level: 17 
+Tera Type: Grass  
+IVs: 0 Atk  
+- Leech Seed  
+- Protect  
+- Stun Spore  
+- Charm  
 
 === TRAINER_QUINCY ===
 Name: QUINCY
@@ -12505,21 +12509,24 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Meditite
+Steenee (F) 
 Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Bide
-- Detect
-- Confusion
-- Thunder Punch
+Ability: Leaf Guard  
+Tera Type: Grass  
+- Grassy Glide  
+- Low Sweep  
+- Stomp  
+- Charm  
 
-Meditite
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Thunder Punch
-- Detect
-- Confusion
-- Meditate
+Capsakid @ Charcoal 
+Level: 17 
+Ability: Chlorophyll  
+Tera Type: Grass  
+- Trailblaze  
+- Sunny Day  
+- Bite  
+- Flame Wheel  
+
 
 === TRAINER_DANIELLE ===
 Name: DANIELLE
@@ -16445,19 +16452,24 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Illumise
+Swadloon  
 Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Shock Wave
-- Quick Attack
-- Charm
+Ability: Overcoat    
+IVs: 0 Atk  
+- Magical Leaf  
+- Struggle Bug  
+- Electroweb  
+- Iron Defense  
 
-Volbeat
+Wormadam (F)  
 Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Shock Wave
-- Quick Attack
-- Confuse Ray
+Ability: Overcoat    
+- Ingrain  
+- Protect  
+- Absorb  
+- Bug Bite  
+
+
 
 === TRAINER_DARIUS ===
 Name: DARIUS
