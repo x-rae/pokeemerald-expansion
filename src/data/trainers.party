@@ -5161,21 +5161,28 @@ AI: Basic Trainer
 Mugshot: Brown
 
 Gluttony (Hippowdon) @ Smooth Rock  
-Ability: Sand Stream    
+Ability: Sand Stream  
+Level: 80    
+EVs: 252 HP / 252 Atk  
+Adamant Nature  
 - Shore Up  
 - Earthquake  
 - Defense Curl  
 - Rock Slide  
 
 Gliscor @ Toxic Orb  
-Ability: Poison Heal  
+Ability: Poison Heal    
+Level: 80
+EVs: 252 HP / 184 Def / 72 Spe  
+Impish Nature  
 - Protect  
 - Earthquake  
 - Toxic  
 - Tailwind  
 
 Gastrodon (Gastrodon-East) @ Rindo Berry  
-Ability: Storm Drain    
+Ability: Storm Drain  
+Level: 80  
 EVs: 224 HP / 204 Def / 80 SpD  
 Calm Nature  
 IVs: 0 Atk  
@@ -5185,7 +5192,8 @@ IVs: 0 Atk
 - Muddy Water  
 
 Orthworm @ Leftovers  
-Ability: Earth Eater    
+Ability: Earth Eater 
+Level: 80   
 EVs: 252 HP / 4 Def / 252 SpD  
 Calm Nature  
 IVs: 0 Atk  
@@ -5194,8 +5202,9 @@ IVs: 0 Atk
 - Body Press  
 - Helping Hand  
 
-Garchomp @ Bright Powder  
+Garchomp @ Leftovers  
 Ability: Sand Veil    
+Level: 80
 EVs: 196 HP / 104 Atk / 84 Def / 124 SpD  
 Careful Nature  
 - Sandstorm  
@@ -5205,11 +5214,16 @@ Careful Nature
 
 Sloth (Clodsire) @ Leftovers  
 Ability: Water Absorb  
-Tera Type: Poison  
+Level: 80
+Tera Type: Ground  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
 - Rest  
 - Earthquake  
 - Sleep Talk  
 - Curse  
+
+  
 
 === TRAINER_DRAKE ===
 Name: SIDNEY
@@ -5223,7 +5237,8 @@ AI: Basic Trainer
 Mugshot: Black
 
 Lokix @ Assault Vest  
-Ability: Tinted Lens    
+Ability: Tinted Lens 
+Level: 80   
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - First Impression  
@@ -5233,6 +5248,7 @@ Jolly Nature
 
 Chien-Pao @ Choice Band  
 Ability: Sword of Ruin    
+Level: 80
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Sacred Sword  
@@ -5242,6 +5258,7 @@ Jolly Nature
 
 Greed (Chi-Yu) @ Choice Specs  
 Ability: Beads of Ruin  
+Level: 80
 Shiny: Yes    
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
@@ -5253,6 +5270,7 @@ IVs: 0 Atk
 
 Drapion @ Air Balloon  
 Ability: Sniper    
+Level: 80
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Stone Edge  
@@ -5262,6 +5280,7 @@ Jolly Nature
 
 Yveltal @ Leftovers  
 Ability: Dark Aura  
+Level: 80
 Shiny: Yes  
 Tera Type: Dark  
 EVs: 252 HP / 252 SpA / 4 SpD  
@@ -5274,6 +5293,8 @@ IVs: 0 Atk
 
 Kingambit @ Black Glasses  
 Ability: Supreme Overlord  
+"Ace Pokémon"
+Level: 80
 Tera Type: Fairy  
 EVs: 252 HP / 252 Atk / 4 SpA  
 Brave Nature  
