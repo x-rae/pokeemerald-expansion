@@ -4546,7 +4546,7 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Gallade
+Goodra
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4559,7 +4559,7 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Gardevoir
+Duraludon
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4572,11 +4572,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Girafarig
+Exeggutor-Alola
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Hypno
+Salamence
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4733,7 +4733,7 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Wobbuffet
+Appletun
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4746,11 +4746,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Xatu
+Drakloak
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Chimecho
+Flapple
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -4763,11 +4763,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Musharna
+Tatsugiri
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Gothitelle
+Kingdra
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -5341,7 +5341,7 @@ Name: Misty
 Class: Leader
 Pic: Tuber F
 Gender: Female
-Music: Female
+Music: Rich
 Items: Potion / Potion
 Double Battle: No
 AI: Basic Trainer
@@ -5377,7 +5377,7 @@ Name: Norman
 Class: Leader
 Pic: Leader Norman
 Gender: Male
-Music: Male
+Music: Rich
 Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
@@ -5410,7 +5410,7 @@ Name: GARDENIA
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
-Music: Male
+Music: Rich
 Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
@@ -5456,7 +5456,7 @@ Name: TATE&LIZA
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
-Music: Male
+Music: Rich
 Items: Hyper Potion / Hyper Potion
 Double Battle: Yes
 AI: Basic Trainer
@@ -5506,7 +5506,7 @@ Name: FLANNERY
 Class: Leader
 Pic: Leader Flannery
 Gender: Female
-Music: Female
+Music: Rich
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer
@@ -5615,41 +5615,54 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Items: Hyper Potion / Hyper Potion / Hyper Potion / Hyper Potion
-Double Battle: Yes
+Items: Hyper Potion / Hyper Potion
+Double Battle: No
 AI: Basic Trainer
 
-Claydol
-Level: 41
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Earthquake
-- Ancient Power
-- Psychic
-- Light Screen
+Goodra-Hisui  
+Ability: Gooey  
+Level: 40   
+IVs: 0 Atk  
+- Flash Cannon  
+- Sludge Bomb  
+- Dragon Breath  
+- Acid Spray  
 
-Xatu
-Level: 41
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Psychic
-- Sunny Day
-- Confuse Ray
-- Calm Mind
+Kommo-o  
+Ability: Overcoat  
+Level: 40   
+- Noble Roar  
+- Iron Defense  
+- Body Press  
+- Dragon Tail  
 
-Lunatone @ Sitrus Berry
-Level: 42
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Light Screen
-- Psychic
-- Hypnosis
-- Calm Mind
+Hydrapple @ Assault Vest  
+Ability: Regenerator  
+Level: 41    
+Relaxed Nature  
+IVs: 0 Spe  
+- Dragon Pulse  
+- Grass Knot  
+- Bug Bite  
+- Gyro Ball  
 
-Solrock @ Sitrus Berry
-Level: 42
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Sunny Day
-- Solar Beam
-- Psychic
-- Flamethrower
+Dragalge @ Black Sludge
+Ability: Adaptability  
+Level: 41    
+IVs: 0 Atk  
+- Dragon Breath  
+- Acid Spray  
+- Scald  
+- Substitute  
+
+Dragonite  
+Ability: Inner Focus  
+Level: 42  
+Shiny: Yes    
+- Extreme Speed  
+- Dragon Claw  
+- Ice Punch  
+- Power-Up Punch  
 
 === TRAINER_JUAN_1 ===
 Name: JUAN
@@ -8012,18 +8025,18 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_EDWARDO ===
 Name: EDWARDO
-Class: Bird Keeper
-Pic: Bird Keeper
+Class: Bug Maniac
+Pic: Bug Maniac
 Gender: Male
-Music: Cool
+Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Doduo
+Ariados
 Level: 29
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Pelipper
+Escavalier
 Level: 29
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
@@ -11313,7 +11326,7 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Meditite
+Flygon
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -11414,7 +11427,7 @@ Music: Rich
 Double Battle: No
 AI: Basic Trainer
 
-Spoink
+Cyclizar
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -11427,7 +11440,7 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Kadabra
+Drakloak
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -11440,7 +11453,7 @@ Music: Rich
 Double Battle: No
 AI: Basic Trainer
 
-Girafarig
+Druddigon
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -11453,7 +11466,7 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Wobbuffet
+Drampa
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -11535,7 +11548,7 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Natu
+Dragonair
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -12700,18 +12713,18 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FLINT ===
 Name: FLINT
-Class: Camper
-Pic: Camper
+Class: Bug Catcher
+Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Swellow
+Centiskorch
 Level: 29
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Xatu
+Golisopod
 Level: 29
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
@@ -16565,14 +16578,19 @@ Ability: Overcoat
 
 === TRAINER_DARIUS ===
 Name: DARIUS
-Class: Bird Keeper
-Pic: Bird Keeper
+Class: Bug Maniac
+Pic: Bug Maniac
 Gender: Male
-Music: Cool
+Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Tropius
+Orbeetle
+Level: 30
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Shedinja
+Orbeetle
 Level: 30
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
