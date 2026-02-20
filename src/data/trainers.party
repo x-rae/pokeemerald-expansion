@@ -1359,75 +1359,73 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_RANDALL ===
 Name: RANDALL
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Kindler
+Pic: Kindler
 Gender: Male
-Music: Cool
+Music: Hiker
 Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Veluza  
-Ability: Mold Breaker  
-Level: 26    
-- Fillet Away  
-- Heart Stamp  
-- Aqua Jet
+Blaziken  
+Ability: Speed Boost  
+Level: 26  
+- Seismic Toss  
+- Counter  
+- Double Kick  
+- Flame Charge
 
 === TRAINER_PARKER ===
 Name: PARKER
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Kindler
+Pic: Kindler
 Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Sigilyph @ Persim Berry  
-Ability: Wonder Skin  
-Level: 26   
-IVs: 0 Atk  
+Flareon @ Persim Berry  
+Ability: Guts  
+Level: 26  
 - Swagger  
-- Confusion  
-- Hurricane  
-- Future Sight
+- Will-O-Wisp  
+- Detect  
+- Flame Charge
 
 === TRAINER_GEORGE ===
 Name: GEORGE
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Kindler
+Pic: Kindler
 Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Slowbro @ Leftovers  
-Ability: Own Tempo  
+Talonflame @ Sitrus Berry  
+Ability: Gale Wings  
 Level: 26  
-IVs: 0 Atk  
-- Slack Off  
-- Yawn  
-- Whirlpool  
-- Mimic
+- Roost  
+- Growl  
+- Aerial Ace  
+- Flame Charge
 
 === TRAINER_BERKE ===
 Name: BERKE
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Kindler
+Pic: Kindler
 Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Claydol @ Wide Lens  
-Ability: Levitate  
-Level: 26    
-- Fissure  
-- Explosion  
-- Drill Run
+Typhlosion @ White Herb  
+Ability: Flash Fire  
+Level: 26  
+- Overheat  
+- Low Kick
 
 === TRAINER_BRAXTON ===
 Name: BRAXTON
@@ -1771,14 +1769,13 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Kadabra @ Bright Powder  
-Ability: Inner Focus  
+Arcanine  
+Ability: Intimidate  
 Level: 26  
-IVs: 0 Atk  
-- Kinesis  
-- Miracle Eye  
-- Zap Cannon  
-- Mystical Power
+- Sand Attack  
+- Double Team  
+- Aerial Ace  
+- Fire Spin
 
 === TRAINER_ALEXIA ===
 Name: ALEXIA
@@ -1790,13 +1787,13 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Wyrdeer  
-Ability: Intimidate  
-Level: 26    
-- Psyshield Bash  
-- Double Kick  
-- Take Down  
-- Reflect
+Turtonator @ Leftovers  
+Ability: Shell Armor  
+Level: 26  
+- Iron Defense  
+- Incinerate  
+- Toxic  
+- Dragon Tail
 
 === TRAINER_JODY ===
 Name: JODY
@@ -1808,13 +1805,12 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
-Metang @ Expert Belt  
-Ability: Clear Body  
-Level: 26   
-- Meteor Mash  
-- Explosion  
-- Psycho Cut  
-- Brick Break
+Darmanitan  
+Ability: Sheer Force  
+Level: 26  
+- Rock Tomb  
+- Flame Wheel  
+- Rock Smash
 
 === TRAINER_WENDY ===
 Name: WENDY
@@ -3915,83 +3911,100 @@ Level: 34
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_COLE ===
-Name: COLE
-Class: Kindler
-Pic: Kindler
-Gender: Male
-Music: Hiker
+Name: NICOLE
+Class: Psychic
+Pic: Psychic F
+Gender: Female
+Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Ninetales
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Claydol @ Wide Lens  
+Ability: Levitate  
+Level: 23    
+- Fissure  
+- Explosion  
+- Drill Run
 
-Rapidash
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Slowbro @ Leftovers  
+Ability: Own Tempo  
+Level: 23  
+IVs: 0 Atk  
+- Slack Off  
+- Yawn  
+- Whirlpool  
+- Mimic
 
 === TRAINER_JEFF ===
 Name: JEFF
-Class: Kindler
-Pic: Kindler
+Class: Psychic
+Pic: Psychic M
 Gender: Male
-Music: Hiker
+Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Slugma
-Level: 22
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Sigilyph @ Persim Berry  
+Ability: Wonder Skin  
+Level: 22   
+IVs: 0 Atk  
+- Swagger  
+- Confusion  
+- Hurricane  
+- Future Sight
 
-Magcargo
-Level: 26
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Kadabra @ Bright Powder  
+Ability: Inner Focus  
+Level: 22  
+IVs: 0 Atk  
+- Kinesis  
+- Miracle Eye  
+- Zap Cannon  
+- Mystical Power
 
 === TRAINER_AXLE ===
-Name: AXLE
-Class: Kindler
-Pic: Kindler
+Name: GERARD
+Class: Psychic
+Pic: Psychic M
 Gender: Male
-Music: Hiker
+Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Magby
+Kadabra
 Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Magmar
+Xatu
 Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JACE ===
 Name: JACE
-Class: Kindler
-Pic: Kindler
+Class: Psychic
+Pic: Psychic M
 Gender: Male
-Music: Hiker
+Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Pansear
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-
-Torracat
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Veluza  
+Ability: Mold Breaker  
+Level: 23    
+- Fillet Away  
+- Heart Stamp  
+- Aqua Jet
 
 === TRAINER_KEEGAN ===
-Name: KEEGAN
-Class: Kindler
-Pic: Kindler
-Gender: Male
-Music: Hiker
+Name: VERONICA
+Class: Tuber F
+Pic: Tuber F
+Gender: Female
+Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Slugma
+Starmie
 Level: 23
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
@@ -5439,48 +5452,6 @@ EVs: 80 Def / 80 SpD
 - Sand Tomb  
 
 === TRAINER_FLANNERY_1 ===
-Name: FLANNERY
-Class: Leader
-Pic: Leader Flannery
-Gender: Female
-Music: Female
-Items: Hyper Potion / Hyper Potion
-Double Battle: No
-AI: Basic Trainer
-
-Numel
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Take Down
-- Magnitude
-- Sunny Day
-
-Slugma
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Smog
-- Light Screen
-- Sunny Day
-
-Camerupt
-Level: 26
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
-
-Torkoal @ White Herb
-Level: 29
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Sunny Day
-- Body Slam
-- Attract
-
-=== TRAINER_NORMAN_1 ===
 Name: TATE&LIZA
 Class: Leader
 Pic: Leader Tate And Liza
@@ -5492,7 +5463,7 @@ AI: Basic Trainer
 
 Bronzong @ Light Clay  
 Ability: Levitate  
-Level: 27    
+Level: 24    
 Relaxed Nature  
 IVs: 0 Spe  
 - Trick Room  
@@ -5502,7 +5473,7 @@ IVs: 0 Spe
 
 Farigiraf  
 Ability: Armor Tail  
-Level: 27    
+Level: 24    
 Bold Nature  
 - Mirror Coat  
 - Future Sight  
@@ -5511,7 +5482,7 @@ Bold Nature
 
 Reuniclus  
 Ability: Magic Guard  
-Level: 29  
+Level: 26  
 Shiny: Yes    
 Sassy Nature  
 IVs: 0 Atk  
@@ -5522,7 +5493,7 @@ IVs: 0 Atk
 
 Rabsca @ Leppa Berry  
 Ability: Telepathy  
-Level: 31    
+Level: 29    
 Relaxed Nature  
 IVs: 0 Atk  
 - Revival Blessing  
@@ -5530,10 +5501,65 @@ IVs: 0 Atk
 - Bug Buzz  
 - Shadow Ball  
 
+=== TRAINER_NORMAN_1 ===
+Name: FLANNERY
+Class: Leader
+Pic: Leader Flannery
+Gender: Female
+Music: Female
+Items: Hyper Potion / Hyper Potion
+Double Battle: No
+AI: Basic Trainer
+
+Torkoal @ Heat Rock  
+Ability: Drought  
+Level: 27  
+IVs: 0 Atk  
+- Ancient Power  
+- Earth Power  
+- Lava Plume  
+- Sludge Bomb  
+
+Darmanitan  
+Ability: Sheer Force  
+Level: 27  
+Quiet Nature  
+- Fire Punch  
+- Thief  
+- Payback  
+- Laser Focus  
+
+Carkol @ Focus Sash  
+Ability: Steam Engine  
+Level: 27  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Stealth Rock  
+- Tar Shot  
+- Incinerate  
+
+Rotom-Heat @ Heat Rock  
+Ability: Levitate  
+Level: 29  
+IVs: 0 Atk  
+- Sunny Day  
+- Foul Play  
+- Volt Switch  
+- Will-O-Wisp  
+
+Incineroar  
+Ability: Intimidate  
+Level: 31  
+Shiny: Yes    
+- Parting Shot  
+- Blaze Kick  
+- Brutal Swing  
+- U-turn 
+
 
 
 === TRAINER_WINONA_1 ===
-Name: WINONA
+Name: BURGH
 Class: Leader
 Pic: Leader Winona
 Gender: Female
@@ -5542,45 +5568,46 @@ Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer / Risky
 
-Swablu
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Perish Song
-- Mirror Move
-- Safeguard
-- Aerial Ace
+Araquanid @ Focus Sash  
+Ability: Water Bubble  
+Level: 29  
+IVs: 0 Atk  
+- Sticky Web  
+- Scald  
+- Bug Buzz  
+- Rain Dance  
 
-Tropius
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Sunny Day
-- Aerial Ace
-- Solar Beam
-- Synthesis
+Scolipede  
+Ability: Swarm  
+Level: 29  
+- Skitter Smack  
+- Dig  
+- Poison Jab  
+- Assurance  
 
-Pelipper
-Level: 30
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Water Gun
-- Supersonic
-- Protect
-- Aerial Ace
+Scizor  
+Ability: Technician  
+Level: 30  
+- Bullet Punch  
+- U-turn  
+- Aerial Ace  
+- Thief  
 
-Skarmory
-Level: 31
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Sand Attack
-- Fury Attack
-- Steel Wing
-- Aerial Ace
+Heracross  
+Ability: Guts  
+Level: 31  
+Shiny: Yes  
+- Swords Dance  
+- Megahorn  
+- Brick Break  
 
-Altaria @ Oran Berry
-Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
+Vespiquen  
+Ability: Pressure  
+Level: 33  
+- Attack Order  
+- Defend Order  
+- Destiny Bond  
+- Dual Wingbeat  
 
 === TRAINER_TATE_AND_LIZA_1 ===
 Name: TATE&LIZA
@@ -7919,37 +7946,52 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JARED ===
 Name: JARED
-Class: Bird Keeper
-Pic: Bird Keeper
+Class: Bug Maniac
+Pic: Bug Maniac
 Gender: Male
-Music: Cool
+Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Doduo
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Armaldo  
+Ability: Swift Swim  
+Level: 27    
+- Bug Bite  
+- Stealth Rock  
+- Mimic  
+- Aqua Jet  
 
-Skarmory
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Crustle  
+Ability: Sturdy  
+Level: 27    
+- Counter  
+- Rock Polish  
+- Rock Slide  
+- Skitter Smack  
 
-Tropius
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Kleavor @ Choice Scarf  
+Ability: Sharpness  
+Level: 27   
+- Night Slash  
+- Stone Axe  
+- Fury Cutter  
 
 === TRAINER_HUMBERTO ===
 Name: HUMBERTO
-Class: Bird Keeper
-Pic: Bird Keeper
+Class: Bug Maniac
+Pic: Bug Maniac
 Gender: Male
-Music: Cool
+Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Skarmory
-Level: 30
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+Durant @ Occa Berry  
+Ability: Hustle  
+Level: 30    
+- Rock Climb  
+- Rock Slide  
+- Rock Polish  
+- Fury Cutter
 
 === TRAINER_PRESLEY ===
 Name: PRESLEY
@@ -9730,16 +9772,20 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_ELI ===
 Name: ELI
-Class: Hiker
-Pic: Hiker
+Class: Psychic
+Pic: Psychic M
 Gender: Male
-Music: Hiker
+Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Numel
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Wyrdeer  
+Ability: Intimidate  
+Level: 23    
+- Psyshield Bash  
+- Double Kick  
+- Take Down  
+- Reflect
 
 === TRAINER_ANNIKA ===
 Name: ANNIKA
@@ -12524,13 +12570,13 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Kecleon
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Flamethrower
-- Fury Swipes
-- Feint Attack
-- Bind
+Metang @ Expert Belt  
+Ability: Clear Body  
+Level: 23   
+- Meteor Mash  
+- Explosion  
+- Psycho Cut  
+- Brick Break
 
 === TRAINER_VIVIAN ===
 Name: VIVIAN
@@ -12565,17 +12611,17 @@ Name: DANIELLE
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
-Music: Intense
+Music: Cool
 Double Battle: No
 AI: Basic Trainer
 
-Meditite
+Medicham
 Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Bide
 - Detect
 - Confusion
-- Fire Punch
+- High Jump Kick
 
 === TRAINER_HIDEO ===
 Name: HIDEO
@@ -12678,17 +12724,31 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Swablu
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Masquerain  
+Ability: Intimidate  
+Level: 27    
+- Rain Dance  
+- Sticky Web  
+- Tailwind  
+- Fell Stinger  
 
-Swablu
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Beautifly  
+Ability: Swarm  
+Level: 27    
+IVs: 0 Atk  
+- Attract  
+- Safeguard  
+- Infestation  
+- Twister  
 
-Swablu
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Butterfree  
+Ability: Compound Eyes  
+Level: 27    
+IVs: 0 Atk  
+- Sleep Powder  
+- Toxic  
+- Air Cutter  
+- Signal Beam 
 
 === TRAINER_WALLY_MAUVILLE ===
 Name: WALLY
