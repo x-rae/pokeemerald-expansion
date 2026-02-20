@@ -5674,45 +5674,56 @@ Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Luvdisc
-Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Attract
-- Sweet Kiss
-- Flail
+Mimikyu  
+Ability: Disguise  
+Level: 41    
+- Play Rough  
+- Shadow Sneak  
+- Dream Eater  
+- Hypnosis  
 
-Whiscash
-Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rain Dance
-- Water Pulse
-- Amnesia
-- Earthquake
+Gholdengo  
+Ability: Good as Gold  
+Level: 41    
+IVs: 0 Atk  
+- Make It Rain  
+- Shadow Ball  
+- Thunder Wave  
+- Power Gem  
 
-Sealeo
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Encore
-- Body Slam
-- Aurora Beam
-- Water Pulse
+Ceruledge  
+Ability: Flash Fire  
+Level: 42    
+- Bitter Blade  
+- Shadow Claw  
+- Destiny Bond  
+- Night Slash  
 
-Crawdaunt
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Crabhammer
-- Taunt
-- Leer
+Aegislash  
+Ability: Stance Change  
+Level: 42    
+- King's Shield  
+- Sacred Sword  
+- Shadow Sneak  
+- Flash Cannon  
 
-Kingdra @ Chesto Berry
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Water Pulse
-- Double Team
-- Ice Beam
-- Rest
+Dhelmise  
+Ability: Steelworker  
+Level: 42    
+- Anchor Shot  
+- Power Whip  
+- Poltergeist  
+- Pain Split  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+Level: 44  
+Tera Type: Ghost  
+IVs: 0 Atk  
+- Shadow Ball  
+- Focus Blast  
+- Foul Play  
+- Psychic  
 
 === TRAINER_JERRY_1 ===
 Name: JERRY
