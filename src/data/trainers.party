@@ -92,7 +92,7 @@ AI: Basic Trainer
 
 Scizor @ Occa Berry  
 Ability: Technician  
-Level: 20    
+Level: 32    
 - Bullet Punch  
 - Bug Bite  
 - Roost  
@@ -100,10 +100,10 @@ Level: 20
 
 Umbreon @ Leftovers  
 Ability: Synchronize  
-Level: 21  
+Level: 34  
 Tera Type: Dark  
-- Bite  
-- Pursuit  
+- Crunch  
+- Skull Bash
 - Wish  
 - Toxic
 
@@ -2425,41 +2425,41 @@ Music: Rich
 Double Battle: No
 AI: Basic Trainer
 
-Quilava @ Charcoal  
+Typhlosion @ Charcoal  
 Ability: Blaze  
-Level: 20    
+Level: 32    
 IVs: 0 Atk  
-- Incinerate  
+- Eruption  
 - Will-O-Wisp  
 - Smokescreen  
-- Substitute
+- Protect
 
-Dartrix  
+Decidueye  
 Ability: Long Reach  
-Level: 20   
-- Air Cutter  
+Level: 32   
+- Spirit Shackle  
 - Razor Leaf  
-- Swift  
+- U-Turn  
 - Tailwind
 
 Buizel  
 Ability: Swift Swim  
-Level: 22  
+Level: 32  
 - Flip Turn  
 - Aqua Jet  
-- Icy Wind  
-- Bite
+- Helping Hand  
+- Crunch
 
-Luxio  
+Luxray  
 Ability: Intimidate
-Level: 24 
+Level: 34 
 Shiny: Yes   
 EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
-- Bite  
-- Double Kick  
-- Spark  
-- Helping Hand
+- Crunch  
+- Psychic Fangs  
+- Volt Tackle  
+- Snarl
 
 === TRAINER_SHEILA ===
 Name: SHEILA
@@ -2470,8 +2470,16 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Breloom
-Level: 21
+Grotle
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Grovyle
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Thwackey
+Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHIRLEY ===
@@ -2484,7 +2492,15 @@ Double Battle: No
 AI: Basic Trainer
 
 Monferno
-Level: 21
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Pignite
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Quilava
+Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JESSICA_1 ===
@@ -3933,14 +3949,14 @@ AI: Basic Trainer
 
 Claydol @ Wide Lens  
 Ability: Levitate  
-Level: 23    
+Level: 27    
 - Fissure  
 - Explosion  
 - Drill Run
 
 Slowbro @ Leftovers  
 Ability: Own Tempo  
-Level: 23  
+Level: 27  
 IVs: 0 Atk  
 - Slack Off  
 - Yawn  
@@ -3958,7 +3974,7 @@ AI: Basic Trainer
 
 Sigilyph @ Persim Berry  
 Ability: Wonder Skin  
-Level: 22   
+Level: 26   
 IVs: 0 Atk  
 - Swagger  
 - Confusion  
@@ -3967,7 +3983,7 @@ IVs: 0 Atk
 
 Kadabra @ Bright Powder  
 Ability: Inner Focus  
-Level: 22  
+Level: 26  
 IVs: 0 Atk  
 - Kinesis  
 - Miracle Eye  
@@ -3984,11 +4000,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Kadabra
-Level: 20
+Level: 24
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Xatu
-Level: 23
+Level: 27
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JACE ===
@@ -4002,7 +4018,7 @@ AI: Basic Trainer
 
 Veluza  
 Ability: Mold Breaker  
-Level: 23    
+Level: 27    
 - Fillet Away  
 - Heart Stamp  
 - Aqua Jet
@@ -4017,7 +4033,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Starmie
-Level: 23
+Level: 27
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_BERNIE_1 ===
@@ -5495,7 +5511,7 @@ AI: Basic Trainer
 
 Bronzong @ Light Clay  
 Ability: Levitate  
-Level: 26    
+Level: 30     
 Relaxed Nature  
 IVs: 0 Spe  
 - Trick Room  
@@ -5505,7 +5521,7 @@ IVs: 0 Spe
 
 Farigiraf  
 Ability: Armor Tail  
-Level: 26   
+Level: 30   
 Bold Nature  
 - Mirror Coat  
 - Future Sight  
@@ -5514,7 +5530,7 @@ Bold Nature
 
 Reuniclus  
 Ability: Magic Guard  
-Level: 28  
+Level: 32  
 Shiny: Yes    
 Sassy Nature  
 IVs: 0 Atk  
@@ -5525,7 +5541,7 @@ IVs: 0 Atk
 
 Rabsca @ Leppa Berry  
 Ability: Telepathy  
-Level: 29    
+Level: 33   
 Relaxed Nature  
 IVs: 0 Atk  
 - Revival Blessing  
@@ -6506,12 +6522,16 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Meditite
-Level: 21
+Corviknight
+Level: 30
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
-Makuhita
-Level: 21
+Duraludon
+Level: 30
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Klinklang
+Level: 30
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_SHELBY_2 ===
@@ -9865,7 +9885,7 @@ AI: Basic Trainer
 
 Wyrdeer  
 Ability: Intimidate  
-Level: 23    
+Level: 27    
 - Psyshield Bash  
 - Double Kick  
 - Take Down  
@@ -12704,7 +12724,7 @@ AI: Basic Trainer
 
 Metang @ Expert Belt  
 Ability: Clear Body  
-Level: 23   
+Level: 27   
 - Meteor Mash  
 - Explosion  
 - Psycho Cut  
@@ -12748,7 +12768,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Medicham
-Level: 23
+Level: 27
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Bide
 - Detect
@@ -17519,7 +17539,7 @@ AI: Basic Trainer
 
 Scizor @ Occa Berry  
 Ability: Technician  
-Level: 26    
+Level: 40    
 - Bullet Punch  
 - Bug Bite  
 - Roost  
@@ -17527,7 +17547,7 @@ Level: 26
 
 Roserade @ Big Root  
 Ability: Natural Cure  
-Level: 28    
+Level: 40    
 IVs: 0 Atk  
 - Sludge Bomb  
 - Toxic Spikes  
@@ -17536,7 +17556,8 @@ IVs: 0 Atk
 
 Umbreon @ Leftovers  
 Ability: Synchronize  
-Level: 29  
+Shiny: Yes
+Level: 44  
 Tera Type: Dark  
 - Bite  
 - Pursuit  
@@ -17554,7 +17575,7 @@ AI: Basic Trainer
 
 Gliscor @ Toxic Orb  
 Ability: Poison Heal  
-Level: 35    
+Level: 50    
 IVs: 0 Atk  
 - Protect  
 - Stealth Rock  
@@ -17563,7 +17584,7 @@ IVs: 0 Atk
 
 Scizor @ Occa Berry  
 Ability: Technician  
-Level: 35    
+Level: 50    
 - Bullet Punch  
 - Bug Bite  
 - Roost  
@@ -17571,7 +17592,7 @@ Level: 35
 
 Roserade @ Big Root  
 Ability: Natural Cure  
-Level: 35    
+Level: 50    
 IVs: 0 Atk  
 - Sludge Bomb  
 - Toxic Spikes  
@@ -17579,8 +17600,9 @@ IVs: 0 Atk
 - Giga Drain
 
 Umbreon @ Leftovers  
-Ability: Synchronize  
-Level: 40  
+Ability: Synchronize 
+Shiny: Yes 
+Level: 54  
 Tera Type: Dark  
 - Bite  
 - Pursuit  
@@ -17598,7 +17620,7 @@ AI: Basic Trainer
 
 Gliscor @ Toxic Orb  
 Ability: Poison Heal  
-Level: 40    
+Level: 60    
 EVs: 8 HP / 248 Def / 248 SpD  
 Careful Nature  
 - Baton Pass  
@@ -17608,7 +17630,7 @@ Careful Nature
 
 Scizor @ Occa Berry  
 Ability: Technician  
-Level: 42  
+Level: 60  
 EVs: 8 HP / 248 Def / 248 SpD   
 - Bullet Punch  
 - Bug Bite  
@@ -17617,7 +17639,7 @@ EVs: 8 HP / 248 Def / 248 SpD
 
 Roserade @ Big Root  
 Ability: Natural Cure  
-Level: 42    
+Level: 60    
 IVs: 0 Atk  
 - Sludge Bomb  
 - Toxic Spikes  
@@ -17626,7 +17648,7 @@ IVs: 0 Atk
 
 Umbreon @ Leftovers  
 Ability: Synchronize  
-Level: 48  
+Level: 64  
 Tera Type: Dark
 EVs: 8 HP / 248 Def / 248 SpD   
 - Crunch  
@@ -17645,7 +17667,7 @@ AI: Basic Trainer
 
 Ferrothorn @ Rocky Helmet  
 Ability: Iron Barbs  
-Level: 65    
+Level: 70    
 IVs: 0 Spe  
 - Ingrain  
 - Leech Seed  
@@ -17654,7 +17676,7 @@ IVs: 0 Spe
 
 Gouging Fire @ Booster Energy  
 Ability: Protosynthesis  
-Level: 65    
+Level: 70    
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Burning Bulwark  
@@ -17664,7 +17686,7 @@ Adamant Nature
 
 Raging Bolt @ Booster Energy  
 Ability: Protosynthesis  
-Level: 65    
+Level: 70    
 EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 1 Atk  
@@ -17675,7 +17697,7 @@ IVs: 1 Atk
 
 Primarina @ Assault Vest  
 Ability: Liquid Voice    
-Level: 65
+Level: 70
 EVs: 252 HP / 4 Atk / 252 SpA  
 Quiet Nature  
 - Aqua Jet  
@@ -17685,7 +17707,7 @@ Quiet Nature
 
 Walking Wake @ Booster Energy  
 Ability: Protosynthesis  
-Level: 65    
+Level: 70    
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
