@@ -267,11 +267,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Zebstrika
-Level: 29
+Level: 44
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Flapple
-Level: 29
+Level: 44
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ALBERTO ===
@@ -288,6 +288,10 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Golbat
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Sigilyph
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -399,15 +403,15 @@ Double Battle: No
 AI: Basic Trainer
 
 Haunter
-Level: 26
+Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Golbat
-Level: 26
+Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Primeape
-Level: 26
+Annihilape
+Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MUSEUM_1 ===
@@ -522,11 +526,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Shuckle
-Level: 28
+Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Gliscor
-Level: 28
+Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_5 ===
@@ -624,7 +628,7 @@ AI: Basic Trainer
 
 Annihilape @ Assault Vest  
 Ability: Defiant  
-Level: 31    
+Level: 45    
 - Rage Fist
 
 === TRAINER_SHELLY_WEATHER_INSTITUTE ===
@@ -736,7 +740,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Gengar
-Level: 31
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAISY ===
@@ -923,29 +927,17 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Claydol
-Level: 27
+Hippowdon
+Level: 38
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Psybeam
-- Self Destruct
-- Sandstorm
-- Ancient Power
 
-Lairon
-Level: 27
+Aggron
+Level: 38
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Dig
-- Slash
-- Sand Attack
-- Poison Sting
 
-Graveler
-Level: 27
+Geodude
+Level: 46
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Dig
-- Slash
-- Sand Attack
-- Fissure
 
 === TRAINER_FOSTER ===
 Name: FOSTER
@@ -1071,12 +1063,16 @@ Music: Interviewer
 Double Battle: Yes
 AI: Basic Trainer
 
-Magneton
-Level: 30
+Magnezone
+Level: 38
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Loudred
-Level: 30
+Chatot
+Level: 38
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Exploud
+Level: 38
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_GABBY_AND_TY_4 ===
@@ -1904,15 +1900,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Spiritomb
-Level: 30
+Level: 38
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
-Spiritomb
-Level: 30
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-
-Spiritomb
-Level: 30
+Sableye
+Level: 38
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_HOPE ===
@@ -2149,11 +2141,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Golurk
-Level: 29
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Brambleghast
-Level: 29
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_VALERIE_1 ===
@@ -2511,12 +2503,12 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Chansey
-Level: 29
+Blissey
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Seviper
-Level: 29
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Poison Tail
 - Screech
@@ -2854,7 +2846,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Rhyperior
-Level: 31
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MT_CHIMNEY_1 ===
@@ -4421,16 +4413,16 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Surskit
-Level: 27
+Frosmoth
+Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Masquerain
-Level: 27
+Kleavor
+Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Araquanid
-Level: 27
+Lokix
+Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEREK ===
@@ -4821,15 +4813,15 @@ Double Battle: No
 AI: Basic Trainer
 
 Wobbuffet
-Level: 26
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Grumpig
-Level: 26
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Kadabra
-Level: 26
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALEXIS ===
@@ -4947,12 +4939,12 @@ Music: Rich
 Double Battle: No
 AI: Basic Trainer
 
-Haunter
-Level: 29
+Beartic
+Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Houndstone
-Level: 30
+Ursaring
+Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MICAH ===
@@ -5620,7 +5612,7 @@ AI: Basic Trainer / Risky
 
 Araquanid @ Focus Sash  
 Ability: Water Bubble  
-Level: 29  
+Level: 42  
 IVs: 0 Atk  
 - Sticky Web  
 - Scald  
@@ -5629,7 +5621,7 @@ IVs: 0 Atk
 
 Scolipede  
 Ability: Swarm  
-Level: 29  
+Level: 42  
 - Skitter Smack  
 - Dig  
 - Poison Jab  
@@ -5637,7 +5629,7 @@ Level: 29
 
 Scizor  
 Ability: Technician  
-Level: 30  
+Level: 42  
 - Bullet Punch  
 - U-turn  
 - Aerial Ace  
@@ -5645,7 +5637,7 @@ Level: 30
 
 Heracross  
 Ability: Guts  
-Level: 31  
+Level: 42  
 Shiny: Yes  
 - Swords Dance  
 - Megahorn  
@@ -5653,7 +5645,7 @@ Shiny: Yes
 
 Vespiquen  
 Ability: Pressure  
-Level: 33  
+Level: 48  
 - Attack Order  
 - Defend Order  
 - Destiny Bond  
@@ -6001,16 +5993,13 @@ Music: Twins
 Double Battle: Yes
 AI: Basic Trainer
 
-Spinda
-Level: 30
+Durant
+Ability: Truant
+Level: 43
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Hypnosis
-- Psybeam
-- Dizzy Punch
-- Teeter Dance
 
 Slaking
-Level: 32
+Level: 43
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Focus Punch
 - Yawn
@@ -6299,8 +6288,8 @@ Music: Twins
 Double Battle: No
 AI: Basic Trainer
 
-Pikachu @ Oran Berry
-Level: 30
+Raichu-Alola @ Oran Berry
+Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BETHANY ===
@@ -8132,7 +8121,7 @@ AI: Basic Trainer
 
 Armaldo  
 Ability: Swift Swim  
-Level: 27    
+Level: 38    
 - Bug Bite  
 - Stealth Rock  
 - Mimic  
@@ -8140,7 +8129,7 @@ Level: 27
 
 Crustle  
 Ability: Sturdy  
-Level: 27    
+Level: 38    
 - Counter  
 - Rock Polish  
 - Rock Slide  
@@ -8148,7 +8137,7 @@ Level: 27
 
 Kleavor @ Choice Scarf  
 Ability: Sharpness  
-Level: 27   
+Level: 38   
 - Night Slash  
 - Stone Axe  
 - Fury Cutter  
@@ -8164,7 +8153,7 @@ AI: Basic Trainer
 
 Durant @ Occa Berry  
 Ability: Hustle  
-Level: 30    
+Level: 40    
 - Rock Climb  
 - Rock Slide  
 - Rock Polish  
@@ -8197,11 +8186,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Ariados
-Level: 29
+Level: 40
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Escavalier
-Level: 29
+Level: 40
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_COLIN ===
@@ -8213,12 +8202,12 @@ Music: Cool
 Double Battle: No
 AI: Basic Trainer
 
-Wingull
-Level: 28
+Kilowattrel
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Natu
-Level: 28
+Mandibuzz
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROBERT_1 ===
@@ -8230,8 +8219,12 @@ Music: Cool
 Double Battle: No
 AI: Basic Trainer
 
-Swablu
-Level: 29
+Talonflame
+Level: 40
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Drifblim
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BENNY ===
@@ -8799,13 +8792,10 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Roselia
-Level: 28
+Gholdengo
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Wailmer
-Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Make It Rain
 
 === TRAINER_ANGELICA ===
 Name: ANGELICA
@@ -8817,7 +8807,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Castform
-Level: 30
+Level: 40
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Rain Dance
 - Weather Ball
@@ -11132,16 +11122,16 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Seedot
-Level: 28
+Simisage
+Level: 38
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Nuzleaf
-Level: 28
+Maractus
+Level: 38
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Lombre
-Level: 28
+Tsareena
+Level: 40
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_SEBASTIAN ===
@@ -11246,16 +11236,12 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
-Oddish
-Level: 28
+Octillery
+Level: 38
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Lombre
-Level: 28
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-
-Nuzleaf
-Level: 28
+Inteleon
+Level: 38
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_SOPHIA ===
@@ -11823,12 +11809,12 @@ Music: Aqua
 Double Battle: No
 AI: Basic Trainer
 
-Zubat
-Level: 27
+Orthworm
+Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Rattata
-Level: 27
+Machoke
+Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TABITHA_MT_CHIMNEY ===
@@ -12664,12 +12650,12 @@ Music: Girl
 Double Battle: Yes
 AI: Basic Trainer
 
-Delcatty
-Level: 31
+Espeon
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Manectric
-Level: 31
+Umbreon
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEA_AND_JED ===
@@ -12883,21 +12869,13 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer / Try To Faint
 
-Koffing
-Level: 28
+Zoroark
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Poison Gas
-- Self Destruct
-- Sludge
-- Smokescreen
 
-Ninjask
-Level: 28
+Golurk
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Sand Attack
-- Double Team
-- Fury Cutter
-- Swords Dance
 
 === TRAINER_RILEY ===
 Name: RILEY
@@ -12908,16 +12886,12 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer / Try To Faint
 
-Nincada
-Level: 28
+Kricketune
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Leech Life
-- Fury Swipes
-- Mind Reader
-- Dig
 
-Koffing
-Level: 28
+Weezing
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Tackle
 - Self Destruct
@@ -12934,11 +12908,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Centiskorch
-Level: 29
+Level: 40
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Golisopod
-Level: 29
+Level: 40
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ASHLEY ===
@@ -12952,7 +12926,7 @@ AI: Basic Trainer
 
 Masquerain  
 Ability: Intimidate  
-Level: 27    
+Level: 38    
 - Rain Dance  
 - Sticky Web  
 - Tailwind  
@@ -12960,7 +12934,7 @@ Level: 27
 
 Beautifly  
 Ability: Swarm  
-Level: 27    
+Level: 38    
 IVs: 0 Atk  
 - Attract  
 - Safeguard  
@@ -12969,7 +12943,7 @@ IVs: 0 Atk
 
 Butterfree  
 Ability: Compound Eyes  
-Level: 27    
+Level: 38    
 IVs: 0 Atk  
 - Sleep Powder  
 - Toxic  
@@ -15117,7 +15091,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Manectric
-Level: 30
+Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Thunder
 - Quick Attack
@@ -15132,11 +15106,11 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Meditite
+Grapploct
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Makuhita
+Sirfetch'd
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -15150,11 +15124,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Dustox
-Level: 29
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Beautifly
-Level: 29
+Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MYLES ===
@@ -15166,28 +15140,28 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Makuhita
-Level: 25
+Mightyena
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-wooper
-Level: 25
+Arcanine
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Tropius
-Level: 25
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
-
-Zigzagoon
-Level: 25
+Granbull
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Electrike
-Level: 25
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Numel
-Level: 25
+Stoutland
+Level: 37
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
+Lycanroc
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_PAT ===
@@ -15199,28 +15173,28 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Rattata
-Level: 25
+Morpeko
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Shroomish
-Level: 25
+Pachirisu
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Electrike
-Level: 25
+Mimikyu
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Marill
-Level: 25
+Dedenee
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Sandshrew
-Level: 25
+Emolga
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Gulpin
-Level: 25
+Togedemaru
+Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CRISTIN_1 ===
@@ -15233,12 +15207,12 @@ Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Loudred
-Level: 29
+Dhelmise
+Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Vigoroth
-Level: 29
+Delibird
+Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_RUSTBORO_TREECKO ===
@@ -16985,11 +16959,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Orbeetle
-Level: 30
+Level: 40
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 Shedinja
-Level: 30
+Level: 40
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_STEVEN ===
