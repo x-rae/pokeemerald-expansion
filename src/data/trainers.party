@@ -901,13 +901,9 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Aron
-Level: 23
+Sandslash
+Level: 37
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Dig
-- Slash
-- Sand Attack
-- Poison Sting
 
 === TRAINER_CHIP ===
 Name: CHIP
@@ -951,19 +947,13 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Diglett
-Level: 25
+Dugtrio
+Level: 35
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Dig
-- Slash
-- Sand Attack
 
-Diglett
-Level: 25
+Sandslash
+Level: 35
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Dig
-- Slash
-- Sand Attack
 
 === TRAINER_DUSTY_2 ===
 Name: DUSTY
@@ -1377,7 +1367,7 @@ AI: Basic Trainer
 
 Blaziken  
 Ability: Speed Boost  
-Level: 26  
+Level: 33  
 - Seismic Toss  
 - Counter  
 - Double Kick  
@@ -1395,7 +1385,7 @@ AI: Basic Trainer
 
 Flareon @ Persim Berry  
 Ability: Guts  
-Level: 26  
+Level: 34  
 - Swagger  
 - Will-O-Wisp  
 - Detect  
@@ -1413,7 +1403,7 @@ AI: Basic Trainer
 
 Talonflame @ Sitrus Berry  
 Ability: Gale Wings  
-Level: 26  
+Level: 34  
 - Roost  
 - Growl  
 - Aerial Ace  
@@ -1431,7 +1421,7 @@ AI: Basic Trainer
 
 Typhlosion @ White Herb  
 Ability: Flash Fire  
-Level: 26  
+Level: 34  
 - Overheat  
 - Low Kick
 
@@ -1779,11 +1769,7 @@ AI: Basic Trainer
 
 Arcanine  
 Ability: Intimidate  
-Level: 26  
-- Sand Attack  
-- Double Team  
-- Aerial Ace  
-- Fire Spin
+Level: 33  
 
 === TRAINER_ALEXIA ===
 Name: ALEXIA
@@ -1797,7 +1783,7 @@ AI: Basic Trainer
 
 Turtonator @ Leftovers  
 Ability: Shell Armor  
-Level: 26  
+Level: 34  
 - Iron Defense  
 - Incinerate  
 - Toxic  
@@ -1815,7 +1801,7 @@ AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
 Darmanitan  
 Ability: Sheer Force  
-Level: 26  
+Level: 34  
 - Rock Tomb  
 - Flame Wheel  
 - Rock Smash
@@ -2945,11 +2931,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Azumarill
-Level: 26
+Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Exeggutor
-Level: 26
+Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DOMINIK ===
@@ -2961,8 +2947,8 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Tentacruel
-Level: 26
+Kingler
+Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DOUGLAS ===
@@ -3511,12 +3497,12 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Croagunk
-Level: 24
+Toxicroak
+Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Medicham
-Level: 28
+Level: 36
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_NOB_1 ===
@@ -4130,8 +4116,12 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Marshtomp
-Level: 23
+Swampert
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Arcanine-Hisui
+Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BEAU ===
@@ -4143,25 +4133,18 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Baltoy
-Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
-
-Buizel
-Level: 21
+Claydol
+Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Baltoy
-Level: 21
+Cradily
+Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
+
+Carracosta
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 
 === TRAINER_LARRY ===
 Name: LARRY
@@ -5561,7 +5544,7 @@ AI: Basic Trainer
 
 Torkoal @ Heat Rock  
 Ability: Drought  
-Level: 27  
+Level: 34  
 IVs: 0 Atk  
 - Ancient Power  
 - Earth Power  
@@ -5570,7 +5553,7 @@ IVs: 0 Atk
 
 Darmanitan  
 Ability: Sheer Force  
-Level: 27  
+Level: 34  
 Quiet Nature  
 - Fire Punch  
 - Thief  
@@ -5579,7 +5562,7 @@ Quiet Nature
 
 Carkol @ Focus Sash  
 Ability: Steam Engine  
-Level: 27  
+Level: 34  
 IVs: 0 Atk  
 - Will-O-Wisp  
 - Stealth Rock  
@@ -5588,7 +5571,7 @@ IVs: 0 Atk
 
 Rotom-Heat @ Heat Rock  
 Ability: Levitate  
-Level: 29  
+Level: 36  
 IVs: 0 Atk  
 - Sunny Day  
 - Foul Play  
@@ -5597,14 +5580,12 @@ IVs: 0 Atk
 
 Incineroar  
 Ability: Intimidate  
-Level: 31  
+Level: 38  
 Shiny: Yes    
 - Parting Shot  
 - Blaze Kick  
 - Brutal Swing  
 - U-turn 
-
-
 
 === TRAINER_WINONA_1 ===
 Name: BURGH
@@ -6416,8 +6397,16 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Hariyama
-Level: 27
+Nidoking
+Level: 34
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Kadabra
+Level: 34
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Nidoqueen
+Level: 34
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_TIMOTHY_2 ===
@@ -6429,13 +6418,22 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Hariyama
-Level: 33
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Arm Thrust
-- Knock Off
-- Sand Attack
-- Dig
+Nidoking
+Level: 38
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Alakazam
+Level: 38
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Nidoqueen
+Level: 38
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Graveler
+Level: 38
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
 
 === TRAINER_TIMOTHY_3 ===
 Name: TIMOTHY
@@ -6446,13 +6444,25 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Hariyama
-Level: 36
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Arm Thrust
-- Knock Off
-- Sand Attack
-- Dig
+Nidoking
+Level: 42
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Alakazam
+Level: 42
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Nidoqueen
+Level: 42
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Magneton
+Level: 42
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Golem
+Level: 42
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_TIMOTHY_4 ===
 Name: TIMOTHY
@@ -6463,13 +6473,29 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Hariyama
-Level: 39
-IVs: 27 HP / 27 Atk / 27 Def / 27 SpA / 27 SpD / 27 Spe
-- Arm Thrust
-- Belly Drum
-- Sand Attack
-- Dig
+Nidoking
+Level: 46
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Alakazam
+Level: 46
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Nidoqueen
+Level: 46
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Magneton
+Level: 46
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Dragonite
+Level: 46
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Golem
+Level: 46
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_TIMOTHY_5 ===
 Name: TIMOTHY
@@ -6480,13 +6506,29 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Hariyama
-Level: 42
-IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
-- Arm Thrust
-- Belly Drum
-- Sand Attack
-- Dig
+Nidoking @ Soft Sand
+Level: 50
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Alakazam @ Twisted Spoon
+Level: 50
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Nidoqueen @ Leftovers
+Level: 50
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Magneton @ Eviolite
+Level: 50
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Dragonite @ Leftovers
+Level: 50
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Golem @ Focus Sash
+Level: 50
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_VICKY ===
 Name: VICKY
@@ -8843,12 +8885,12 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Wingull
+Sharpedo
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wailmer
-Level: 25
+Wailord
+Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_IMANI ===
@@ -8860,8 +8902,8 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Marill
-Level: 26
+Gorebyss
+Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KYLA ===
@@ -9264,20 +9306,17 @@ Double Battle: No
 AI: Basic Trainer
 
 Sandshrew
-Level: 22
+Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Dig
-- Sand Attack
-- Poison Sting
-- Slash
 
-Baltoy
-Level: 22
+Sandslash
+Level:34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
+
+Gabite
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 
 === TRAINER_BECKY ===
 Name: BECKY
@@ -9288,21 +9327,13 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Sandshrew
-Level: 22
+Machamp
+Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Sand Attack
-- Poison Sting
-- Slash
-- Dig
 
-Marill
-Level: 22
+Golem
+Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rollout
-- Bubble Beam
-- Tail Whip
-- Defense Curl
 
 === TRAINER_CAROL ===
 Name: CAROL
@@ -14568,8 +14599,8 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Tentacool
-Level: 15
+Dewgong
+Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISABELLE ===
@@ -14581,8 +14612,8 @@ Music: Swimmer
 Double Battle: No
 AI: Basic Trainer
 
-Marill
-Level: 15
+Azumarill
+Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANDRES_1 ===
@@ -14594,12 +14625,12 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Sandshrew
-Level: 25
+Palossand
+Level: 35
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Sandshrew
-Level: 25
+Runerigus
+Level: 35
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JOSUE ===
@@ -14611,12 +14642,16 @@ Music: Cool
 Double Battle: No
 AI: Basic Trainer
 
-Taillow
-Level: 25
+Drifblim
+Level: 35
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-wooper
-Level: 25
+Archeops
+Level: 35
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+
+Swoobat
+Level: 35
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_CAMRON ===
@@ -14701,12 +14736,12 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Marill
-Level: 22
+Ludicolo
+Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Lombre
-Level: 22
+Goodra
+Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRYAN ===
@@ -14718,13 +14753,20 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Sandshrew
-Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Gyarados @ Damp Rock
+Ability: Intimidate  
+Level: 34    
+- Rain Dance  
+- Waterfall  
+- Crunch
 
-Sandslash
-Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Kabutops  
+Ability: Swift Swim  
+Level: 34   
+- Aqua Tail  
+- Brick Break  
+- Leech Life  
+- Rock Slide
 
 === TRAINER_BRANDEN ===
 Name: BRANDEN
@@ -14735,12 +14777,14 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Taillow
-Level: 22
+Barraskewda
+Ability: Swift Swim 
+Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Nuzleaf
-Level: 22
+Alomomola
+Ability: Hydration
+Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRYANT ===
@@ -14787,11 +14831,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Doduo
-Level: 26
+Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Dodrio
-Level: 26
+Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JAIDEN ===
@@ -14803,12 +14847,16 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Ninjask
-Level: 26
+Nincada
+Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Gulpin
-Level: 26
+Ninjask
+Level: 35
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Shedinja
+Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALIX ===
@@ -14821,11 +14869,11 @@ Double Battle: No
 AI: Basic Trainer
 
 Kadabra
-Level: 26
+Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Kirlia
-Level: 26
+Gallade
+Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HELENE ===
@@ -14837,12 +14885,12 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Meditite
-Level: 26
+Medicham
+Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Makuhita
-Level: 26
+Hariyama
+Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARLENE ===
