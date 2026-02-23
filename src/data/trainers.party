@@ -10184,45 +10184,61 @@ Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Altaria
-Level: 44
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Aerial Ace
-- Safeguard
-- Dragon Breath
-- Dragon Dance
+Weavile @ Focus Sash  
+Level: 50
+Ability: Pressure  
+Tera Type: Dark  
+- Triple Axel  
+- Reversal  
+- Throat Chop  
+- Poison Jab  
 
-Delcatty
-Level: 43
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Sing
-- Assist
-- Charm
-- Feint Attack
+Empoleon  
+Level: 52
+Ability: Torrent  
+Tera Type: Water  
+IVs: 0 Atk  
+- Grass Knot  
+- Hydro Pump  
+- Blizzard  
+- Flash Cannon  
 
-Roselia
-Level: 44
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Magical Leaf
-- Leech Seed
-- Giga Drain
-- Toxic
+Torterra  
+Level: 52
+Ability: Shell Armor  
+Tera Type: Grass  
+- Earthquake  
+- Wood Hammer  
+- Superpower  
+- Stone Edge  
 
-Magneton
-Level: 41
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Supersonic
-- Thunderbolt
-- Tri Attack
-- Screech
+Infernape  
+Level: 52
+Ability: Iron Fist  
+Tera Type: Fire  
+- Close Combat  
+- Raging Fury  
+- Gunk Shot  
+- Earthquake  
 
-Gardevoir
-Level: 45
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Team
-- Calm Mind
-- Psychic
-- Future Sight
+Gallade (M)  
+Level: 54
+Ability: Sharpness  
+Tera Type: Psychic  
+- Leaf Blade  
+- Sacred Sword  
+- Psycho Cut  
+- X-Scissor  
+
+Gardevoir-Mega @ Gardevoirite  
+Level: 56
+Ability: Pixilate  
+Tera Type: Psychic  
+IVs: 0 Atk  
+- Night Shade  
+- Moonblast  
+- Psychic  
+- Aura Sphere  
 
 === TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
 Name: BRENDAN
@@ -12897,45 +12913,61 @@ Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Altaria
-Level: 47
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Aerial Ace
-- Safeguard
-- Dragon Breath
-- Dragon Dance
+Weavile @ Focus Sash  
+Level: 60
+Ability: Pressure  
+Tera Type: Dark  
+- Triple Axel  
+- Reversal  
+- Throat Chop  
+- Poison Jab  
 
-Delcatty
-Level: 46
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Sing
-- Assist
-- Charm
-- Feint Attack
+Empoleon  
+Level: 62
+Ability: Torrent  
+Tera Type: Water  
+IVs: 0 Atk  
+- Grass Knot  
+- Hydro Pump  
+- Blizzard  
+- Flash Cannon  
 
-Roselia
-Level: 47
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Magical Leaf
-- Leech Seed
-- Giga Drain
-- Toxic
+Torterra  
+Level: 62
+Ability: Shell Armor  
+Tera Type: Grass  
+- Earthquake  
+- Wood Hammer  
+- Superpower  
+- Stone Edge  
 
-Magneton
-Level: 44
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Supersonic
-- Thunderbolt
-- Tri Attack
-- Screech
+Infernape  
+Level: 62
+Ability: Iron Fist  
+Tera Type: Fire  
+- Close Combat  
+- Raging Fury  
+- Gunk Shot  
+- Earthquake  
 
-Gardevoir
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Team
-- Calm Mind
-- Psychic
-- Future Sight
+Gallade (M)  
+Level: 68
+Ability: Sharpness  
+Tera Type: Psychic  
+- Leaf Blade  
+- Sacred Sword  
+- Psycho Cut  
+- X-Scissor  
+
+Gardevoir-Mega @ Gardevoirite  
+Level: 70
+Ability: Pixilate  
+Tera Type: Psychic  
+IVs: 0 Atk  
+- Night Shade  
+- Moonblast  
+- Psychic  
+- Aura Sphere 
 
 === TRAINER_WALLY_VR_3 ===
 Name: WALLY
@@ -12947,45 +12979,61 @@ Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Altaria
-Level: 50
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Aerial Ace
-- Safeguard
-- Dragon Breath
-- Dragon Dance
+Weavile @ Focus Sash  
+Level: 64
+Ability: Pressure  
+Tera Type: Dark  
+- Triple Axel  
+- Reversal  
+- Throat Chop  
+- Poison Jab  
 
-Delcatty
-Level: 49
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Sing
-- Assist
-- Charm
-- Feint Attack
+Empoleon  
+Level: 66
+Ability: Torrent  
+Tera Type: Water  
+IVs: 0 Atk  
+- Grass Knot  
+- Hydro Pump  
+- Blizzard  
+- Flash Cannon  
 
-Roselia
-Level: 50
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Magical Leaf
-- Leech Seed
-- Giga Drain
-- Toxic
+Torterra  
+Level: 66
+Ability: Shell Armor  
+Tera Type: Grass  
+- Earthquake  
+- Wood Hammer  
+- Superpower  
+- Stone Edge  
 
-Magneton
-Level: 47
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Supersonic
-- Thunderbolt
-- Tri Attack
-- Screech
+Infernape  
+Level: 66
+Ability: Iron Fist  
+Tera Type: Fire  
+- Close Combat  
+- Raging Fury  
+- Gunk Shot  
+- Earthquake  
 
-Gardevoir
-Level: 51
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Team
-- Calm Mind
-- Psychic
-- Future Sight
+Gallade (M)  
+Level: 72
+Ability: Sharpness  
+Tera Type: Psychic  
+- Leaf Blade  
+- Sacred Sword  
+- Psycho Cut  
+- X-Scissor  
+
+Gardevoir-Mega @ Gardevoirite  
+Level: 74
+Ability: Pixilate  
+Tera Type: Psychic  
+IVs: 0 Atk  
+- Night Shade  
+- Moonblast  
+- Psychic  
+- Aura Sphere 
 
 === TRAINER_WALLY_VR_4 ===
 Name: WALLY
@@ -12997,45 +13045,61 @@ Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Altaria
-Level: 53
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Aerial Ace
-- Safeguard
-- Dragon Breath
-- Dragon Dance
+Weavile @ Focus Sash  
+Level: 68
+Ability: Pressure  
+Tera Type: Dark  
+- Triple Axel  
+- Reversal  
+- Throat Chop  
+- Poison Jab  
 
-Delcatty
-Level: 52
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Sing
-- Assist
-- Charm
-- Feint Attack
+Empoleon  
+Level: 70
+Ability: Torrent  
+Tera Type: Water  
+IVs: 0 Atk  
+- Grass Knot  
+- Hydro Pump  
+- Blizzard  
+- Flash Cannon  
 
-Roselia
-Level: 53
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Magical Leaf
-- Leech Seed
-- Giga Drain
-- Toxic
+Torterra  
+Level: 70
+Ability: Shell Armor  
+Tera Type: Grass  
+- Earthquake  
+- Wood Hammer  
+- Superpower  
+- Stone Edge  
 
-Magneton
-Level: 50
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Supersonic
-- Thunderbolt
-- Tri Attack
-- Screech
+Infernape  
+Level: 70
+Ability: Iron Fist  
+Tera Type: Fire  
+- Close Combat  
+- Raging Fury  
+- Gunk Shot  
+- Earthquake  
 
-Gardevoir
-Level: 54
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Team
-- Calm Mind
-- Psychic
-- Future Sight
+Gallade (M)  
+Level: 76
+Ability: Sharpness  
+Tera Type: Psychic  
+- Leaf Blade  
+- Sacred Sword  
+- Psycho Cut  
+- X-Scissor  
+
+Gardevoir-Mega @ Gardevoirite  
+Level: 78
+Ability: Pixilate  
+Tera Type: Psychic  
+IVs: 0 Atk  
+- Night Shade  
+- Moonblast  
+- Psychic  
+- Aura Sphere 
 
 === TRAINER_WALLY_VR_5 ===
 Name: WALLY
@@ -13047,45 +13111,62 @@ Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Altaria
-Level: 56
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Aerial Ace
-- Safeguard
-- Dragon Breath
-- Dragon Dance
 
-Delcatty
-Level: 55
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Sing
-- Assist
-- Charm
-- Feint Attack
+Weavile @ Focus Sash  
+Level: 78
+Ability: Pressure  
+Tera Type: Dark  
+- Triple Axel  
+- Reversal  
+- Throat Chop  
+- Poison Jab  
 
-Roselia
-Level: 56
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Magical Leaf
-- Leech Seed
-- Giga Drain
-- Toxic
+Empoleon  
+Level: 74
+Ability: Torrent  
+Tera Type: Water  
+IVs: 0 Atk  
+- Grass Knot  
+- Hydro Pump  
+- Blizzard  
+- Flash Cannon  
 
-Magneton
-Level: 53
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Supersonic
-- Thunderbolt
-- Tri Attack
-- Screech
+Torterra  
+Level: 74
+Ability: Shell Armor  
+Tera Type: Grass  
+- Earthquake  
+- Wood Hammer  
+- Superpower  
+- Stone Edge  
 
-Gardevoir
-Level: 57
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Team
-- Calm Mind
-- Psychic
-- Future Sight
+Infernape  
+Level: 74
+Ability: Iron Fist  
+Tera Type: Fire  
+- Close Combat  
+- Raging Fury  
+- Gunk Shot  
+- Earthquake  
+
+Gallade (M)  
+Level: 80
+Ability: Sharpness  
+Tera Type: Psychic  
+- Leaf Blade  
+- Sacred Sword  
+- Psycho Cut  
+- X-Scissor  
+
+Gardevoir-Mega @ Gardevoirite  
+Level: 82
+Ability: Pixilate  
+Tera Type: Psychic  
+IVs: 0 Atk  
+- Night Shade  
+- Moonblast  
+- Psychic  
+- Aura Sphere
 
 === TRAINER_BRENDAN_LILYCOVE_MUDKIP ===
 Name: BRENDAN
