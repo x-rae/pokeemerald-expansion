@@ -47,7 +47,7 @@ Optional fields for Pokemon:
     - EVs (252 HP / 128 Spe / 48 Def, defaults to all 0, is not capped at 512 total)
           (Order does not matter)
     - Ball (Poke Ball or ITEM_POKE_BALL, defaults to Poke Ball)
-    - Happiness (Number between 1 and 255)
+    - Happiness (Number between 1 and 2)
     - Nature (Rash or NATURE_RASH, defaults to Hardy)
     - Shiny (Yes/No, defaults to No)
     - Dynamax Level (Number between 0 and 10, default 10, also sets "shouldDynamax" to True)
@@ -622,7 +622,7 @@ Level: 62
 Sharpedo-Mega @ Sharpedonite  
 Ability: Strong Jaw  
 Level: 62   
-EVs: 280 Atk / 8 SpD / 284 Spe  
+EVs: 280 Atk / 8 SpD / 252 Spe  
 Jolly Nature  
 - Crunch  
 - Aqua Jet  
@@ -2476,7 +2476,7 @@ Luxray
 Ability: Intimidate
 Level: 36 
 Shiny: Yes   
-EVs: 284 HP / 284 Atk / 4 SpD  
+EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
 - Crunch  
 - Psychic Fangs  
@@ -3610,7 +3610,7 @@ Tauros-Paldea-Blaze @ Sitrus Berry
 Ability: Cud Chew  
 Level: 40  
 Shiny: Yes    
-EVs: 284 Def  
+EVs: 252 Def  
 - Scary Face  
 - Will-O-Wisp  
 - Flame Charge  
@@ -3642,7 +3642,7 @@ Tauros-Paldea-Blaze @ Sitrus Berry
 Ability: Cud Chew  
 Level: 44  
 Shiny: Yes    
-EVs: 284 Def  
+EVs: 252 Def  
 - Scary Face  
 - Will-O-Wisp  
 - Flame Charge  
@@ -3678,7 +3678,7 @@ Tauros-Paldea-Blaze @ Sitrus Berry
 Ability: Cud Chew  
 Level: 54  
 Shiny: Yes    
-EVs: 284 Def  
+EVs: 252 Def  
 - Bulk Up  
 - Will-O-Wisp  
 - Raging Bull  
@@ -5125,7 +5125,7 @@ Mugshot: Purple
 Glimmora @ Focus Sash  
 Ability: Toxic Debris  
 Level: 75  
-EVs: 284 HP / 4 Atk / 284 Spe  
+EVs: 252 HP / 4 Atk / 252 Spe  
 Naive Nature  
 - Stealth Rock  
 - Toxic Spikes  
@@ -5135,7 +5135,7 @@ Naive Nature
 Gengar @ Life Orb  
 Ability: Cursed Body    
 Level: 75
-EVs: 284 SpA / 4 SpD / 284 Spe  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Venoshock  
@@ -5147,7 +5147,7 @@ Pecharunt @ Shuca Berry
 Ability: Poison Puppeteer  
 Level: 75
 Tera Type: Poison  
-EVs: 284 HP / 284 SpA / 4 SpD  
+EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
 - Venoshock  
@@ -5159,7 +5159,7 @@ Iron Moth @ Booster Energy
 Ability: Quark Drive  
 Level: 75
 Shiny: Yes    
-EVs: 284 SpA / 4 SpD / 284 Spe  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Venoshock  
@@ -5170,7 +5170,7 @@ IVs: 0 Atk
 Wrath (Okidogi) @ Big Root  
 Level: 75
 Ability: Toxic Chain    
-EVs: 284 HP / 284 Atk / 4 SpD  
+EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
 - Gunk Shot  
 - Drain Punch  
@@ -5181,7 +5181,7 @@ Toxapex @ Black Sludge
 Ability: Regenerator  
 Level: 78
 Tera Type: Poison  
-EVs: 284 HP / 284 Atk / 4 SpD  
+EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
 - Flip Turn  
 - U-turn  
@@ -5202,7 +5202,7 @@ Mugshot: Pink
 Grimmsnarl @ Light Clay  
 Ability: Prankster    
 Level: 75
-EVs: 284 HP / 4 Atk / 284 SpD  
+EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Reflect  
 - Light Screen  
@@ -5213,7 +5213,7 @@ Mimikyu @ Custap Berry
 Ability: Disguise  
 Level: 75
 Shiny: Yes    
-EVs: 284 Atk / 4 SpD / 284 Spe  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Play Rough  
 - Phantom Force  
@@ -5223,7 +5223,7 @@ Jolly Nature
 Envy (Primarina) @ Leftovers  
 Ability: Torrent  
 Level: 75  
-EVs: 284 HP / 284 SpA / 4 SpD  
+EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
 - Chilling Water  
@@ -5234,7 +5234,7 @@ IVs: 0 Atk
 Tinkaton @ Choice Band  
 Ability: Mold Breaker    
 Level: 75
-EVs: 284 Atk / 4 SpD / 284 Spe  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Gigaton Hammer  
 - Ice Hammer  
@@ -5244,7 +5244,7 @@ Jolly Nature
 Togekiss @ Bright Powder  
 Ability: Serene Grace  
 Level: 75  
-EVs: 284 SpA / 4 SpD / 284 Spe  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Moonblast  
@@ -5256,7 +5256,7 @@ Iron Valiant @ Booster Energy
 Ability: Quark Drive
 Level: 75  
 Shiny: Yes   
-EVs: 284 SpA / 4 SpD / 284 Spe  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
 - Aura Sphere  
@@ -5278,7 +5278,7 @@ Mugshot: Green
 Gluttony (Hippowdon) @ Smooth Rock  
 Ability: Sand Stream  
 Level: 75    
-EVs: 284 HP / 284 Atk  
+EVs: 252 HP / 252 Atk  
 Adamant Nature  
 - Shore Up  
 - Earthquake  
@@ -5288,7 +5288,7 @@ Adamant Nature
 Gliscor @ Toxic Orb  
 Ability: Poison Heal    
 Level: 75
-EVs: 284 HP / 184 Def / 72 Spe  
+EVs: 252 HP / 184 Def / 72 Spe  
 Impish Nature  
 - Protect  
 - Earthquake  
@@ -5309,7 +5309,7 @@ IVs: 0 Atk
 Orthworm @ Leftovers  
 Ability: Earth Eater 
 Level: 75   
-EVs: 284 HP / 4 Def / 284 SpD  
+EVs: 252 HP / 4 Def / 252 SpD  
 Calm Nature  
 IVs: 0 Atk  
 - Shed Tail  
@@ -5331,7 +5331,7 @@ Sloth (Clodsire) @ Leftovers
 Ability: Water Absorb  
 Level: 78
 Tera Type: Ground  
-EVs: 284 HP / 4 Atk / 284 SpD  
+EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Rest  
 - Earthquake  
@@ -5354,7 +5354,7 @@ Mugshot: Blue
 Samurott-Hisui @ Focus Sash  
 Ability: Sharpness  
 Level: 75    
-EVs: 284 Atk / 4 SpD / 284 Spe  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Ceaseless Edge  
 - Razor Shell  
@@ -5364,7 +5364,7 @@ Jolly Nature
 Lokix @ Assault Vest  
 Ability: Tinted Lens  
 Level: 75    
-EVs: 284 Atk / 4 SpD / 284 Spe  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - First Impression  
 - Axe Kick  
@@ -5374,7 +5374,7 @@ Jolly Nature
 Drapion @ Air Balloon  
 Ability: Sniper  
 Level: 75    
-EVs: 284 Atk / 4 SpD / 284 Spe  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Stone Edge  
 - Cross Poison  
@@ -5385,7 +5385,7 @@ Yveltal @ Clear Amulet
 Ability: Dark Aura  
 Level: 78  
 Shiny: Yes    
-EVs: 284 HP / 284 SpA / 4 SpD  
+EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
 - Baddy Bad  
@@ -5408,7 +5408,7 @@ Kingambit @ Black Glasses
 Ability: Supreme Overlord  
 Level: 75  
 Tera Type: Fairy  
-EVs: 284 HP / 284 Atk / 4 SpA  
+EVs: 252 HP / 252 Atk / 4 SpA  
 Brave Nature  
 - Kowtow Cleave  
 - Tera Blast  
@@ -7024,7 +7024,7 @@ Mugshot: Yellow
 Skarmory @ Leftovers  
 Ability: Sturdy 
 Level: 80   
-EVs: 284 HP / 254 Def / 26 Spe  
+EVs: 252 HP / 252 Def / 26 Spe  
 Bold Nature  
 IVs: 0 Atk  
 - Stealth Rock  
@@ -7035,7 +7035,7 @@ IVs: 0 Atk
 Gholdengo @ Air Balloon  
 Ability: Good as Gold 
 Level: 80   
-EVs: 284 HP / 284 SpA / 4 SpD  
+EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
 - Make It Rain  
@@ -7046,7 +7046,7 @@ IVs: 0 Atk
 Empoleon @ Leftovers  
 Ability: Competitive 
 Level: 80   
-EVs: 284 HP / 284 SpA / 4 SpD  
+EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
 - Roost  
@@ -7057,7 +7057,7 @@ IVs: 0 Atk
 Metagross-Mega @ Metagrossite  
 Ability: Tough Claws    
 Level: 82
-EVs: 284 Atk / 4 SpD / 284 Spe  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Magnet Rise  
 - Explosion  
@@ -7067,7 +7067,7 @@ Jolly Nature
 Pride (Dialga) @ Choice Specs  
 Ability: Pressure    
 Level: 80
-EVs: 284 SpA / 4 SpD / 284 Spe  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Roar of Time  
@@ -7078,7 +7078,7 @@ IVs: 0 Atk
 Excadrill @ Air Balloon  
 Ability: Mold Breaker   
 Level: 80
-EVs: 284 Atk / 4 Def / 284 Spe  
+EVs: 252 Atk / 4 Def / 252 Spe  
 Adamant Nature  
 - Swords Dance  
 - Earthquake  
@@ -17831,7 +17831,7 @@ IVs: 0 Spe
 Gouging Fire @ Booster Energy  
 Ability: Protosynthesis  
 Level: 80    
-EVs: 284 Atk / 4 SpD / 284 Spe  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Burning Bulwark  
 - Raging Fury  
@@ -17841,7 +17841,7 @@ Adamant Nature
 Raging Bolt @ Booster Energy  
 Ability: Protosynthesis  
 Level: 80    
-EVs: 284 HP / 284 SpA / 4 SpD  
+EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 1 Atk  
 - Thunderclap  
@@ -17852,7 +17852,7 @@ IVs: 1 Atk
 Primarina @ Assault Vest  
 Ability: Liquid Voice    
 Level: 80
-EVs: 284 HP / 4 Atk / 284 SpA  
+EVs: 252 HP / 4 Atk / 252 SpA  
 Quiet Nature  
 - Aqua Jet  
 - Moonblast  
@@ -17862,7 +17862,7 @@ Quiet Nature
 Walking Wake @ Booster Energy  
 Ability: Protosynthesis  
 Level: 80    
-EVs: 284 SpA / 4 SpD / 284 Spe  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
 - Hydro Steam  
@@ -17875,7 +17875,7 @@ Ability: Pressure
 Level: 88  
 Shiny: Yes  
 Tera Type: Psychic  
-EVs: 284 SpA / 4 SpD / 284 Spe  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Aura Sphere  
