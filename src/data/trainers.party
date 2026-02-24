@@ -622,7 +622,7 @@ Level: 62
 Sharpedo-Mega @ Sharpedonite  
 Ability: Strong Jaw  
 Level: 62   
-EVs: 280 Atk / 8 SpD / 252 Spe  
+EVs: 252 Atk / 8 SpD / 252 Spe  
 Jolly Nature  
 - Crunch  
 - Aqua Jet  
@@ -5396,7 +5396,7 @@ IVs: 0 Atk
 Mandibuzz @ Leftovers  
 Ability: Overcoat  
 Level: 75    
-EVs: 280 HP / 266 Def / 16 Spe  
+EVs: 252 HP / 266 Def / 16 Spe  
 Bold Nature  
 IVs: 0 Atk  
 - Foul Play  
@@ -17775,7 +17775,7 @@ AI: Smart Trainer / HP Aware
 Gliscor @ Toxic Orb  
 Ability: Poison Heal  
 Level: 62    
-EVs: 8 HP / 280 Def / 280 SpD  
+EVs: 8 HP / 252 Def / 252 SpD  
 Careful Nature  
 - Baton Pass  
 - Tailwind  
@@ -17785,7 +17785,7 @@ Careful Nature
 Scizor @ Occa Berry  
 Ability: Technician  
 Level: 62  
-EVs: 8 HP / 280 Def / 280 SpD   
+EVs: 8 HP / 252 Def / 252 SpD   
 - Bullet Punch  
 - Bug Bite  
 - Roost  
@@ -17804,7 +17804,7 @@ Umbreon @ Leftovers
 Ability: Synchronize  
 Level: 64  
 Tera Type: Dark
-EVs: 8 HP / 280 Def / 280 SpD   
+EVs: 8 HP / 252 Def / 252 SpD   
 - Crunch  
 - Foul Play  
 - Facade  
