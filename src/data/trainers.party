@@ -428,7 +428,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Golbat
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MUSEUM_2 ===
@@ -445,11 +445,11 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Gible
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Porygon
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_1 ===
@@ -776,7 +776,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Butterfree
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Floette
@@ -793,15 +793,15 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Floette
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Carnivine
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Dolliv
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FELIX ===
@@ -1088,15 +1088,15 @@ AI: Smart Trainer / HP Aware
 
 Magnezone
 Level: 40
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Chatot
 Level: 40
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Exploud
 Level: 40
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_GABBY_AND_TY_4 ===
 Name: GABBY & TY
@@ -1295,11 +1295,11 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Poliwag
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Poliwhirl
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHARLIE ===
@@ -1753,15 +1753,15 @@ AI: Smart Trainer / HP Aware
 
 Manectric
 Level: 37
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 Wailmer
 Level: 37
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 Hariyama
 Level: 37
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_WARREN ===
 Name: WARREN
@@ -2106,15 +2106,15 @@ AI: Smart Trainer / HP Aware
 
 Pelipper
 Level: 36
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 Camerupt
 Level: 36
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 Roselia
 Level: 36
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_PATRICIA ===
 Name: PATRICIA
@@ -2362,7 +2362,7 @@ AI: Smart Trainer / HP Aware
 
 Seaking @ Nugget
 Level: 42
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_NAOMI ===
 Name: NAOMI
@@ -2570,7 +2570,7 @@ AI: Smart Trainer / HP Aware
 
 Azumarill
 Level: 42
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_OLIVIA ===
 Name: OLIVIA
@@ -3547,7 +3547,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Medicham
 Level: 38
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_NOB_1 ===
 Name: NOB
@@ -3760,7 +3760,7 @@ AI: Smart Trainer / HP Aware
 
 Leafeon @ Heat Rock  
 Ability: Chlorophyll  
-Level: 17  
+Level: 20  
 Shiny: Yes   
 - Sunny Day  
 - Razor Leaf  
@@ -3769,14 +3769,14 @@ Shiny: Yes
 
 Ivysaur  
 Ability: Chlorophyll  
-Level: 17    
+Level: 20    
 - Razor Leaf  
 - Knock Off  
 - Acid Spray  
 - Substitute 
 
 Loudred
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_7 ===
@@ -3824,7 +3824,7 @@ AI: Smart Trainer / HP Aware
 
 Phantump  
 Ability: Natural Cure  
-Level: 17    
+Level: 20    
 IVs: 0 Atk  
 - Pain Split  
 - Will-O-Wisp  
@@ -3833,14 +3833,14 @@ IVs: 0 Atk
 
 Tangela  
 Ability: Regenerator  
-Level: 17    
+Level: 20    
 - U-turn  
 - Magical Leaf  
 - Acid Spray  
 
 Lilligant-Hisui @ Focus Sash  
 Ability: Chlorophyll  
-Level: 18    
+Level: 21    
 - Stun Spore  
 - Metronome  
 - Acrobatics  
@@ -3877,7 +3877,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Magnemite
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Loudred
@@ -4466,20 +4466,20 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Dustox
-Level: 19
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Level: 22
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Beautifly
-Level: 19
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Level: 22
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Yanma
-Level: 19
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Level: 22
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Scyther
-Level: 19
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Level: 22
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_JEFFREY_2 ===
 Name: JEFFREY
@@ -4591,13 +4591,13 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Abra
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Hidden Power
 - Confusion
 
 Duosion
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_PRESTON ===
@@ -5288,7 +5288,7 @@ Adamant Nature
 Gliscor @ Toxic Orb  
 Ability: Poison Heal    
 Level: 75
-EVs: 252 HP / 184 Def / 72 Spe  
+EVs: 252 HP / 214 Def / 72 Spe  
 Impish Nature  
 - Protect  
 - Earthquake  
@@ -5337,8 +5337,6 @@ Careful Nature
 - Earthquake  
 - Sleep Talk  
 - Curse  
-
-  
 
 === TRAINER_DRAKE ===
 Name: SIDNEY
@@ -5478,7 +5476,7 @@ Level: 16
 - Growl
 
 Dolliv @ Sitrus Berry  
-Level: 17    
+Level: 20    
 - Leech Seed  
 - Mega Drain  
 - Swift  
@@ -5825,7 +5823,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Ralts
-Level: 17
+Level: 20
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_PAUL ===
@@ -6055,15 +6053,15 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Hitmonchan
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Hitmonlee
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Hitmontop
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANNA_AND_MEG_2 ===
@@ -6172,11 +6170,11 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Staravia @ Oran Berry
-Level: 18
+Level: 21
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Fletchinder @ Oran Berry
-Level: 18
+Level: 21
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_MIGUEL_1 ===
@@ -6358,11 +6356,11 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Zangoose @ Oran Berry
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Seviper @ Oran Berry
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISABEL_2 ===
@@ -6585,19 +6583,19 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Espeon
-Level: 18
+Level: 21
 IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 
 Umbreon
-Level: 18
+Level: 21
 IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 
 Leafeon
-Level: 18
+Level: 21
 IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 
 Glaceon
-Level: 18
+Level: 21
 IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 
 === TRAINER_SHELBY_1 ===
@@ -6785,7 +6783,7 @@ AI: Smart Trainer / HP Aware
 
 Weepinbell  
 Ability: Chlorophyll 
-Level: 17   
+Level: 20   
 IVs: 0 Atk  
 - Strength Sap  
 - Poison Powder  
@@ -6794,7 +6792,7 @@ IVs: 0 Atk
 
 Shroomish @ Toxic Orb  
 Ability: Poison Heal 
-Level: 17  
+Level: 20  
 IVs: 0 Atk  
 - Leech Seed  
 - Protect  
@@ -7007,7 +7005,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Electrike
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WALLACE ===
@@ -7099,7 +7097,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Vaporeon
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Gyarados
@@ -7204,19 +7202,19 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Tentacool
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Wailmer
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Chewtle
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Poliwhirl
-Level: 19
+Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NOLAN ===
@@ -7385,7 +7383,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Magikarp
-Level: 19
+Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Gyarados
@@ -7418,7 +7416,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Pachirisu
-Level: 18
+Level: 21
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 Morpeko
@@ -7439,7 +7437,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Galvantula
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Heliolisk
@@ -7542,7 +7540,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Luxio
-Level: 18
+Level: 21
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 Jolteon
@@ -7615,7 +7613,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Heliolisk
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DYLAN_2 ===
@@ -8084,15 +8082,15 @@ AI: Smart Trainer / HP Aware
 
 Altaria
 Level: 51
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 Altaria
 Level: 51
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 Shelgon @ Dragon Fang
 Level: 51
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_AARON ===
 Name: AARON
@@ -8236,11 +8234,11 @@ AI: Smart Trainer / HP Aware
 
 Ariados
 Level: 42
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Escavalier
 Level: 42
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_COLIN ===
 Name: COLIN
@@ -8399,11 +8397,11 @@ AI: Smart Trainer / HP Aware
 
 Natu
 Level: 33
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Swellow
 Level: 33
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_BECK ===
 Name: BECK
@@ -8809,11 +8807,11 @@ AI: Smart Trainer / HP Aware
 
 Medicham
 Level: 37
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 Hariyama
 Level: 37
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_MADELINE_1 ===
 Name: MADELINE
@@ -9610,11 +9608,11 @@ Double Battle: Yes
 AI: Smart Trainer / HP Aware
 
 Hitmonchan
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Hitmonlee
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AMY_AND_LIV_2 ===
@@ -10106,11 +10104,11 @@ AI: Smart Trainer / HP Aware
 
 Machoke
 Level: 33
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Spheal
 Level: 33
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_MARLEY ===
 Name: MARLEY
@@ -10187,15 +10185,15 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Wartortle
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Charmeleon
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Ivysaur
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HECTOR ===
@@ -10208,15 +10206,15 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Servine
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Combusken
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Prinplup
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TABITHA_MOSSDEEP ===
@@ -10404,7 +10402,7 @@ Level: 16
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Rhyhorn
-Level: 18
+Level: 21
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Quilladin
@@ -10467,7 +10465,7 @@ Level: 16
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Whirlipede
-Level: 18
+Level: 21
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Charmeleon
@@ -10530,7 +10528,7 @@ Level: 16
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Klang
-Level: 18
+Level: 21
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Dewott
@@ -10593,7 +10591,7 @@ Level: 16
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Rhyhorn
-Level: 18
+Level: 21
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Quilladin
@@ -10656,7 +10654,7 @@ Level: 16
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Whirlipede
-Level: 18
+Level: 21
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Charmeleon
@@ -10719,7 +10717,7 @@ Level: 16
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Klang
-Level: 18
+Level: 21
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Dewott
@@ -10761,27 +10759,27 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Venipede
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Nidorino
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Nidorina
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Venonat
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Beedrill
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Butterfree
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAVIS ===
@@ -11982,23 +11980,23 @@ AI: Smart Trainer / HP Aware
 
 Absol
 Level: 57
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Houndoom
 Level: 57
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Flygon
 Level: 60
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Crobat
 Level: 60
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Heatran @ Air Balloon
 Level: 62
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_MAXIE_MT_CHIMNEY ===
 Name: MAXIE
@@ -12012,19 +12010,19 @@ AI: Smart Trainer / HP Aware
 
 Drapion
 Level: 29
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Absol
 Level: 29
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Camerupt
 Level: 29
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Crobat
 Level: 30
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_TIANA ===
 Name: TIANA
@@ -12083,15 +12081,15 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Magmar
-Level: 18
+Level: 21
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Electabuzz
-Level: 18
+Level: 21
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Porygon2
-Level: 18
+Level: 21
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_HALEY_2 ===
@@ -12846,7 +12844,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Goldeen
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GERALD ===
@@ -12877,7 +12875,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Steenee (F) 
-Level: 17
+Level: 20
 Ability: Leaf Guard  
 Tera Type: Grass  
 - Grassy Glide  
@@ -12886,7 +12884,7 @@ Tera Type: Grass
 - Charm  
 
 Capsakid @ Charcoal 
-Level: 17 
+Level: 20 
 Ability: Chlorophyll  
 Tera Type: Grass  
 - Trailblaze  
@@ -12985,11 +12983,11 @@ AI: Smart Trainer / HP Aware
 
 Centiskorch
 Level: 42
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Golisopod
 Level: 42
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_ASHLEY ===
 Name: ASHLEY
@@ -13036,11 +13034,11 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Ponyta
-Level: 18
+Level: 21
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Seadra
-Level: 18
+Level: 21
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Kirlia
@@ -13409,7 +13407,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Samurott
 Level: 62
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_MAY_LILYCOVE_MUDKIP ===
 Name: MAY
@@ -14120,11 +14118,11 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Magmar @ Oran Berry
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Electabuzz @ Oran Berry
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSEPH ===
@@ -14137,11 +14135,11 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Loudred
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Jolteon
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALYSSA ===
@@ -14154,7 +14152,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Magnemite
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Whirlipede
@@ -14171,15 +14169,15 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Blitzle
-Level: 18
+Level: 21
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Ponyta
-Level: 18
+Level: 21
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Seadra
-Level: 18
+Level: 21
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
@@ -14236,11 +14234,11 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Comfey
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Lurantis
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HAYDEN ===
@@ -14253,11 +14251,11 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Larvesta
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Pignite
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SOPHIE ===
@@ -14385,11 +14383,11 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Aron
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Staravia
-Level: 17
+Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Blitzle
@@ -14678,15 +14676,15 @@ AI: Smart Trainer / HP Aware
 
 Flygon
 Level: 62
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Crobat
 Level: 62
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 Heatran @ Air Balloon
 Level: 64
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+IVs: 21 HP / 21 Atk / 21 Def / 21 SpA / 21 SpD / 21 Spe
 
 === TRAINER_PETE ===
 Name: PETE
@@ -15067,7 +15065,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Kirlia
-Level: 18
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Raichu-Alola
@@ -17003,7 +17001,7 @@ Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Swadloon  
-Level: 17
+Level: 20
 Ability: Overcoat    
 IVs: 0 Atk  
 - Magical Leaf  
@@ -17012,7 +17010,7 @@ IVs: 0 Atk
 - Iron Defense  
 
 Wormadam (F)  
-Level: 17
+Level: 20
 Ability: Overcoat    
 - Ingrain  
 - Protect  
@@ -17587,15 +17585,15 @@ AI: Smart Trainer / HP Aware
 
 Spinda
 Level: 43
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 Exploud
 Level: 43
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 Slaking
 Level: 43
-IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_FERNANDO_2 ===
 Name: FERNANDO
