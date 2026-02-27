@@ -1982,8 +1982,8 @@ static const struct LevelUpMove sGolemAlolaLevelUpLearnset[] = {
 static const struct LevelUpMove sPonytaLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_MOVE( 1, MOVE_GROWL),
-    LEVEL_UP_MOVE( 5, MOVE_TAIL_WHIP),
-    LEVEL_UP_MOVE(10, MOVE_EMBER),
+    LEVEL_UP_MOVE( 5, MOVE_EMBER),
+    LEVEL_UP_MOVE(10, MOVE_TAIL_WHIP),
     LEVEL_UP_MOVE(15, MOVE_FLAME_CHARGE),
     LEVEL_UP_MOVE(20, MOVE_AGILITY),
     LEVEL_UP_MOVE(25, MOVE_FLAME_WHEEL),
