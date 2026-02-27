@@ -5124,8 +5124,7 @@ Mugshot: Purple
 
 Glimmora @ Focus Sash  
 Ability: Toxic Debris  
-Level: 75  
-EVs: 252 HP / 4 Atk / 252 Spe  
+Level: 75    
 Naive Nature  
 - Stealth Rock  
 - Toxic Spikes  
@@ -5134,8 +5133,7 @@ Naive Nature
 
 Gengar @ Life Orb  
 Ability: Cursed Body    
-Level: 75
-EVs: 252 SpA / 4 SpD / 252 Spe  
+Level: 75  
 Timid Nature  
 IVs: 0 Atk  
 - Venoshock  
@@ -5146,8 +5144,7 @@ IVs: 0 Atk
 Pecharunt @ Shuca Berry  
 Ability: Poison Puppeteer  
 Level: 75
-Tera Type: Poison  
-EVs: 252 HP / 252 SpA / 4 SpD  
+Tera Type: Poison   
 Modest Nature  
 IVs: 0 Atk  
 - Venoshock  
@@ -5159,7 +5156,6 @@ Iron Moth @ Booster Energy
 Ability: Quark Drive  
 Level: 75
 Shiny: Yes    
-EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Venoshock  
@@ -5169,8 +5165,7 @@ IVs: 0 Atk
 
 Wrath (Okidogi) @ Big Root  
 Level: 75
-Ability: Toxic Chain    
-EVs: 252 HP / 252 Atk / 4 SpD  
+Ability: Toxic Chain      
 Adamant Nature  
 - Gunk Shot  
 - Drain Punch  
@@ -5180,8 +5175,7 @@ Adamant Nature
 Toxapex @ Black Sludge  
 Ability: Regenerator  
 Level: 78
-Tera Type: Poison  
-EVs: 252 HP / 252 Atk / 4 SpD  
+Tera Type: Poison    
 Adamant Nature  
 - Flip Turn  
 - U-turn  
@@ -5201,8 +5195,7 @@ Mugshot: Pink
 
 Grimmsnarl @ Light Clay  
 Ability: Prankster    
-Level: 75
-EVs: 252 HP / 4 Atk / 252 SpD  
+Level: 75 
 Careful Nature  
 - Reflect  
 - Light Screen  
@@ -5212,8 +5205,7 @@ Careful Nature
 Mimikyu @ Custap Berry  
 Ability: Disguise  
 Level: 75
-Shiny: Yes    
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Shiny: Yes      
 Jolly Nature  
 - Play Rough  
 - Phantom Force  
@@ -5222,8 +5214,7 @@ Jolly Nature
 
 Envy (Primarina) @ Leftovers  
 Ability: Torrent  
-Level: 75  
-EVs: 252 HP / 252 SpA / 4 SpD  
+Level: 75   
 Modest Nature  
 IVs: 0 Atk  
 - Chilling Water  
@@ -5233,8 +5224,7 @@ IVs: 0 Atk
 
 Tinkaton @ Choice Band  
 Ability: Mold Breaker    
-Level: 75
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Level: 75  
 Jolly Nature  
 - Gigaton Hammer  
 - Ice Hammer  
@@ -5243,8 +5233,7 @@ Jolly Nature
 
 Togekiss @ Bright Powder  
 Ability: Serene Grace  
-Level: 75  
-EVs: 252 SpA / 4 SpD / 252 Spe  
+Level: 75    
 Timid Nature  
 IVs: 0 Atk  
 - Moonblast  
@@ -5255,8 +5244,7 @@ IVs: 0 Atk
 Iron Valiant @ Booster Energy  
 Ability: Quark Drive
 Level: 75  
-Shiny: Yes   
-EVs: 252 SpA / 4 SpD / 252 Spe  
+Shiny: Yes     
 Modest Nature  
 IVs: 0 Atk  
 - Aura Sphere  
@@ -5277,8 +5265,7 @@ Mugshot: Green
 
 Gluttony (Hippowdon) @ Smooth Rock  
 Ability: Sand Stream  
-Level: 75    
-EVs: 252 HP / 252 Atk  
+Level: 75      
 Adamant Nature  
 - Shore Up  
 - Earthquake  
@@ -5287,8 +5274,7 @@ Adamant Nature
 
 Gliscor @ Toxic Orb  
 Ability: Poison Heal    
-Level: 75
-EVs: 252 HP / 214 Def / 72 Spe  
+Level: 75  
 Impish Nature  
 - Protect  
 - Earthquake  
@@ -5297,8 +5283,7 @@ Impish Nature
 
 Gastrodon (Gastrodon-East) @ Rindo Berry  
 Ability: Storm Drain  
-Level: 75  
-EVs: 236 HP / 214 Def / 80 SpD  
+Level: 75    
 Calm Nature  
 IVs: 0 Atk  
 - Earth Power  
@@ -5308,8 +5293,7 @@ IVs: 0 Atk
 
 Orthworm @ Leftovers  
 Ability: Earth Eater 
-Level: 75   
-EVs: 252 HP / 4 Def / 252 SpD  
+Level: 75     
 Calm Nature  
 IVs: 0 Atk  
 - Shed Tail  
@@ -5319,8 +5303,7 @@ IVs: 0 Atk
 
 Garchomp @ Leftovers  
 Ability: Sand Veil    
-Level: 75
-EVs: 196 HP / 104 Atk / 84 Def / 126 SpD  
+Level: 75  
 Careful Nature  
 - Sandstorm  
 - Sand Tomb  
@@ -5330,8 +5313,7 @@ Careful Nature
 Sloth (Clodsire) @ Leftovers  
 Ability: Water Absorb  
 Level: 78
-Tera Type: Ground  
-EVs: 252 HP / 4 Atk / 252 SpD  
+Tera Type: Ground    
 Careful Nature  
 - Rest  
 - Earthquake  
@@ -5351,8 +5333,7 @@ Mugshot: Blue
 
 Samurott-Hisui @ Focus Sash  
 Ability: Sharpness  
-Level: 75    
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Level: 75      
 Jolly Nature  
 - Ceaseless Edge  
 - Razor Shell  
@@ -5361,8 +5342,7 @@ Jolly Nature
 
 Lokix @ Assault Vest  
 Ability: Tinted Lens  
-Level: 75    
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Level: 75      
 Jolly Nature  
 - First Impression  
 - Axe Kick  
@@ -5371,8 +5351,7 @@ Jolly Nature
 
 Drapion @ Air Balloon  
 Ability: Sniper  
-Level: 75    
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Level: 75      
 Jolly Nature  
 - Stone Edge  
 - Cross Poison  
@@ -5382,8 +5361,7 @@ Jolly Nature
 Yveltal @ Clear Amulet  
 Ability: Dark Aura  
 Level: 78  
-Shiny: Yes    
-EVs: 252 HP / 252 SpA / 4 SpD  
+Shiny: Yes     
 Modest Nature  
 IVs: 0 Atk  
 - Baddy Bad  
@@ -5393,8 +5371,7 @@ IVs: 0 Atk
 
 Mandibuzz @ Leftovers  
 Ability: Overcoat  
-Level: 75    
-EVs: 252 HP / 252 Def / 16 Spe  
+Level: 75     
 Bold Nature  
 IVs: 0 Atk  
 - Foul Play  
@@ -5405,8 +5382,7 @@ IVs: 0 Atk
 Kingambit @ Black Glasses  
 Ability: Supreme Overlord  
 Level: 75  
-Tera Type: Fairy  
-EVs: 252 HP / 252 Atk / 4 SpA  
+Tera Type: Fairy    
 Brave Nature  
 - Kowtow Cleave  
 - Tera Blast  

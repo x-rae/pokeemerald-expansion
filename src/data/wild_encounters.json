@@ -10394,7 +10394,7 @@
           "land_mons": {
             "encounter_rate": 10,
             "mons": [
-                            {
+              {
                 "min_level": 30,
                 "max_level": 36,
                 "species": "SPECIES_ANNIHILAPE"
