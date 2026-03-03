@@ -2,8 +2,8 @@ ParlorRoom1_MapScripts::
 	.byte 0
 
 
-LittlerootTown_EventScript_ParlorRules::
-	msgbox LittlerootTown_Text_ParlorRules, MSGBOX_SIGN
+ParlorRoom1_EventScript_ParlorRules::
+	msgbox ParlorRoom1_Text_ParlorRules, MSGBOX_SIGN
 	end
 
 

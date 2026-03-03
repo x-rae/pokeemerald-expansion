@@ -52,7 +52,7 @@
       "y": 15,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
-      "script": "LittlerootTown_EventScript_ParlorRules"
+      "script": "ParlorRoom1_EventScript_ParlorRules"
     },
     {
       "type": "sign",
