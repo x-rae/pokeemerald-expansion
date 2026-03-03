@@ -221,6 +221,30 @@
       "elevation": 3,
       "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_MT_PYRE_SUMMIT_RARE_CANDY"
+    },
+    {
+      "type": "hidden_item",
+      "x": 37,
+      "y": 25,
+      "elevation": 3,
+      "item": "ITEM_LINKING_CORD",
+      "flag": "FLAG_HIDDEN_ITEM_MT_PYRE_SUMMIT_RARE_CANDY"
+    },
+    {
+      "type": "hidden_item",
+      "x": 33,
+      "y": 35,
+      "elevation": 3,
+      "item": "ITEM_LINKING_CORD",
+      "flag": "FLAG_HIDDEN_ITEM_MT_PYRE_SUMMIT_RARE_CANDY"
+    },
+    {
+      "type": "hidden_item",
+      "x": 12,
+      "y": 4,
+      "elevation": 3,
+      "item": "ITEM_RARE_CANDY",
+      "flag": "FLAG_HIDDEN_ITEM_MT_PYRE_SUMMIT_RARE_CANDY"
     }
   ]
 }
