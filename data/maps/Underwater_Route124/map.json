@@ -41,7 +41,7 @@
       "x": 14,
       "y": 40,
       "elevation": 0,
-      "item": "ITEM_GREEN_SHARD",
+      "item": "ITEM_DRAGON_SCALE",
       "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_GREEN_SHARD"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "type": "hidden_item",
-      "x": 42,
+      "x": 20,
       "y": 5,
       "elevation": 3,
       "item": "ITEM_CALCIUM",
@@ -83,6 +83,30 @@
       "elevation": 3,
       "item": "ITEM_HEART_SCALE",
       "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_HEART_SCALE_2"
+    },
+    {
+      "type": "hidden_item",
+      "x": 13,
+      "y": 28,
+      "elevation": 0,
+      "item": "ITEM_DRAGON_SCALE",
+      "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_GREEN_SHARD"
+    },
+    {
+      "type": "hidden_item",
+      "x": 56,
+      "y": 66,
+      "elevation": 0,
+      "item": "ITEM_DIVE_BALL",
+      "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_CARBOS"
+    },
+    {
+      "type": "hidden_item",
+      "x": 42,
+      "y": 5,
+      "elevation": 3,
+      "item": "ITEM_DIVE_BALL",
+      "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_CALCIUM"
     }
   ]
 }
