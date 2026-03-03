@@ -4430,6 +4430,16 @@
       "secondary_tileset": "gTileset_Pacifidlog",
       "border_filepath": "data/layouts/RustboroCity_Gym_2/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_Gym_2/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAUVILLE_CITY_GYM_2",
+      "name": "MauvilleCity_Gym_2_Layout",
+      "width": 10,
+      "height": 21,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/MauvilleCity_Gym_2/border.bin",
+      "blockdata_filepath": "data/layouts/MauvilleCity_Gym_2/map.bin"
     }
   ]
 }

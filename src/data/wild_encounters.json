@@ -4163,6 +4163,11 @@
                 "min_level": 55,
                 "max_level": 55,
                 "species": "SPECIES_CERULEDGE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
               }
             ]
           }
@@ -4173,7 +4178,7 @@
           "land_mons": {
             "encounter_rate": 10,
             "mons": [
-                            {
+              {
                 "min_level": 40,
                 "max_level": 45,
                 "species": "SPECIES_GASTLY"
@@ -4365,6 +4370,11 @@
                 "min_level": 55,
                 "max_level": 55,
                 "species": "SPECIES_CERULEDGE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
               }
             ]
           }
@@ -4429,6 +4439,11 @@
                 "min_level": 55,
                 "max_level": 55,
                 "species": "SPECIES_CERULEDGE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
               }
             ]
           }
@@ -4493,6 +4508,11 @@
                 "min_level": 55,
                 "max_level": 55,
                 "species": "SPECIES_CERULEDGE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
               }
             ]
           }
@@ -10374,7 +10394,7 @@
           "land_mons": {
             "encounter_rate": 10,
             "mons": [
-                            {
+              {
                 "min_level": 30,
                 "max_level": 36,
                 "species": "SPECIES_ANNIHILAPE"

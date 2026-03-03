@@ -3483,8 +3483,8 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_TAKAO ===
 Name: TAKAO
-Class: Black Belt
-Pic: Black Belt
+Class: Rich Boy
+Pic: Rich Boy
 Gender: Male
 Music: Intense
 Double Battle: No
@@ -5443,13 +5443,13 @@ Level: 15
 - Protect  
 - Rollout
 
-Cyclizar  
-Ability: Regenerator  
-Level: 16    
-- Shed Tail  
-- Quick Attack  
-- Mud Shot  
-- Growl
+Litleo  
+Ability: Rivalry  
+Level: 16  
+Tera Type: Fire  
+- Will-O-Wisp  
+- Flame Charge  
+- Headbutt
 
 Dolliv @ Sitrus Berry  
 Level: 20    
@@ -8646,8 +8646,8 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_JOCELYN ===
 Name: JOCELYN
-Class: Battle Girl
-Pic: Battle Girl
+Class: Lass
+Pic: Lass
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -11482,8 +11482,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_LILITH ===
 Name: LILITH
-Class: Pkmn Ranger
-Pic: Pokemon Ranger F
+Class: Expert
+Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -11499,8 +11499,8 @@ Level: 13
 
 === TRAINER_CRISTIAN ===
 Name: CRISTIAN
-Class: Pkmn Ranger
-Pic: Pokemon Ranger M
+Class: Pokefan
+Pic: Pokefan M
 Gender: Male
 Music: Intense
 Double Battle: No

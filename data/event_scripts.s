@@ -1167,3 +1167,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/ParlorRoom1/scripts.inc"
 
 	.include "data/maps/RustboroCity_Gym_2/scripts.inc"
+
+	.include "data/maps/MauvilleCity_Gym_2/scripts.inc"
