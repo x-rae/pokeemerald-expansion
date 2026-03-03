@@ -397,8 +397,8 @@ LavaridgeTown_Text_TownSign:
 
 LavaridgeTown_Text_GymSign:
 	.string "LAVARIDGE TOWN POKéMON GYM\n"
-	.string "LEADER: FLANNERY\l"
-	.string "“One with a fiery passion that burns!”$"
+	.string "LEADER: TATE&LIZA\l"
+	.string "“The mystic combination!”$"
 
 LavaridgeTown_Text_HerbShopSign:
 	.string "POKéMON HERB SHOP\n"
