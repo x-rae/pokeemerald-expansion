@@ -1165,3 +1165,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/scripts/apricorn_tree.inc"
 
 	.include "data/maps/ParlorRoom1/scripts.inc"
+
+	.include "data/maps/RustboroCity_Gym_2/scripts.inc"
