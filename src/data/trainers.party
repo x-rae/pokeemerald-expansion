@@ -6695,8 +6695,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSH ===
 Name: JOSH
-Class: Youngster
-Pic: Youngster
+Class: Tuber M
+Pic: Tuber M
 Gender: Male
 Music: Male
 Double Battle: No
@@ -6711,11 +6711,11 @@ EVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Headbutt
 
 === TRAINER_TOMMY ===
-Name: TOMMY
-Class: Youngster
-Pic: Youngster
-Gender: Male
-Music: Male
+Name: Blaire
+Class: Lass
+Pic: Lass
+Gender: Female
+Music: Female
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
@@ -11442,7 +11442,7 @@ Level: 28
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MARC ===
-Name: Mr. Beast
+Name: Marc
 Class: Tuber M
 Pic: Tuber M
 Gender: Male

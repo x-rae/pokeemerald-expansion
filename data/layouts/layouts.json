@@ -4424,7 +4424,7 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_GYM_2",
       "name": "RustboroCity_Gym_2_Layout",
-      "width": 11,
+      "width": 20,
       "height": 20,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Pacifidlog",
