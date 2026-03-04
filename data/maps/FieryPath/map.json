@@ -23,7 +23,7 @@
       "movement_range_x": 1,
       "movement_range_y": 1,
       "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_AUSPICIOUS_ARMOR",
+      "trainer_sight_or_berry_tree_id": "ITEM_TM_TOXIC",
       "script": "Common_EventScript_FindItem",
       "flag": "FLAG_ITEM_FIERY_PATH_TM_TOXIC"
     },
@@ -107,40 +107,14 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 2,
-      "y": 22,
+      "x": 7,
+      "y": 32,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
       "movement_range_x": 1,
       "movement_range_y": 1,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "ITEM_FIRE_STONE",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_FIERY_PATH_FIRE_STONE"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 12,
-      "y": 11,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 1,
-      "movement_range_y": 1,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_TM_TOXIC",
-      "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_FIERY_PATH_TM_TOXIC"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 7,
-      "y": 33,
-      "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
-      "movement_range_x": 1,
-      "movement_range_y": 1,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "ITEM_MALICIOUS_ARMOR",
       "script": "Common_EventScript_FindItem",
       "flag": "FLAG_ITEM_FIERY_PATH_FIRE_STONE"
     }
