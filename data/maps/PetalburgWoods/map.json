@@ -272,7 +272,7 @@
       "x": 26,
       "y": 6,
       "elevation": 3,
-      "item": "ITEM_TINY_MUSHROOM",
+      "item": "ITEM_BIG_NUGGET",
       "flag": "FLAG_HIDDEN_ITEM_PETALBURG_WOODS_TINY_MUSHROOM_1"
     },
     {
@@ -281,7 +281,7 @@
       "y": 29,
       "elevation": 3,
       "item": "ITEM_MOON_STONE",
-      "flag": "FLAG_MOON_STONE2_PBW"
+      "flag": "FLAG_HIDDEN_ITEM_MOON_STONE2_PBW"
     },
     {
       "type": "hidden_item",
@@ -305,7 +305,7 @@
       "y": 15,
       "elevation": 3,
       "item": "ITEM_MOON_STONE",
-      "flag": "FLAG_MOON_STONE1_PBW"
+      "flag": "FLAG_HIDDEN_ITEM_MOON_STONE1_PBW"
     },
     {
       "type": "hidden_item",

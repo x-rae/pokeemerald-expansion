@@ -632,7 +632,7 @@
       "y": 7,
       "elevation": 3,
       "item": "ITEM_FULL_HEAL",
-      "flag": "FLAG_104_HIDDEN_FULL_HEAL"
+      "flag": "FLAG_HIDDEN_ITEM_104_FULL_HEAL"
     },
     {
       "type": "hidden_item",
