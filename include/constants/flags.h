@@ -43,50 +43,50 @@
 #define TEMP_FLAGS_END   FLAG_TEMP_1F
 #define NUM_TEMP_FLAGS   (TEMP_FLAGS_END - TEMP_FLAGS_START + 1)
 
-#define FLAG_UNUSED_0x020    0x20 // Unused Flag
-#define FLAG_UNUSED_0x021    0x21 // Unused Flag
-#define FLAG_UNUSED_0x022    0x22 // Unused Flag
-#define FLAG_UNUSED_0x023    0x23 // Unused Flag
-#define FLAG_UNUSED_0x024    0x24 // Unused Flag
-#define FLAG_UNUSED_0x025    0x25 // Unused Flag
-#define FLAG_UNUSED_0x026    0x26 // Unused Flag
-#define FLAG_UNUSED_0x027    0x27 // Unused Flag
-#define FLAG_UNUSED_0x028    0x28 // Unused Flag
-#define FLAG_UNUSED_0x029    0x29 // Unused Flag
-#define FLAG_UNUSED_0x02A    0x2A // Unused Flag
-#define FLAG_UNUSED_0x02B    0x2B // Unused Flag
-#define FLAG_UNUSED_0x02C    0x2C // Unused Flag
-#define FLAG_UNUSED_0x02D    0x2D // Unused Flag
-#define FLAG_UNUSED_0x02E    0x2E // Unused Flag
-#define FLAG_UNUSED_0x02F    0x2F // Unused Flag
-#define FLAG_UNUSED_0x030    0x30 // Unused Flag
-#define FLAG_UNUSED_0x031    0x31 // Unused Flag
-#define FLAG_UNUSED_0x032    0x32 // Unused Flag
-#define FLAG_UNUSED_0x033    0x33 // Unused Flag
-#define FLAG_UNUSED_0x034    0x34 // Unused Flag
-#define FLAG_UNUSED_0x035    0x35 // Unused Flag
-#define FLAG_UNUSED_0x036    0x36 // Unused Flag
-#define FLAG_UNUSED_0x037    0x37 // Unused Flag
-#define FLAG_UNUSED_0x038    0x38 // Unused Flag
-#define FLAG_UNUSED_0x039    0x39 // Unused Flag
-#define FLAG_UNUSED_0x03A    0x3A // Unused Flag
-#define FLAG_UNUSED_0x03B    0x3B // Unused Flag
-#define FLAG_UNUSED_0x03C    0x3C // Unused Flag
-#define FLAG_UNUSED_0x03D    0x3D // Unused Flag
-#define FLAG_UNUSED_0x03E    0x3E // Unused Flag
-#define FLAG_UNUSED_0x03F    0x3F // Unused Flag
-#define FLAG_UNUSED_0x040    0x40 // Unused Flag
-#define FLAG_UNUSED_0x041    0x41 // Unused Flag
-#define FLAG_UNUSED_0x042    0x42 // Unused Flag
-#define FLAG_UNUSED_0x043    0x43 // Unused Flag
-#define FLAG_UNUSED_0x044    0x44 // Unused Flag
-#define FLAG_UNUSED_0x045    0x45 // Unused Flag
-#define FLAG_UNUSED_0x046    0x46 // Unused Flag
-#define FLAG_UNUSED_0x047    0x47 // Unused Flag
-#define FLAG_UNUSED_0x048    0x48 // Unused Flag
-#define FLAG_UNUSED_0x049    0x49 // Unused Flag
-#define FLAG_UNUSED_0x04A    0x4A // Unused Flag
-#define FLAG_UNUSED_0x04B    0x4B // Unused Flag
+#define FLAG_HERACRONITE    0x20 
+#define FLAG_CHARIZARDITE_X    0x21 
+#define FLAG_CHARIZARDITE_Y    0x22 
+#define FLAG_BEEDRILLITE    0x23 
+#define FLAG_GYARADOSITE    0x24 
+#define FLAG_SCOLIPITE    0x25 
+#define FLAG_STEELIXITE    0x26 
+#define FLAG_SCIZORITE    0x27 
+#define FLAG_PINSIRITE    0x28 /
+#define FLAG_TYRANITARITE    0x29 
+#define FLAG_GENGARITE    0x2A 
+#define FLAG_ABSOLITE    0x2B 
+#define FLAG_GARDEVOIRITE    0x2C 
+#define FLAG_GALLADITE    0x2D 
+#define FLAG_GARCHOMPITE    0x2E 
+#define FLAG_AGGRONITE    0x2F 
+#define FLAG_KANGASKHANITE    0x30 
+#define FLAG_DRAGONINITE    0x31 
+#define FLAG_SALAMENCITE    0x32 
+#define FLAG_101_GREAT_BALL    0x33 
+#define FLAG_101_SUPER_POTION    0x34 
+#define FLAG_SHINY_STONE1VR    0x35 
+#define FLAG_SHINY_STONE2_120    0x36 
+#define FLAG_DAWN_STONE1VR    0x37 
+#define FLAG_LINKING_CORD1_MTPY    0x38 
+#define FLAG_LINKING_CORD2    0x39 
+#define FLAG_METAL_COAT1_SAFZ    0x3A 
+#define FLAG_METAL_COAT2_SAFZ    0x3B 
+#define FLAG_MOON_STONE1_PBW    0x3C 
+#define FLAG_MOON_STONE2_PBW    0x3D 
+#define FLAG_MOON_STONE3_118    0x3E 
+#define FLAG_DUSK_STONE_MTPY    0x3F 
+#define FLAG_ELECTRIZER_NEWMAUV    0x40 
+#define FLAG_MAGMORTAIZER_JAGP    0x41 
+#define FLAG_DRAGON_SCALE_124    0x42 
+#define FLAG_SWEET_APPLE_119    0x43 
+#define FLAG_TART_APPLE_119    0x44 
+#define FLAG_PROTECTOR_JAGP    0x45 
+#define FLAG_UPGRADE_115    0x46 
+#define FLAG_DUBIOUS_DISC_115    0x47 
+#define FLAG_PRISM_SCALE_119    0x48 
+#define FLAG_AUSPICIOUS_ARMOR_FIREPATH    0x49 
+#define FLAG_MALICIOUS_ARMOR_FIREPATH    0x4A 
+#define FLAG_MASTERBALL1_JAGGEDP_HIDDEN    0x4B 
 #define FLAG_UNUSED_0x04C    0x4C // Unused Flag
 #define FLAG_UNUSED_0x04D    0x4D // Unused Flag
 #define FLAG_UNUSED_0x04E    0x4E // Unused Flag
