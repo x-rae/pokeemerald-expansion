@@ -594,7 +594,7 @@ Items: Super Potion
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
-Nidoking  
+Nidoking @ Focus Band
 Ability: Sheer Force  
 Level: 61    
 Serious Nature  
@@ -690,15 +690,15 @@ Music: Aqua
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
-Articuno
+Articuno @ Focus Band
 Level: 65
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Zapdos
+Zapdos @ Focus Band
 Level: 65
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Moltres
+Moltres @ Focus Band
 Level: 65
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -6801,7 +6801,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Will O Wisp
 - Toxic
 
-Decidueye
+Decidueye @ Focus Sash
 Level: 67
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -10206,11 +10206,11 @@ Tyranitar
 Level: 62
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
-Scovillain
+Scovillain @ Expert Belt
 Level: 62
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
-Volcanion
+Volcanion @ Safety Goggles
 Level: 64
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
@@ -11872,15 +11872,15 @@ Heatmor
 Level: 26
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Houndoom
+Houndoom @ Focus Band
 Level: 29
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Rhydon
+Rhydon @ King's Rock
 Level: 29
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Golbat
+Golbat @ Bright Powder
 Level: 30
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -14601,25 +14601,25 @@ Pic: Magma Admin
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Smart Trainer / HP Aware
+AI: Smart Trainer / HP Aware / Ace Pokemon
 
-Darmanitan
+Darmanitan @ Bright Powder
 Level: 54
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
-Scovillain
+Scovillain @ King's Rock
 Level: 54
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
-Scrafty
+Scrafty @ Expert Belt
 Level: 54
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
-Tyranitar
+Tyranitar @ Chople Berry
 Level: 54
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
-Volcanion
+Volcanion @ Safety Goggles
 Level: 58
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
