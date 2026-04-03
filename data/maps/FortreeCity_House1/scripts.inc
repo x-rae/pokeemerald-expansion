@@ -84,9 +84,9 @@ FortreeCity_House1_Text_YouWontTradeMe:
 	.string "Even after I bared my heart to you?$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
-	.string "I'm going to make VOLBEAT super\n"
+	.string "I'm going to make ABSOL super\n"
 	.string "strong from this moment on!\p"
-	.string "I hope you do the same with PLUSLE!$"
+	.string "I hope you do the same with DANTE!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers:
 	.string "Trading POKéMON with others…\p"
