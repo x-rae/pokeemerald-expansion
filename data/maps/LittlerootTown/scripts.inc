@@ -958,7 +958,7 @@ LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "Your father will be overjoyed.\p"
 	.string "The Escape Rope may be used\n"
 	.string "An infinite number of times, and\p"
-	.string "it can be found in your Key Items\p"
+	.string "it can be found in your Key Items\n"
 	.string "pocket of your bag!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
