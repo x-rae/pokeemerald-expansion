@@ -898,6 +898,8 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	message LittlerootTown_Text_SwitchShoesWithRunningShoes
 	waitfanfare
 	setflag FLAG_RECEIVED_RUNNING_SHOES
+	giveitem ITEM_ESCAPE_ROPE
+	goto_if_eq VAR_RESULT, 0, Common_EventScript_ShowBagIsFull
 	msgbox LittlerootTown_Text_ExplainRunningShoes, MSGBOX_DEFAULT
 	msgbox LittlerootTown_Text_ComeHomeIfAnythingHappens, MSGBOX_DEFAULT
 	closemessage
@@ -945,12 +947,12 @@ LittlerootTown_Text_ExplainRunningShoes:
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
-	.string "To think that you have your very own\n"
-	.string "POKéMON now…\l"
+	.string "The latest in Escape Rope\n"
+	.string "Technology has arrived!\l"
 	.string "Your father will be overjoyed.\p"
-	.string "…But please be careful.\n"
-	.string "If anything happens, you can come home.\p"
-	.string "Go on, go get them, honey!$"
+	.string "The Escape Rope may be used\n"
+	.string "An infinite number of times, and\p"
+	.string "it can be found in your Key Items pocket of your bag!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
 	.string "If you use a PC, you can store items\n"
