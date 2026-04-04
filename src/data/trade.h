@@ -1009,7 +1009,7 @@ static const struct InGameTrade sIngameTrades[] =
         .otId = 73996,
         .conditions = {5, 5, 30, 5, 5},
         .personality = 0x6F,
-        .heldItem = ITEM_UP_GRADE,
+        .heldItem = ITEM_DUBIOUS_DISC,
         .mailNum = 0,
         .otName = _("ROMAN"),
         .otGender = MALE,
@@ -1020,7 +1020,7 @@ static const struct InGameTrade sIngameTrades[] =
     {
         .nickname = _("SEASOR"),
         .species = SPECIES_HORSEA,
-        .ivs = {5, 4, 4, 4, 5, 4},
+        .ivs = {25, 25, 25, 25, 25, 25},
         .abilityNum = 0,
         .otId = 46285,
         .conditions = {5, 5, 5, 5, 30},
@@ -1036,7 +1036,7 @@ static const struct InGameTrade sIngameTrades[] =
     {
         .nickname = _("MEOWOW"),
         .species = SPECIES_MEOWTH,
-        .ivs = {4, 5, 4, 5, 4, 4},
+        .ivs = {25, 25, 25, 25, 25, 25},
         .abilityNum = 0,
         .otId = 91481,
         .conditions = {5, 5, 5, 30, 5},
