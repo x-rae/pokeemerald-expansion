@@ -899,9 +899,10 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	waitfanfare
 	setflag FLAG_RECEIVED_RUNNING_SHOES
 	msgbox LittlerootTown_Text_ExplainRunningShoes, MSGBOX_DEFAULT
+	delay 5
+	msgbox LittlerootTown_Text_TakeThisEscapeRope, MSGBOX_DEFAULT
 	giveitem ITEM_ESCAPE_ROPE
 	goto_if_eq VAR_RESULT, 0, Common_EventScript_ShowBagIsFull
-	delay 80
 	msgbox LittlerootTown_Text_ComeHomeIfAnythingHappens, MSGBOX_DEFAULT
 	closemessage
 	delay 30
@@ -936,6 +937,10 @@ LittlerootTown_Text_WearTheseRunningShoes:
 LittlerootTown_Text_SwitchShoesWithRunningShoes:
 	.string "{PLAYER} switched shoes with the\n"
 	.string "RUNNING SHOES.$"
+
+LittlerootTown_Text_TakeThisEscapeRope:
+	.string "Also take this Escape Rope,\n"
+	.string "lord knows when you'll need it.$"
 
 LittlerootTown_Text_ExplainRunningShoes:
 	.string "MOM: {PLAYER}, those shoes came with\n"
