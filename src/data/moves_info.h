@@ -6144,7 +6144,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             "Inflicts bad damage if used\n"
             "on a foe switching out."),
         .effect = EFFECT_PURSUIT,
-        .power = 40,
+        .power = 75,
         .type = TYPE_DARK,
         .accuracy = 100,
         .pp = 20,
