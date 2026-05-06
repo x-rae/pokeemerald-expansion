@@ -4491,9 +4491,9 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             .effect = EFFECT_RECOIL,
             .accuracy = 100,
             .pp = 10,
-            .argument = { .recoilPercentage = 50 },
+            .argument = { .recoilPercentage = 85 },
         #endif
-        .power = 50,
+        .power = 200,
         .type = TYPE_NORMAL,
         .target = MOVE_TARGET_SELECTED,
         .priority = 0,
