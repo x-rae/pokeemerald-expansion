@@ -1034,19 +1034,19 @@ static const struct InGameTrade sIngameTrades[] =
     },
     [INGAME_TRADE_MEOWTH] =
     {
-        .nickname = _("MEOWOW"),
-        .species = SPECIES_MEOWTH,
+        .nickname = _("Nessie"),
+        .species = SPECIES_LAPRAS,
         .ivs = {25, 25, 25, 25, 25, 25},
-        .abilityNum = 0,
+        .abilityNum = 1,
         .otId = 91481,
         .conditions = {5, 5, 5, 30, 5},
         .personality = 0x8B,
-        .heldItem = ITEM_RETRO_MAIL,
+        .heldItem = ITEM_ROCKY_HELMET,
         .mailNum = 2,
         .otName = _("ISIS"),
         .otGender = FEMALE,
         .sheen = 10,
-        .requestedSpecies = SPECIES_SKITTY
+        .requestedSpecies = SPECIES_DARMANITAN
     }
 };
 
