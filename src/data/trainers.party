@@ -5443,13 +5443,13 @@ Level: 15
 - Protect  
 - Rollout
 
-Cyclizar  
-Ability: Regenerator  
+Staravia 
+Ability: Intimidate  
 Level: 16    
-- Shed Tail  
+- Aerial Ace  
 - Quick Attack  
-- Mud Shot  
-- Growl
+- Double Team  
+- Endeavor
 
 Dolliv @ Sitrus Berry  
 Level: 20    
@@ -5760,7 +5760,7 @@ Level: 65
 
 Dhelmise  
 Ability: Steelworker  
-Level: 64    
+Level: 65    
 - Anchor Shot  
 - Power Whip  
 - Poltergeist  
@@ -5768,7 +5768,7 @@ Level: 64
 
 Gengar-Mega @ Gengarite  
 Ability: Shadow Tag  
-Level: 66  
+Level: 67  
 Tera Type: Ghost  
 IVs: 0 Atk  
 - Shadow Ball  
