@@ -83,10 +83,10 @@ Double Battle: No
 
 === TRAINER_SAWYER_1 ===
 Name: SAWYER
-Class: Hiker
-Pic: Hiker
+Class: Expert
+Pic: Red
 Gender: Male
-Music: Hiker
+Music: Rich
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
@@ -587,10 +587,10 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 === TRAINER_MATT ===
 Name: MATT
 Class: Aqua Admin
-Pic: Aqua Admin M
+Pic: Elite Four Drake
 Gender: Male
 Music: Aqua
-Items: Super Potion
+Items: Hyper Potion
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
@@ -5461,8 +5461,8 @@ Level: 20
 === TRAINER_WATTSON_1 ===
 Name: GARDENIA
 Class: Leader
-Pic: Leader Wattson
-Gender: Male
+Pic: Aroma Lady
+Gender: Female
 Music: Rich
 Items: Super Potion / Super Potion
 Double Battle: No
@@ -6757,15 +6757,6 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
-Weepinbell  
-Ability: Chlorophyll 
-Level: 20   
-IVs: 0 Atk  
-- Strength Sap  
-- Poison Powder  
-- Acid Spray  
-- Magical Leaf  
-
 Shroomish @ Toxic Orb  
 Ability: Poison Heal 
 Level: 20  
@@ -6774,6 +6765,15 @@ IVs: 0 Atk
 - Protect  
 - Stun Spore  
 - Charm  
+
+Weepinbell  
+Ability: Chlorophyll 
+Level: 20   
+IVs: 0 Atk  
+- Strength Sap  
+- Poison Powder  
+- Acid Spray  
+- Magical Leaf  
 
 === TRAINER_QUINCY ===
 Name: QUINCY
@@ -17657,10 +17657,10 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_SAWYER_2 ===
 Name: SAWYER
-Class: Hiker
-Pic: Hiker
+Class: Expert
+Pic: Red
 Gender: Male
-Music: Hiker
+Music: Elite Four
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
@@ -17694,10 +17694,10 @@ Tera Type: Dark
 
 === TRAINER_SAWYER_3 ===
 Name: SAWYER
-Class: Hiker
-Pic: Hiker
+Class: Expert
+Pic: Red
 Gender: Male
-Music: Hiker
+Music: Elite Four
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
@@ -17739,10 +17739,10 @@ Tera Type: Dark
 
 === TRAINER_SAWYER_4 ===
 Name: SAWYER
-Class: Hiker
-Pic: Hiker
+Class: Expert
+Pic: Red
 Gender: Male
-Music: Hiker
+Music: Elite Four
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
@@ -17786,10 +17786,10 @@ EVs: 8 HP / 252 Def / 252 SpD
 
 === TRAINER_SAWYER_5 ===
 Name: SAWYER
-Class: Hiker
-Pic: Hiker
+Class: Expert
+Pic: Red
 Gender: Male
-Music: Hiker
+Music: Elite Four
 Double Battle: No
 AI: Smart Trainer / HP Aware / Ace Pokemon
 
