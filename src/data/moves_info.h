@@ -671,9 +671,9 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             "Slams the foe with a long\n"
             "tail, vine, etc."),
         .effect = EFFECT_HIT,
-        .power = 80,
+        .power = 90,
         .type = TYPE_NORMAL,
-        .accuracy = 75,
+        .accuracy = 90,
         .pp = 20,
         .target = MOVE_TARGET_SELECTED,
         .priority = 0,
