@@ -285,15 +285,15 @@ DewfordTown_Gym_EventScript_GymStatue::
 DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
-	.string "DEWFORD's GYM LEADER BRAWLY commands\n"
-	.string "FIGHTING-type POKéMON.\p"
-	.string "Going against him with NORMAL-type\n"
-	.string "POKéMON is asking for trouble.\p"
-	.string "FIGHTING POKéMON will lay a serious\n"
-	.string "smack down on NORMAL POKéMON,\l"
-	.string "so be careful!\p"
-	.string "What's worse, the GYM is as dark as\n"
-	.string "the ocean floor.\p"
+	.string "DEWFORD's GYM LEADER NORMAN commands\n"
+	.string "NORMAL-type POKéMON.\p"
+	.string "Going against him with FIGHTING-type\n"
+	.string "POKéMON would be advisable.\p"
+	.string "Norman's Staravia is known to\n"
+	.string "use inhumane combat techniques,\l"
+	.string "Which is I suppose fitting...\p"
+	.string "One more thing! The GYM is as\n"
+	.string "dark as the ocean floor.\p"
 	.string "But it will get brighter after defeating\n"
 	.string "the TRAINERS in your way.\p"
 	.string "Hey, okay, go for it!$"
@@ -310,17 +310,17 @@ DewfordTown_Gym_Text_TakaoDefeat:
 	.string "Not enough power…$"
 
 DewfordTown_Gym_Text_TakaoPostBattle:
-	.string "Your skill overcame my strength!\n"
-	.string "Your technique is commendable!$"
+	.string "Your skill overcame my power and...\n"
+	.string "My linoone is not very good.$"
 
 DewfordTown_Gym_Text_JocelynIntro:
-	.string "There's no need for BRAWLY to be\n"
+	.string "There's no need for NORMAN to be\n"
 	.string "involved!\p"
-	.string "I'll crush you!$"
+	.string "I'll crush you myself!$"
 
 DewfordTown_Gym_Text_JocelynDefeat:
-	.string "But… How?\n"
-	.string "How could I lose so easily?$"
+	.string "Oh.......\n"
+	.string "Deer...$"
 
 DewfordTown_Gym_Text_JocelynPostBattle:
 	.string "I'm not going to waste this loss.\n"
@@ -330,7 +330,7 @@ DewfordTown_Gym_Text_JocelynPostBattle:
 	.string "CHAMPION!$"
 
 DewfordTown_Gym_Text_LauraIntro:
-	.string "Don't you dare brush me off!\n"
+	.string "My Delcatty will put you to sleep.\n"
 	.string "It's not my fault if you cry!$"
 
 DewfordTown_Gym_Text_LauraDefeat:
@@ -341,7 +341,7 @@ DewfordTown_Gym_Text_LauraPostBattle:
 	.string "I battle in the dark to make my heart\n"
 	.string "stronger.\p"
 	.string "But because it's so dark, I can never\n"
-	.string "see BRAWLY's face…$"
+	.string "see NORMAN's face…$"
 
 DewfordTown_Gym_Text_LilithIntro:
 	.string "Ufufu…\n"
@@ -357,15 +357,15 @@ DewfordTown_Gym_Text_LilithPostBattle:
 
 DewfordTown_Gym_Text_BrendenIntro:
 	.string "I'll show you the gumption of\n"
-	.string "a sailing man!$"
+	.string "a raging bull!$"
 
 DewfordTown_Gym_Text_BrendenDefeat:
 	.string "How'd this happen?\n"
 	.string "It's not like me to lose this way!$"
 
 DewfordTown_Gym_Text_BrendenPostBattle:
-	.string "Oh, aye! You're worthy of seeing\n"
-	.string "our GYM LEADER.$"
+	.string "Hmph, you must be worthy of\n"
+	.string "seeing our GYM LEADER.$"
 
 DewfordTown_Gym_Text_CristianIntro:
 	.string "If you mean to pass, it has to be\n"
@@ -380,27 +380,31 @@ DewfordTown_Gym_Text_CristianPostBattle:
 	.string "Go after that BADGE!$"
 
 DewfordTown_Gym_Text_BrawlyIntro:
-	.string "I'm BRAWLY!\n"
+	.string "I'm NORMAN!\n"
 	.string "DEWFORD's GYM LEADER!\p"
-	.string "I've been churned in the rough waves\n"
-	.string "of these parts, and I've grown tough\l"
-	.string "in the pitch-black cave!\p"
-	.string "So you wanted to challenge me?\n"
+	.string "And also YOUR DAD!\n"
+	.string "Nice to see you, you little scamp!\l"
+	.string "I've been watching the door, everyday\p"
+	.string "hoping that the next trainer that walked in\n"
+	.string "was you, Son.\p"
+	.string "But anyway, enough of the formalities...\n"
 	.string "Let me see what you're made of!$"
 
 DewfordTown_Gym_Text_BrawlyDefeat:
-	.string "Whoah, wow! You made a much bigger\n"
-	.string "splash than I expected!\p"
-	.string "You swamped me!\p"
-	.string "Okay, you've got me.\n"
-	.string "Take this GYM BADGE!$"
+	.string "That was such an overwhelming\n"
+	.string "experience, I might be brought\n"
+	.string "to tears.\p"
+	.string "Son, it is my honor exp to bestow upon\n"
+	.string "you, your very own NORMIE BADGE!\n"
+	.string "(Don't tell anyone but theres a\n"
+	.string "big box of them in the back)$"
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
-	.string "{PLAYER} received the KNUCKLE BADGE\n"
+	.string "{PLAYER} received the NORMIE BADGE\n"
 	.string "from BRAWLY.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
-	.string "The KNUCKLE BADGE makes all POKéMON\n"
+	.string "The NORMIE BADGE makes all POKéMON\n"
 	.string "up to Level 30, even those you get in\l"
 	.string "trades, obey without question.\p"
 	.string "And, you'll be able to use the HM move\n"
@@ -409,26 +413,26 @@ DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
 	.string "MACHINE, too.$"
 
 DewfordTown_Gym_Text_ExplainBulkUp:
-	.string "That TM08 contains BULK UP.\p"
-	.string "It's a move that raises both ATTACK\n"
-	.string "and DEFENSE stats.\p"
-	.string "… … … … … …$"
+	.string "That TM08 contains SLAM.\p"
+	.string "It's a move that does solid\n"
+	.string "neutral damage if used by\p"
+	.string "a normal type pokemon$"
 
 DewfordTown_Gym_Text_RegisteredBrawly:
-	.string "Registered GYM LEADER BRAWLY\n"
+	.string "Registered GYM LEADER NORMAN\n"
 	.string "in the POKéNAV.$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
 	.string "I can see your talent becoming a giant\n"
 	.string "wave to cause a storm of astonishment\l"
-	.string "among TRAINERS one day!$"
+	.string "among all NORMIES one day!$"
 
 DewfordTown_Gym_Text_GymStatue:
 	.string "DEWFORD TOWN POKéMON GYM$"
 
 DewfordTown_Gym_Text_GymStatueCertified:
 	.string "DEWFORD TOWN POKéMON GYM\p"
-	.string "BRAWLY'S CERTIFIED TRAINERS:\n"
+	.string "NORMAN'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 
 DewfordTown_Gym_Text_BrawlyPreRematch:
