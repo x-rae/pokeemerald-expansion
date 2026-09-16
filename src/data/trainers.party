@@ -5621,7 +5621,7 @@ AI: Smart Trainer / HP Aware / Risky
 
 Araquanid @ Focus Sash  
 Ability: Water Bubble  
-Level: 44  
+Level: 42  
 IVs: 0 Atk  
 - Sticky Web  
 - Scald  
@@ -5642,11 +5642,11 @@ Level: 44
 - Bullet Punch  
 - U-turn  
 - Aerial Ace  
-- Thief  
+- Double Team  
 
 Heracross  
 Ability: Guts  
-Level: 44  
+Level: 45  
 Shiny: Yes  
 - Swords Dance  
 - Megahorn  
@@ -12949,7 +12949,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Smokescreen
 
 === TRAINER_FLINT ===
-Name: FLINT
+Name: JAXON
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
