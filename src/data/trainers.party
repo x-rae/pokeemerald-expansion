@@ -102,7 +102,7 @@ Umbreon @ Leftovers
 Ability: Synchronize  
 Level: 36  
 Tera Type: Dark  
-- Crunch  
+- Baddy Bad 
 - Skull Bash
 - Wish  
 - Toxic
@@ -17685,7 +17685,7 @@ Ability: Synchronize
 Shiny: Yes
 Level: 46  
 Tera Type: Dark  
-- Bite  
+- Baddy Bad  
 - Pursuit  
 - Wish  
 - Toxic
@@ -17730,7 +17730,7 @@ Ability: Synchronize
 Shiny: Yes 
 Level: 54  
 Tera Type: Dark  
-- Bite  
+- Baddy Bad  
 - Pursuit  
 - Wish  
 - Toxic
@@ -17777,9 +17777,9 @@ Ability: Synchronize
 Level: 64  
 Tera Type: Dark
 EVs: 8 HP / 252 Def / 252 SpD   
-- Crunch  
+- Baddy Bad  
 - Foul Play  
-- Facade  
+- Wish  
 - Toxic
 
 === TRAINER_SAWYER_5 ===
