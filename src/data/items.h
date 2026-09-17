@@ -12379,7 +12379,7 @@ const struct Item gItemsInfo[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
 
-    [ITEM_TM_FLIP_TURN] =
+    [ITEM_TM_RETURN] =
     {
         .name = ITEM_NAME("TM39"),
         .price = 3000,
