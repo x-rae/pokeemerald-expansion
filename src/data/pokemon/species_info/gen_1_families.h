@@ -14349,7 +14349,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .levelUpLearnset = sRhyhornLevelUpLearnset,
         .teachableLearnset = sRhyhornTeachableLearnset,
         .eggMoveLearnset = sRhyhornEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 42, SPECIES_RHYDON}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 32, SPECIES_RHYDON}),
     },
 
     [SPECIES_RHYDON] =
@@ -16740,7 +16740,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .levelUpLearnset = sMagbyLevelUpLearnset,
         .teachableLearnset = sMagbyTeachableLearnset,
         .eggMoveLearnset = sMagbyEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_MAGMAR}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 24, SPECIES_MAGMAR}),
     },
 #endif //P_GEN_2_CROSS_EVOS
 

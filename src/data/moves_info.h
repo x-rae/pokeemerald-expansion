@@ -18078,7 +18078,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             "Snares the target in a snap\n"
             "trap for four to five turns."),
         .effect = EFFECT_HIT,
-        .power = 35,
+        .power = 90,
         .type = TYPE_GRASS,
         .accuracy = 100,
         .pp = 15,
