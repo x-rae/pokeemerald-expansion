@@ -5947,7 +5947,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .levelUpLearnset = sTeddiursaLevelUpLearnset,
         .teachableLearnset = sTeddiursaTeachableLearnset,
         .eggMoveLearnset = sTeddiursaEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_URSARING}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 25, SPECIES_URSARING}),
     },
 
     [SPECIES_URSARING] =
@@ -5958,7 +5958,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .baseSpeed     = 55,
         .baseSpAttack  = 75,
         .baseSpDefense = 75,
-        .types = MON_TYPES(TYPE_NORMAL),
+        .types = MON_TYPES(TYPE_NORMAL, TYPE_GROUND),
         .catchRate = 60,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 175 : 189,
         .evYield_Attack = 2,
