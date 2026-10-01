@@ -1278,10 +1278,10 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
 #if P_FAMILY_SHINX
     [SPECIES_SHINX] =
     {
-        .baseHP        = 45,
-        .baseAttack    = 65,
+        .baseHP        = 35,
+        .baseAttack    = 70,
         .baseDefense   = 34,
-        .baseSpeed     = 45,
+        .baseSpeed     = 50,
         .baseSpAttack  = 40,
         .baseSpDefense = 34,
         .types = MON_TYPES(TYPE_ELECTRIC),
@@ -1360,10 +1360,10 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
 
     [SPECIES_LUXIO] =
     {
-        .baseHP        = 60,
-        .baseAttack    = 85,
+        .baseHP        = 50,
+        .baseAttack    = 95,
         .baseDefense   = 49,
-        .baseSpeed     = 60,
+        .baseSpeed     = 70,
         .baseSpAttack  = 60,
         .baseSpDefense = 49,
         .types = MON_TYPES(TYPE_ELECTRIC),
@@ -1440,13 +1440,13 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
 
     [SPECIES_LUXRAY] =
     {
-        .baseHP        = 80,
-        .baseAttack    = 120,
-        .baseDefense   = 79,
-        .baseSpeed     = 70,
+        .baseHP        = 60,
+        .baseAttack    = 130,
+        .baseDefense   = 70,
+        .baseSpeed     = 110,
         .baseSpAttack  = 95,
-        .baseSpDefense = 79,
-        .types = MON_TYPES(TYPE_ELECTRIC),
+        .baseSpDefense = 80,
+        .types = MON_TYPES(TYPE_ELECTRIC, TYPE_DARK),
         .catchRate = 45,
     #if P_UPDATED_EXP_YIELDS >= GEN_8
         .expYield = 262,
@@ -1461,7 +1461,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .friendship = STANDARD_FRIENDSHIP,
         .growthRate = GROWTH_MEDIUM_SLOW,
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD),
-        .abilities = { ABILITY_RIVALRY, ABILITY_INTIMIDATE, ABILITY_GUTS },
+        .abilities = { ABILITY_STRONG_JAW, ABILITY_INTIMIDATE, ABILITY_GUTS },
         .bodyColor = BODY_COLOR_BLUE,
         .speciesName = _("Luxray"),
         .cryId = CRY_LUXRAY,
