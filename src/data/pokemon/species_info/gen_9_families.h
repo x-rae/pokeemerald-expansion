@@ -4363,11 +4363,11 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
     [SPECIES_CYCLIZAR] =
     {
         .baseHP        = 70,
-        .baseAttack    = 95,
-        .baseDefense   = 65,
-        .baseSpeed     = 121,
-        .baseSpAttack  = 85,
-        .baseSpDefense = 65,
+        .baseAttack    = 85,
+        .baseDefense   = 70,
+        .baseSpeed     = 135,
+        .baseSpAttack  = 75,
+        .baseSpDefense = 70,
         .types = MON_TYPES(TYPE_DRAGON, TYPE_NORMAL),
         .catchRate = 190,
         .expYield = 175,
