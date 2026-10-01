@@ -9264,8 +9264,8 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .baseAttack    = 40,
         .baseDefense   = 35,
         .baseSpeed     = 70,
-        .baseSpAttack  = P_UPDATED_STATS >= GEN_2 ? 50 : 100,
-        .baseSpDefense = 100,
+        .baseSpAttack  = P_UPDATED_STATS >= GEN_2 ? 60 : 100,
+        .baseSpDefense = 110,
         .types = MON_TYPES(TYPE_WATER, TYPE_POISON),
         .catchRate = 190,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 67 : 105,
@@ -9332,12 +9332,12 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 
     [SPECIES_TENTACRUEL] =
     {
-        .baseHP        = 80,
+        .baseHP        = 90,
         .baseAttack    = 70,
-        .baseDefense   = 65,
+        .baseDefense   = 70,
         .baseSpeed     = 100,
-        .baseSpAttack  = P_UPDATED_STATS >= GEN_2 ? 80 : 120,
-        .baseSpDefense = 120,
+        .baseSpAttack  = P_UPDATED_STATS >= GEN_2 ? 85 : 120,
+        .baseSpDefense = 130,
         .types = MON_TYPES(TYPE_WATER, TYPE_POISON),
         .catchRate = 60,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 180 : 205,
