@@ -7664,12 +7664,12 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
 #if P_FAMILY_STANTLER
     [SPECIES_STANTLER] =
     {
-        .baseHP        = 73,
-        .baseAttack    = 95,
-        .baseDefense   = 62,
+        .baseHP        = 85,
+        .baseAttack    = 105,
+        .baseDefense   = 70,
         .baseSpeed     = 85,
-        .baseSpAttack  = 85,
-        .baseSpDefense = 65,
+        .baseSpAttack  = 95,
+        .baseSpDefense = 75,
         .types = MON_TYPES(TYPE_NORMAL),
         .catchRate = 45,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 163 : 165,
@@ -7739,12 +7739,12 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
 #if P_GEN_8_CROSS_EVOS
     [SPECIES_WYRDEER] =
     {
-        .baseHP        = 103,
-        .baseAttack    = 105,
-        .baseDefense   = 72,
-        .baseSpeed     = 65,
+        .baseHP        = 120,
+        .baseAttack    = 120,
+        .baseDefense   = 85,
+        .baseSpeed     = 85,
         .baseSpAttack  = 105,
-        .baseSpDefense = 75,
+        .baseSpDefense = 85,
         .types = MON_TYPES(TYPE_NORMAL, TYPE_PSYCHIC),
         .catchRate = 45,
         .expYield = 263,
