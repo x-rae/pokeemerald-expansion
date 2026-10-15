@@ -7725,7 +7725,7 @@ static const struct LevelUpMove sPelipperLevelUpLearnset[] = {
     LEVEL_UP_MOVE(41, MOVE_MIST),
     LEVEL_UP_MOVE(48, MOVE_ROOST),
     LEVEL_UP_MOVE(55, MOVE_HURRICANE),
-    LEVEL_UP_MOVE(62, MOVE_HYDRO_PUMP),
+    LEVEL_UP_MOVE(65, MOVE_HYDRO_PUMP),
     LEVEL_UP_END
 };
 #endif //P_FAMILY_WINGULL
