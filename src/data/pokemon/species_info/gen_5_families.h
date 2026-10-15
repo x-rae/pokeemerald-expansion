@@ -11946,7 +11946,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
 #if P_FAMILY_HEATMOR
     [SPECIES_HEATMOR] =
     {
-        .baseHP        = 85,
+        .baseHP        = 120,
         .baseAttack    = 97,
         .baseDefense   = 66,
         .baseSpeed     = 65,
