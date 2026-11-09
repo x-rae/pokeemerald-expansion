@@ -16240,37 +16240,69 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Smart Trainer / HP Aware
 
-Chansey
-Level: 44
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Light Screen
-- Sing
-- Skill Swap
-- Focus Punch
+Zoroark-Hisui @ Choice Scarf  
+Ability: Illusion  
+Level: 90  
+Shiny: Yes   
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Bitter Malice  
+- Dark Pulse  
+- Flamethrower  
+- Hyper Voice  
 
-Slaking @ Sitrus Berry
-Level: 44
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Blizzard
-- Shadow Ball
-- Double Edge
-- Fire Blast
+Maushold-Four @ Wide Lens  
+Ability: Technician  
+Level: 90  
+EVs: 248 HP / 8 Atk / 252 Spe  
+Jolly Nature  
+- Population Bomb  
+- Encore  
+- Super Fang  
+- Thunder Wave  
 
-Spinda
-Level: 45
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Teeter Dance
-- Skill Swap
-- Facade
-- Hypnosis
+Porygon2 @ Eviolite  
+Ability: Trace  
+Level: 90   
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Psychic  
+- Conversion 2  
+- Charge Beam  
 
-Slaking @ Sitrus Berry
-Level: 47
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Hyper Beam
-- Flamethrower
-- Thunderbolt
-- Shadow Ball
+Ursaluna @ Flame Orb  
+Ability: Guts  
+Level: 90  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Headlong Rush  
+- Facade  
+- Crunch  
+- Bulk Up  
+
+Slaking @ Weakness Policy  
+Ability: Truant  
+Level: 90   
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Reversal  
+- Mega Kick  
+- Play Rough  
+- Sucker Punch  
+
+Blissey @ Leftovers  
+Ability: Serene Grace  
+Level: 90  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Thunderbolt  
+- Ice Beam  
+- Soft-Boiled  
 
 === TRAINER_NORMAN_3 ===
 Name: NORMAN
@@ -16437,48 +16469,73 @@ Pic: Leader Winona
 Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
+Double Battle: No
 AI: Smart Trainer / HP Aware / Risky
 
-Dratini @ Sitrus Berry
-Level: 42
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder Wave
-- Thunderbolt
-- Protect
-- Ice Beam
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+Level: 90    
+EVs: 160 HP / 92 Def / 252 SpD / 4 Spe  
+Careful Nature  
+- Detect  
+- Earthquake  
+- Knock Off  
+- U-turn  
 
-Tropius
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sunny Day
-- Aerial Ace
-- Solar Beam
-- Earthquake
+Corviknight @ Leftovers  
+Ability: Mirror Armor  
+Level: 90   
+EVs: 252 HP / 252 Def  
+Impish Nature  
+- Roost  
+- Iron Defense  
+- Body Press  
+- Sky Attack  
 
-Pelipper
-Level: 43
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Surf
-- Supersonic
-- Protect
-- Aerial Ace
+Drifblim @ Flame Orb  
+Ability: Flare Boost  
+Level: 90    
+EVs: 248 HP / 136 SpA / 124 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Will-O-Wisp  
+- Air Slash  
+- Destiny Bond  
 
-Skarmory
-Level: 45
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Whirlwind
-- Spikes
-- Steel Wing
-- Aerial Ace
+Gyarados @ Wacan Berry  
+Ability: Intimidate  
+Level: 90  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Crunch  
+- Bounce  
+- Dragon Dance  
 
-Altaria @ Chesto Berry
-Level: 47
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Rest
-- Dragon Dance
-- Earthquake
+Zapdos-Galar @ Kee Berry  
+Ability: Defiant  
+Level: 90    
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Thunderous Kick  
+- Acrobatics  
+- Bulk Up  
+- Trailblaze  
+
+Dragonite @ Dragoninite  
+Ability: Multiscale  
+Level: 90   
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Fire Blast  
+- Dragon Pulse  
+- Focus Blast  
+
+
 
 === TRAINER_WINONA_3 ===
 Name: WINONA
