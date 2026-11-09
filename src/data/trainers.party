@@ -15765,7 +15765,7 @@ Pic: Leader Wattson
 Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
+Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Zapdos @ Assault Vest  
@@ -15995,7 +15995,7 @@ Pic: Leader Flannery
 Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
+Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Torkoal @ Heat Rock  
@@ -16071,7 +16071,7 @@ Pic: Leader Flannery
 Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
+Double Battle: No
 AI: Smart Trainer / HP Aware
 
 Growlithe
