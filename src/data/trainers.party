@@ -15511,37 +15511,69 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Smart Trainer / HP Aware
 
-Machamp @ Sitrus Berry
-Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Karate Chop
-- Rock Slide
-- Focus Punch
-- Bulk Up
+Hitmontop @ Wide Lens  
+Ability: Technician  
+Level: 90    
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Triple Kick  
+- Triple Axel  
+- Baton Pass  
+- Agility  
 
-Meditite
-Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psychic
-- Light Screen
-- Reflect
-- Focus Punch
+Hitmonlee @ Focus Sash  
+Ability: Unburden  
+Level: 90   
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Blaze Kick  
+- Mega Kick  
+- Thunderous Kick  
+- Swagger  
 
-Hitmontop
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Pursuit
-- Counter
-- Protect
-- Triple Kick
+Hitmonchan @ Punching Glove  
+Ability: Iron Fist  
+Level: 90    
+EVs: 8 HP / 252 Atk / 248 Spe  
+Jolly Nature  
+- Bullet Punch  
+- Focus Punch  
+- Mach Punch  
+- Ice Punch  
 
-Hariyama @ Sitrus Berry
-Level: 39
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
-- Focus Punch
-- Belly Drum
-- Earthquake
+Machamp @ Assault Vest  
+Ability: No Guard  
+Level: 90  
+Tera Type: Fighting  
+EVs: 4 HP / 252 Atk / 252 SpD  
+Adamant Nature  
+- High Jump Kick  
+- Knock Off  
+- Stone Edge  
+- Bullet Punch  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+Level: 90   
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Head Smash  
+- Dual Wingbeat  
+- Earthquake  
+
+Steelix @ Steelixite  
+Ability: Sheer Force  
+Level: 90  
+Shiny: Yes   
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Harden  
+- Body Press  
+- Drill Run  
+- Heavy Slam  
+
+
 
 === TRAINER_BRAWLY_3 ===
 Name: BRAWLY
