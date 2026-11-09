@@ -16972,45 +16972,73 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Smart Trainer / HP Aware
 
-Poliwag
-Level: 49
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Hypnosis
-- Rain Dance
-- Protect
-- Hydro Pump
+Tatsugiri-Droopy @ Focus Sash  
+Ability: Commander  
+Level: 90  
+Shiny: Yes  
+Tera Type: Dragon  
+IVs: 0 Atk  
+- Draco Meteor  
+- Hydro Pump  
+- Taunt  
+- Rain Dance  
 
-Whiscash
-Level: 49
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rain Dance
-- Water Pulse
-- Double Team
-- Fissure
+Dondozo @ Leftovers  
+Ability: Unaware  
+Level: 90  
+Tera Type: Water  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Avalanche  
+- Body Press  
+- Order Up  
+- Liquidation  
 
-Walrein
-Level: 50
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Body Slam
-- Protect
-- Ice Beam
+Palafin @ Red Card  
+Ability: Zero to Hero  
+Level: 90  
+Tera Type: Water  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Jet Punch  
+- Drain Punch  
+- Bulk Up  
 
-Crawdaunt @ Chesto Berry
-Level: 50
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
-- Crabhammer
-- Taunt
-- Double Team
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+Level: 90  
+Tera Type: Water  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+- Hurricane  
+- Muddy Water  
+- U-turn  
+- Tailwind  
 
-Kingdra @ Chesto Berry
-Level: 53
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Double Team
-- Ice Beam
-- Rest
+Primarina @ Leftovers  
+Ability: Liquid Voice  
+Level: 90  
+Tera Type: Water  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+- Moonblast  
+- Flip Turn  
+- Hyper Voice  
+- Perish Song  
+
+Ogerpon-Wellspring @ Wellspring Mask  
+Ability: Water Absorb  
+Level: 90  
+Tera Type: Water  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Ivy Cudgel  
+- Swords Dance  
+- Horn Leech  
+- Knock Off  
+
+
 
 === TRAINER_JUAN_3 ===
 Name: JUAN
