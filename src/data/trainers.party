@@ -15311,37 +15311,70 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Smart Trainer / HP Aware
 
-Golem
-Level: 34
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Protect
-- Rollout
-- Magnitude
-- Explosion
+Glimmora @ Power Herb  
+Ability: Toxic Debris  
+Level: 90   
+EVs: 252 HP / 116 SpD / 140 Spe  
+IVs: 0 Atk  
+- Meteor Beam  
+- Stealth Rock  
+- Sludge Wave  
+- Toxic  
 
-Kabuto @ Sitrus Berry
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Swords Dance
-- Ice Beam
-- Surf
-- Rock Slide
+Lycanroc-Dusk @ Focus Sash  
+Ability: Tough Claws  
+Level: 90   
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Accelerock  
+- Close Combat  
+- Play Rough  
+- Drill Run  
 
-Onix
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Iron Tail
-- Explosion
-- Roar
-- Rock Slide
+Arcanine-Hisui @ Sitrus Berry  
+Ability: Rock Head  
+Level: 90   
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Head Smash  
+- Flare Blitz  
+- Extreme Speed  
+- Substitute  
 
-Nosepass @ Sitrus Berry
-Level: 39
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Double Team
-- Explosion
-- Protect
-- Rock Slide
+Ogerpon-Cornerstone @ Cornerstone Mask  
+Ability: Sturdy  
+Level: 90  
+Tera Type: Rock  
+EVs: 252 HP / 148 SpD / 108 Spe  
+Careful Nature  
+- Ivy Cudgel  
+- Horn Leech  
+- Play Rough  
+- Spiky Shield  
+
+Shuckle @ Leftovers  
+Ability: Sturdy  
+Level: 90  
+Shiny: Yes   
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Curse  
+- Body Press  
+- Protect  
+- Seismic Toss  
+
+Tyranitar @ Tyranitarite  
+Ability: Sand Stream  
+Level: 90    
+EVs: 252 HP / 84 Atk / 172 Spe  
+Adamant Nature  
+- Knock Off  
+- Stone Edge  
+- Rock Polish  
+- Earthquake  
+
+
 
 === TRAINER_ROXANNE_3 ===
 Name: ROXANNE
@@ -15735,37 +15768,67 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Smart Trainer / HP Aware
 
-Mareep
-Level: 38
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder
-- Protect
-- Thunder Wave
-- Light Screen
+Zapdos @ Assault Vest  
+Ability: Static   
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hurricane  
+- Volt Switch  
+- Heat Wave  
 
-Electrode
-Level: 38
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rollout
-- Thunder
-- Explosion
-- Rain Dance
+Raging Bolt @ Booster Energy  
+Ability: Protosynthesis  
+EVs: 252 HP / 4 Def / 96 SpA / 156 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Thunderclap  
+- Draco Meteor  
+- Volt Switch  
+- Thunder Wave  
 
-Magneton @ Sitrus Berry
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Supersonic
-- Protect
-- Thunder
-- Rain Dance
+Rotom-Wash @ Sitrus Berry  
+Ability: Levitate   
+EVs: 252 HP / 4 Def / 252 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Reflect  
+- Thunderbolt  
+- Will-O-Wisp  
 
-Manectric @ Sitrus Berry
-Level: 42
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bite
-- Thunder Wave
-- Thunder
-- Protect
+Electrode-Hisui @ Focus Sash  
+Ability: Soundproof  
+Shiny: Yes    
+EVs: 252 SpA / 252 Spe  
+Hasty Nature  
+- Chloroblast  
+- Explosion  
+- Electro Ball  
+- Volt Switch  
+
+Zeraora @ Air Balloon  
+Ability: Volt Absorb  
+Tera Type: Electric  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Plasma Fists  
+- Acrobatics  
+- Close Combat  
+- Substitute  
+
+Eelektross @ Kee Berry  
+Ability: Levitate    
+EVs: 4 HP / 252 Def / 252 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flamethrower  
+- Hex  
+- Toxic  
+
+
 
 === TRAINER_WATTSON_3 ===
 Name: WATTSON
@@ -15935,37 +15998,71 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Smart Trainer / HP Aware
 
-Magcargo @ White Herb
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Attract
-- Light Screen
-- Rock Slide
+Torkoal @ Heat Rock  
+Ability: Drought  
+Level: 90    
+EVs: 52 HP / 252 Def / 204 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Eruption  
+- Body Press  
+- Stealth Rock  
 
-Ponyta
-Level: 38
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Attract
-- Solar Beam
-- Bounce
+Cinderace @ Life Orb  
+Ability: Libero  
+Level: 90    
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Pyro Ball  
+- High Jump Kick  
+- Gunk Shot  
+- Bounce  
 
-Camerupt @ White Herb
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Earthquake
-- Attract
+Volcarona @ Assault Vest  
+Ability: Flame Body  
+Level: 90    
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Bug Buzz  
+- Fiery Dance  
+- Giga Drain  
+- Air Slash  
 
-Torkoal @ White Herb
-Level: 42
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Explosion
-- Attract
+Volcanion @ Choice Specs  
+Ability: Water Absorb  
+Level: 90    
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Steam Eruption  
+- Solar Beam  
+- Sludge Wave  
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 90   
+EVs: 252 HP / 252 Def  
+Adamant Nature  
+- Parting Shot  
+- Flare Blitz  
+- Darkest Lariat  
+- Fake Out  
+
+Blaziken @ Blazikenite  
+Ability: Speed Boost  
+Level: 90  
+Shiny: Yes    
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Blaze Kick  
+- Swords Dance  
+- Protect  
+- Close Combat  
+
+
 
 === TRAINER_FLANNERY_3 ===
 Name: FLANNERY
@@ -16567,45 +16664,72 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Smart Trainer / HP Aware
 
-Slowpoke
-Level: 50
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Yawn
-- Psychic
-- Calm Mind
-- Protect
+Tapu Lele @ Terrain Extender  
+Ability: Psychic Surge  
+Level: 90    
+EVs: 252 HP / 140 SpA / 116 SpD  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Toxic  
+- Ally Switch  
 
-Claydol
-Level: 51
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Ancient Power
-- Psychic
-- Light Screen
+Hatterene @ Clear Amulet  
+Ability: Magic Bounce  
+Level: 90    
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Expanding Force  
+- Calm Mind  
+- Dark Pulse  
+- Light Screen  
 
-Xatu @ Chesto Berry
-Level: 51
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psychic
-- Rest
-- Confuse Ray
-- Calm Mind
+Starmie @ Scope Lens  
+Ability: Natural Cure  
+Level: 90 
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Flip Turn  
+- Blizzard  
+- Scald  
+- Psychic  
 
-Lunatone @ Chesto Berry
-Level: 52
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Psychic
-- Rest
-- Calm Mind
+Alakazam @ Alakazite  
+Ability: Magic Guard  
+Level: 90  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Grass Knot  
+- Psychic  
+- Protect  
 
-Solrock @ Sitrus Berry
-Level: 52
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sunny Day
-- Solar Beam
-- Psychic
-- Flamethrower
+Medicham @ Focus Sash  
+Ability: Pure Power  
+Level: 90    
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Poison Jab  
+- Zen Headbutt  
+- Rock Slide  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+Level: 90  
+Shiny: Yes  
+Tera Type: Steel  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Impish Nature  
+- Meteor Mash  
+- Earthquake  
+- Psychic Fangs  
+- Protect  
+
+
 
 === TRAINER_TATE_AND_LIZA_3 ===
 Name: TATE&LIZA
