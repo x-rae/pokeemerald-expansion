@@ -826,28 +826,34 @@ MtChimney_Text_ShirleyPostBattle:
 	.string "Just joking!$"
 
 MtChimney_Text_SawyerIntro:
-	.string "This is one fine mountain! Plenty of\n"
-	.string "hot people around for company!$"
+	.string "Hello Grady. It's me, Sawyer. Time\n"
+	.string "to face some of my favorite POKéMON!$"
 
 MtChimney_Text_SawyerDefeat:
-	.string "Oh, you're a real firebrand, too!$"
-
+	.string "You bested me this time, \n"
+	.string "but take my number and battle me later$"
 MtChimney_Text_SawyerPostBattle:
-	.string "I think I need a dip in LAVARIDGE\n"
-	.string "HOT SPRING with the locals!$"
+	.string "You need 5 gym badges before being\n"
+	.string "able to rematch me, or anyone else.\l"
+	.string "You have to walk 255 step since you\n"
+	.string "battled me last, and then open your\l"
+	.string "POKéNAV while you're on this route\p"
+	.string "I'll have a different team every time,\n"
+	.string "all ramping up in difficulty...$"
 
 MtChimney_Text_SawyerRegister:
-	.string "I like little fireballs like you.\n"
+	.string "You can only rematch me if you say yes\n"
 	.string "Let me register you in my POKéNAV.$"
 
 MtChimney_Text_SawyerRematchIntro:
-	.string "I'm happily surrounded by hot people\n"
-	.string "around these parts. I won't lose!$"
+	.string "My team has gotten significantly\n"
+	.string "stronger since we last battled.$"
 
 MtChimney_Text_SawyerRematchDefeat:
-	.string "Gosh, you're still the same\n"
-	.string "firebrand as before!$"
+	.string "I was going easy on you, Gray.\n"
+	.string "I have more teams ready\l"
+	.string "whenever you want to face me.$"
 
 MtChimney_Text_SawyerPostRematch:
-	.string "Actually, it really is hot here.\n"
-	.string "I'm overdressed for these parts.$"
+	.string "I can't believe you beat me\n"
+	.string "with such mediocre POKéMON.$"

@@ -100,6 +100,7 @@ Level: 34
 
 Umbreon @ Leftovers  
 Ability: Synchronize  
+Shiny: Yes
 Level: 36  
 Tera Type: Dark  
 - Baddy Bad 
@@ -2441,7 +2442,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 === TRAINER_MELISSA ===
 Name: RAE
 Class: Rival
-Pic: Red
+Pic: Rich Boy
 Gender: Male
 Music: Rich
 Double Battle: No
@@ -17903,6 +17904,14 @@ Music: Elite Four
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+Level: 42    
+IVs: 0 Atk  
+- Protect  
+- Stealth Rock  
+- Swords Dance  
+- Baton Pass
 
 Scizor @ Occa Berry  
 Ability: Technician  
@@ -17926,6 +17935,8 @@ Ability: Synchronize
 Shiny: Yes
 Level: 46  
 Tera Type: Dark  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature
 - Baddy Bad  
 - Pursuit  
 - Wish  
@@ -17940,37 +17951,56 @@ Music: Elite Four
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
-Gliscor @ Toxic Orb  
-Ability: Poison Heal  
-Level: 52    
-IVs: 0 Atk  
-- Protect  
-- Stealth Rock  
+Heracross @ Flame Orb  
+Ability: Guts  
+Level: 52  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
 - Swords Dance  
-- Baton Pass
+- Substitute  
+- Megahorn  
+- Close Combat
 
-Scizor @ Occa Berry  
-Ability: Technician  
-Level: 52    
-- Bullet Punch  
-- Bug Bite  
-- Roost  
-- U-Turn
-
-Roserade @ Big Root  
-Ability: Natural Cure  
-Level: 52    
+Togekiss @ Assault Vest  
+Ability: Serene Grace  
+Level: 52  
+EVs: 252 HP / 4 Def / 248 SpA / 4 SpD  
+Modest Nature  
 IVs: 0 Atk  
-- Sludge Bomb  
-- Toxic Spikes  
-- Leech Seed  
-- Giga Drain
+- Moonblast  
+- Air Slash  
+- Mystical Fire  
+- Aura Sphere
+
+Goodra-Hisui @ Leftovers  
+Ability: Gooey  
+Level: 52  
+EVs: 252 HP / 160 Def / 96 SpD  
+Relaxed Nature  
+- Draco Meteor  
+- Heavy Slam  
+- Earthquake  
+- Fire Blast
+
+Froslass @ Life Orb  
+Ability: Snow Warning  
+Level: 52  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Aurora Veil  
+- Shadow Ball  
+- Destiny Bond
 
 Umbreon @ Leftovers  
 Ability: Synchronize 
 Shiny: Yes 
 Level: 54  
 Tera Type: Dark  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature
 - Baddy Bad  
 - Pursuit  
 - Wish  
@@ -17985,39 +18015,67 @@ Music: Elite Four
 Double Battle: No
 AI: Smart Trainer / HP Aware
 
-Gliscor @ Toxic Orb  
-Ability: Poison Heal  
-Level: 62    
-EVs: 8 HP / 252 Def / 252 SpD  
-Careful Nature  
-- Baton Pass  
-- Tailwind  
-- Swords Dance  
-- Earthquake
-
-Scizor @ Occa Berry  
-Ability: Technician  
+Galvantula @ Occa Berry  
+Ability: Compound Eyes  
 Level: 62  
-EVs: 8 HP / 252 Def / 252 SpD   
-- Bullet Punch  
-- Bug Bite  
-- Roost  
-- Close Combat
-
-Roserade @ Big Root  
-Ability: Natural Cure  
-Level: 62    
+Tera Type: Bug  
+EVs: 4 HP / 252 Def / 160 SpA / 92 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Sludge Bomb  
-- Toxic Spikes  
-- Leech Seed  
-- Giga Drain
+- Thunder  
+- Sticky Web  
+- Thunder Wave  
+- Infestation
+
+Chandelure @ Chandelurite 
+Ability: Flame Body  
+Level: 62  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Dark Pulse  
+- Shadow Ball  
+- Substitute
+
+Tinkaton @ Air Balloon  
+Ability: Pickpocket  
+Level: 62   
+EVs: 252 Atk / 104 Def / 152 SpD  
+Adamant Nature  
+- Gigaton Hammer  
+- Play Rough  
+- Stone Edge  
+- Reflect
+
+Iron Bundle @ Booster Energy  
+Ability: Quark Drive  
+Level: 62  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Freeze-Dry  
+- Blizzard  
+- Hydro Pump  
+- Hyper Beam
+
+Garchomp @ Loaded Dice  
+Ability: Rough Skin  
+Level: 62    
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Scale Shot  
+- Swords Dance  
+- Rock Slide
 
 Umbreon @ Leftovers  
 Ability: Synchronize  
+Shiny: Yes
 Level: 64  
 Tera Type: Dark
 EVs: 8 HP / 252 Def / 252 SpD   
+Bold Nature
 - Baddy Bad  
 - Foul Play  
 - Wish  
