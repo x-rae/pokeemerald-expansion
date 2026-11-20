@@ -733,8 +733,8 @@ PetalburgCity_Text_FullPartyExplanation:
 
 PetalburgCity_Text_GymSign:
 	.string "PETALBURG CITY POKéMON GYM\n"
-	.string "LEADER: NORMAN\l"
-	.string "“A man in pursuit of power!”$"
+	.string "LEADER: FLANNERY\l"
+	.string "“Her fiery spirit burns bright!”$"
 
 PetalburgCity_Text_CitySign:
 	.string "PETALBURG CITY\n"
